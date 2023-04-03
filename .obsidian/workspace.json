@@ -11,8 +11,12 @@
             "id": "2b9b4528b9494258",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Advent of Cyber/Day - 1 (Frameworks).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Advent of Cyber/Day - 1 (Frameworks).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Advent of Cyber/Day - 1 (Frameworks).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +124,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Advent of Cyber/Day - 1 (Frameworks).md"
+              }
+            }
+          },
+          {
+            "id": "94890cdbe17a5884",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,8 +154,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce7cbc096c348b06",
+  "active": "2b9b4528b9494258",
   "lastOpenFiles": [
+    "Advent of Cyber/Pics/Xmas.png",
+    "Advent of Cyber/Pics/RST for closed ports.png",
+    "Advent of Cyber/Pics/Pasted image 20221206153221.png",
+    "Advent of Cyber/Pics/NULL.png",
+    "Advent of Cyber/Pics/nmap_cheet_sheet_v7.pdf",
+    "Advent of Cyber/Pics/iptables-cmd.png",
+    "Advent of Cyber/Pics/FIN.png",
+    "Advent of Cyber/Pics/78095df3e60ffa72f618bf9e735c129b.png",
+    "Advent of Cyber/Pics/3way_wireshark.png",
+    "Advent of Cyber/Pics/3way_handshake.png",
+    "Advent of Cyber/Pics/3way_handshake 1.png",
+    "Advent of Cyber/Pics/2021-03-17 23_03_18-Nmap Room Tryhackme Walkthrough✔️ _ by Grumpyghost _ Medium — Mozilla Firefox.png",
+    "Advent of Cyber/AoCSmartContracts/EtherStore.sol",
+    "Advent of Cyber/AoCSmartContracts/Attack.sol",
+    "Advent of Cyber/Pics",
+    "Advent of Cyber/Nikto.md",
+    "Advent of Cyber/Nmap.md",
+    "Advent of Cyber/Day - 9 (Pivoting).md",
+    "Advent of Cyber/Day - 6 (Email Analysis).md",
+    "Advent of Cyber/Day - 5 (Brute Forcing).md",
+    "Advent of Cyber/Day - 4 (Scanning).md",
+    "Advent of Cyber/Day - 3 (OSINT).md",
+    "Advent of Cyber/Day - 2 (Log Analysis).md",
+    "Advent of Cyber/Day - 1 (Frameworks).md",
+    "Advent of Cyber/AoCSmartContracts.zip",
+    "Advent of Cyber/AoCSmartContracts",
+    "Advent of Cyber",
     "Untitled"
   ]
 }

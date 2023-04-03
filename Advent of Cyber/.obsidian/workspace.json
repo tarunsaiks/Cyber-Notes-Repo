@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "a05a31ea6fc9a020",
+    "type": "split",
+    "children": [
+      {
+        "id": "c35d4d9043193dd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc8b753eead3fd23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day - 1 (Frameworks).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6cada2bb727e64b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day - 2 (Log Analysis).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f474fbad281c01be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day - 3 (OSINT).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e81c6d717dbd7f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nmap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61dde169fe3ae40b",
+    "type": "split",
+    "children": [
+      {
+        "id": "330ac4d98750e208",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4afe8473f60efe0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1dd770dca243e53c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cb010d415270427a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d0288aa6f77e135f",
+    "type": "split",
+    "children": [
+      {
+        "id": "10bd8a1efac9eee5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "397d3024c6ca2b31",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Nmap.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c37faeb410d6bc75",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Nmap.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b0565b894611dca6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "332e902803f19690",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Nmap.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c4afe8473f60efe0",
+  "lastOpenFiles": [
+    "Nmap.md",
+    "Nikto.md",
+    "Day - 4 (Scanning).md",
+    "Pics/3way_wireshark.png.md",
+    "3way_wireshark.png",
+    "3way_handshake 1.png",
+    "2021-03-17 22_27_51-Kali Linux [Running] - Oracle VM VirtualBox.png",
+    "2021-03-17 23_01_19-Settings.png",
+    "2021-03-17 23_03_18-Nmap Room Tryhackme Walkthrough✔️ _ by Grumpyghost _ Medium — Mozilla Firefox.png",
+    "78095df3e60ffa72f618bf9e735c129b.png"
+  ]
+}
