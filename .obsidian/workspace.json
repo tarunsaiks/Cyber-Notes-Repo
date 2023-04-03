@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2827aee9dfbb277e",
+        "id": "21ab42d517446ed6",
         "type": "tabs",
         "children": [
           {
-            "id": "2b9b4528b9494258",
+            "id": "bac9871a6c2c9fc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advent of Cyber/Day - 1 (Frameworks).md",
+                "file": "NahamSec/1. HTTP Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advent of Cyber/Day - 1 (Frameworks).md",
+                "file": "NahamSec/1. HTTP Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advent of Cyber/Day - 1 (Frameworks).md",
+                "file": "NahamSec/1. HTTP Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advent of Cyber/Day - 1 (Frameworks).md"
+                "file": "NahamSec/1. HTTP Basics.md"
               }
             }
           },
@@ -154,8 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b9b4528b9494258",
+  "active": "bac9871a6c2c9fc8",
   "lastOpenFiles": [
+    "NahamSec/1. HTTP Basics.md",
+    "NahamSec",
     "Advent of Cyber/Pics/Xmas.png",
     "Advent of Cyber/Pics/RST for closed ports.png",
     "Advent of Cyber/Pics/Pasted image 20221206153221.png",
@@ -167,12 +169,12 @@
     "Advent of Cyber/Pics/3way_wireshark.png",
     "Advent of Cyber/Pics/3way_handshake.png",
     "Advent of Cyber/Pics/3way_handshake 1.png",
-    "Advent of Cyber/Pics/2021-03-17 23_03_18-Nmap Room Tryhackme Walkthrough✔️ _ by Grumpyghost _ Medium — Mozilla Firefox.png",
+    "Advent of Cyber/Pics",
     "Advent of Cyber/AoCSmartContracts/EtherStore.sol",
     "Advent of Cyber/AoCSmartContracts/Attack.sol",
-    "Advent of Cyber/Pics",
-    "Advent of Cyber/Nikto.md",
+    "Advent of Cyber/AoCSmartContracts",
     "Advent of Cyber/Nmap.md",
+    "Advent of Cyber/Nikto.md",
     "Advent of Cyber/Day - 9 (Pivoting).md",
     "Advent of Cyber/Day - 6 (Email Analysis).md",
     "Advent of Cyber/Day - 5 (Brute Forcing).md",
@@ -181,7 +183,6 @@
     "Advent of Cyber/Day - 2 (Log Analysis).md",
     "Advent of Cyber/Day - 1 (Frameworks).md",
     "Advent of Cyber/AoCSmartContracts.zip",
-    "Advent of Cyber/AoCSmartContracts",
     "Advent of Cyber",
     "Untitled"
   ]
