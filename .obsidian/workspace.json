@@ -138,11 +138,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,6 +157,14 @@
   },
   "active": "bac9871a6c2c9fc8",
   "lastOpenFiles": [
+    "eJPT/Penetration Testing pre-requisites/images/HTML Request.svg",
+    "eJPT/Penetration Testing pre-requisites/images/cookie-domain.png",
+    "eJPT/Penetration Testing pre-requisites/images",
+    "eJPT/Penetration Testing pre-requisites/Untitled.md",
+    "eJPT/Penetration Testing pre-requisites/HTTP Basics.md",
+    "eJPT/Penetration Testing pre-requisites",
+    "eJPT/INE Cyber Security - User Guide.pdf",
+    "eJPT",
     "NahamSec/1. HTTP Basics.md",
     "NahamSec",
     "Advent of Cyber/Pics/Xmas.png",
@@ -168,7 +177,6 @@
     "Advent of Cyber/Pics/78095df3e60ffa72f618bf9e735c129b.png",
     "Advent of Cyber/Pics/3way_wireshark.png",
     "Advent of Cyber/Pics/3way_handshake.png",
-    "Advent of Cyber/Pics/3way_handshake 1.png",
     "Advent of Cyber/Pics",
     "Advent of Cyber/AoCSmartContracts/EtherStore.sol",
     "Advent of Cyber/AoCSmartContracts/Attack.sol",
@@ -181,9 +189,6 @@
     "Advent of Cyber/Day - 4 (Scanning).md",
     "Advent of Cyber/Day - 3 (OSINT).md",
     "Advent of Cyber/Day - 2 (Log Analysis).md",
-    "Advent of Cyber/Day - 1 (Frameworks).md",
-    "Advent of Cyber/AoCSmartContracts.zip",
-    "Advent of Cyber",
-    "Untitled"
+    "Advent of Cyber/Day - 1 (Frameworks).md"
   ]
 }
