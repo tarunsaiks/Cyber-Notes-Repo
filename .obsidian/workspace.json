@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "99276aabc6c5a4e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NahamSec/2. Open Redirects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5,
-    "collapsed": true
+    "width": 201.5
   },
   "right": {
     "id": "0c692ad1b0912932",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NahamSec/1. HTTP Basics.md",
+                "file": "NahamSec/2. Open Redirects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NahamSec/1. HTTP Basics.md",
+                "file": "NahamSec/2. Open Redirects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NahamSec/1. HTTP Basics.md"
+                "file": "NahamSec/2. Open Redirects.md"
               }
             }
           },
@@ -156,8 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bac9871a6c2c9fc8",
+  "active": "99276aabc6c5a4e6",
   "lastOpenFiles": [
+    "NahamSec/1. HTTP Basics.md",
+    "NahamSec/2. Open Redirects.md",
     "eJPT/Penetration Testing pre-requisites/images/HTML Request.svg",
     "eJPT/Penetration Testing pre-requisites/images/cookie-domain.png",
     "eJPT/Penetration Testing pre-requisites/images",
@@ -166,7 +180,6 @@
     "eJPT/Penetration Testing pre-requisites",
     "eJPT/INE Cyber Security - User Guide.pdf",
     "eJPT",
-    "NahamSec/1. HTTP Basics.md",
     "NahamSec",
     "Advent of Cyber/Pics/Xmas.png",
     "Advent of Cyber/Pics/RST for closed ports.png",
@@ -177,7 +190,6 @@
     "Advent of Cyber/Pics/FIN.png",
     "Advent of Cyber/Pics/78095df3e60ffa72f618bf9e735c129b.png",
     "Advent of Cyber/Pics/3way_wireshark.png",
-    "Advent of Cyber/Pics/3way_handshake.png",
     "Advent of Cyber/Pics",
     "Advent of Cyber/AoCSmartContracts/EtherStore.sol",
     "Advent of Cyber/AoCSmartContracts/Attack.sol",
