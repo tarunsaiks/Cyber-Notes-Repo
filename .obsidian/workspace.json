@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NahamSec/2. Open Redirects.md",
+                "file": "Spin The Hack/RED Team Training/Day - 5 - Port Scan with NMAP.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NahamSec/2. Open Redirects.md",
+                "file": "Spin The Hack/RED Team Training/Day - 5 - Port Scan with NMAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NahamSec/2. Open Redirects.md",
+                "file": "Spin The Hack/RED Team Training/Day - 5 - Port Scan with NMAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NahamSec/2. Open Redirects.md"
+                "file": "Spin The Hack/RED Team Training/Day - 5 - Port Scan with NMAP.md"
               }
             }
           },
@@ -170,8 +170,17 @@
   },
   "active": "99276aabc6c5a4e6",
   "lastOpenFiles": [
-    "NahamSec/1. HTTP Basics.md",
+    "Spin The Hack/RED Team Training/Syllabus.md",
+    "Spin The Hack/RED Team Training/Day - 5 - Port Scan with NMAP.md",
+    "Spin The Hack/RED Team Training/ping.md",
+    "Spin The Hack/RED Team Training/Day - 4 - Additional Host Discovery Methods.md",
+    "Spin The Hack/RED Team Training/Day - 3 - ICMP Scanning using Nmap.md",
+    "Spin The Hack/RED Team Training/Day - 2 - Setting up Methodology.md",
+    "Spin The Hack/RED Team Training/Day - 1 - Introduction to INPT Workflows.md",
     "NahamSec/2. Open Redirects.md",
+    "Spin The Hack/RED Team Training",
+    "Spin The Hack",
+    "NahamSec/1. HTTP Basics.md",
     "eJPT/Penetration Testing pre-requisites/images/HTML Request.svg",
     "eJPT/Penetration Testing pre-requisites/images/cookie-domain.png",
     "eJPT/Penetration Testing pre-requisites/images",
@@ -192,8 +201,6 @@
     "Advent of Cyber/Pics/3way_wireshark.png",
     "Advent of Cyber/Pics",
     "Advent of Cyber/AoCSmartContracts/EtherStore.sol",
-    "Advent of Cyber/AoCSmartContracts/Attack.sol",
-    "Advent of Cyber/AoCSmartContracts",
     "Advent of Cyber/Nmap.md",
     "Advent of Cyber/Nikto.md",
     "Advent of Cyber/Day - 9 (Pivoting).md",
