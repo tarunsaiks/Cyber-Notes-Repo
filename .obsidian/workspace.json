@@ -4,28 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "21ab42d517446ed6",
+        "id": "c723216cb8969d69",
         "type": "tabs",
         "children": [
           {
-            "id": "bac9871a6c2c9fc8",
+            "id": "3999f5b7844fc9cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NahamSec/1. HTTP Basics.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "99276aabc6c5a4e6",
+            "id": "120eac895a6d865c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spin The Hack/RED Team Training/Day - 5 - Port Scan with NMAP.md",
+                "file": "Bug Bounty/OWASP Top 10 Web Application Risks.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 201.5,
+    "collapsed": true
   },
   "right": {
     "id": "0c692ad1b0912932",
@@ -98,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spin The Hack/RED Team Training/Day - 5 - Port Scan with NMAP.md",
+                "file": "Bug Bounty/OWASP Top 10 Web Application Risks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spin The Hack/RED Team Training/Day - 5 - Port Scan with NMAP.md",
+                "file": "Bug Bounty/OWASP Top 10 Web Application Risks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spin The Hack/RED Team Training/Day - 5 - Port Scan with NMAP.md"
+                "file": "Bug Bounty/OWASP Top 10 Web Application Risks.md"
               }
             }
           },
@@ -168,10 +165,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99276aabc6c5a4e6",
+  "active": "120eac895a6d865c",
   "lastOpenFiles": [
-    "Spin The Hack/RED Team Training/Syllabus.md",
+    "Bug Bounty/OWASP Top 10 Web Application Risks.md",
+    "NahamSec/1. HTTP Basics.md",
     "Spin The Hack/RED Team Training/Day - 5 - Port Scan with NMAP.md",
+    "Bug Bounty",
+    "Spin The Hack/RED Team Training/Syllabus.md",
     "Spin The Hack/RED Team Training/ping.md",
     "Spin The Hack/RED Team Training/Day - 4 - Additional Host Discovery Methods.md",
     "Spin The Hack/RED Team Training/Day - 3 - ICMP Scanning using Nmap.md",
@@ -180,7 +180,6 @@
     "NahamSec/2. Open Redirects.md",
     "Spin The Hack/RED Team Training",
     "Spin The Hack",
-    "NahamSec/1. HTTP Basics.md",
     "eJPT/Penetration Testing pre-requisites/images/HTML Request.svg",
     "eJPT/Penetration Testing pre-requisites/images/cookie-domain.png",
     "eJPT/Penetration Testing pre-requisites/images",
@@ -200,7 +199,6 @@
     "Advent of Cyber/Pics/78095df3e60ffa72f618bf9e735c129b.png",
     "Advent of Cyber/Pics/3way_wireshark.png",
     "Advent of Cyber/Pics",
-    "Advent of Cyber/AoCSmartContracts/EtherStore.sol",
     "Advent of Cyber/Nmap.md",
     "Advent of Cyber/Nikto.md",
     "Advent of Cyber/Day - 9 (Pivoting).md",
