@@ -1,4 +1,4 @@
-# Broken Access Control 
+Broken Access Control OWASP reference [link](https://owasp.org/Top10/A01_2021-Broken_Access_Control/)
 
 ## Access Control
 
@@ -13,7 +13,7 @@ There are three main types of attacks against access controls, corresponding to 
 + **Horizontal privilege escalation** occurs when a user can view, modify resources to which he is not entitled. 
 	+ `https://www.example.com/login/tarun` is a legit user's dashboard, if Tarun can get access to sai's dashboard `https://www.example.com/login/sai` and can modify data which is entitled to sai alone, then its is horizontal privilege escalation.
 + **Business logic exploitation** occurs when a user can exploit a flaw in application's state machine to gain access to a key resource.
-
+- Ref: The Web Application Hacker's Handbook
 -------------------------
 According to OWASP blog, Common access control vulnerabilities include:
 
@@ -23,5 +23,21 @@ According to OWASP blog, Common access control vulnerabilities include:
 -   Accessing API with missing access controls for POST, PUT and DELETE.
 -   Elevation of privilege. Acting as a user without being logged in or acting as an admin when logged in as a user.
 -   Metadata manipulation, such as replaying or tampering with a JSON Web Token (JWT) access control token, or a cookie or hidden field manipulated to elevate privileges or abusing JWT invalidation.
--   CORS misconfiguration allows API access from unauthorized/untrusted origins.
+-   Cross Origin Resource Sharing #CORS misconfiguration allows API access from unauthorized/untrusted origins.
 -   Force browsing to authenticated pages as an unauthenticated user or to privileged pages as a standard user.
+
+## Example Attack Scenarios
+
+**Scenario #1:** The application uses unverified data in a SQL call that is accessing account information:
+
+ `pstmt.setString(1, request.getParameter("acct"));  ResultSet results = pstmt.executeQuery( );`
+
+An attacker simply modifies the browser's 'acct' parameter to send whatever account number they want. If not correctly verified, the attacker can access any user's account.
+
+ `https://example.com/app/accountInfo?acct=notmyacct`
+
+**Scenario #2:** An attacker simply forces browses to target URLs. Admin rights are required for access to the admin page.
+
+ `https://example.com/app/getappInfo  https://example.com/app/admin_getappInfo`
+
+If an unauthenticated user can access either page, it's a flaw. If a non-admin can access the admin page, this is a flaw.
