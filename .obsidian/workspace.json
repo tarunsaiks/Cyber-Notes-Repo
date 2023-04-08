@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bug Bounty/Broken Access Control.md",
+                "file": "Bug Bounty/OWASP Top 10/Broken Access Control.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5,
-    "collapsed": true
+    "width": 201.5
   },
   "right": {
     "id": "0c692ad1b0912932",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bug Bounty/Broken Access Control.md",
+                "file": "Bug Bounty/OWASP Top 10/Broken Access Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bug Bounty/Broken Access Control.md",
+                "file": "Bug Bounty/OWASP Top 10/Broken Access Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bug Bounty/Broken Access Control.md"
+                "file": "Bug Bounty/OWASP Top 10/Broken Access Control.md"
               }
             }
           },
@@ -165,9 +164,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "120eac895a6d865c",
+  "active": "ce7cbc096c348b06",
   "lastOpenFiles": [
-    "Bug Bounty/Broken Access Control.md",
+    "Bug Bounty/OWASP Top 10",
+    "Bug Bounty/OWASP Top 10/Broken Access Control.md",
     "NahamSec/1. HTTP Basics.md",
     "Spin The Hack/RED Team Training/Day - 5 - Port Scan with NMAP.md",
     "Bug Bounty",
