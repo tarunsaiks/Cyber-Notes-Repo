@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3999f5b7844fc9cf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "120eac895a6d865c",
             "type": "leaf",
             "state": {
@@ -26,9 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b1c2156387fde2d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bug Bounty/OWASP Top 10/Broken Access Control.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "690c452911b9ebab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bug Bounty/Google Dorking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5,
-    "collapsed": true
+    "width": 201.5
   },
   "right": {
     "id": "0c692ad1b0912932",
@@ -95,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bug Bounty/OWASP Top 10/Broken Access Control.md",
+                "file": "Bug Bounty/Google Dorking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bug Bounty/OWASP Top 10/Broken Access Control.md",
+                "file": "Bug Bounty/Google Dorking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bug Bounty/OWASP Top 10/Broken Access Control.md"
+                "file": "Bug Bounty/Google Dorking.md"
               }
             }
           },
@@ -165,10 +180,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce7cbc096c348b06",
+  "active": "690c452911b9ebab",
   "lastOpenFiles": [
-    "Bug Bounty/OWASP Top 10",
     "Bug Bounty/OWASP Top 10/Broken Access Control.md",
+    "Bug Bounty/Google Dorking.md",
+    "Bug Bounty/OWASP Top 10/Cross Site Scripting (XSS).md",
+    "Bug Bounty/OWASP Top 10",
     "NahamSec/1. HTTP Basics.md",
     "Spin The Hack/RED Team Training/Day - 5 - Port Scan with NMAP.md",
     "Bug Bounty",
@@ -199,7 +216,6 @@
     "Advent of Cyber/Pics/FIN.png",
     "Advent of Cyber/Pics/78095df3e60ffa72f618bf9e735c129b.png",
     "Advent of Cyber/Pics/3way_wireshark.png",
-    "Advent of Cyber/Pics",
     "Advent of Cyber/Nmap.md",
     "Advent of Cyber/Nikto.md",
     "Advent of Cyber/Day - 9 (Pivoting).md",
