@@ -180,8 +180,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "690c452911b9ebab",
+  "active": "ce7cbc096c348b06",
   "lastOpenFiles": [
+    "Bug Bounty/PortSwigger Academy",
+    "Bug Bounty/OWASP Top 10/Untitled",
     "Bug Bounty/OWASP Top 10/Broken Access Control.md",
     "Bug Bounty/Google Dorking.md",
     "Bug Bounty/OWASP Top 10/Cross Site Scripting (XSS).md",
@@ -211,7 +213,6 @@
     "Advent of Cyber/Pics/RST for closed ports.png",
     "Advent of Cyber/Pics/Pasted image 20221206153221.png",
     "Advent of Cyber/Pics/NULL.png",
-    "Advent of Cyber/Pics/nmap_cheet_sheet_v7.pdf",
     "Advent of Cyber/Pics/iptables-cmd.png",
     "Advent of Cyber/Pics/FIN.png",
     "Advent of Cyber/Pics/78095df3e60ffa72f618bf9e735c129b.png",
