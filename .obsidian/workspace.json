@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bug Bounty/OWASP Top 10/Broken Access Control.md",
+                "file": "Bug Bounty/Google Dorking.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bug Bounty/OWASP Top 10/Broken Access Control.md",
+                "file": "Bug Bounty/Google Dorking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bug Bounty/OWASP Top 10/Broken Access Control.md",
+                "file": "Bug Bounty/Google Dorking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bug Bounty/OWASP Top 10/Broken Access Control.md"
+                "file": "Bug Bounty/Google Dorking.md"
               }
             }
           },
@@ -194,8 +194,10 @@
   },
   "active": "1b2b3cc036d0f81d",
   "lastOpenFiles": [
-    "Bug Bounty/PortSwigger Academy/Broken Access Control.md",
+    "Bug Bounty/Hacktify Course Notes/Untitled.md",
     "Bug Bounty/OWASP Top 10/Broken Access Control.md",
+    "Bug Bounty/Hacktify Course Notes",
+    "Bug Bounty/PortSwigger Academy/Broken Access Control.md",
     "Bug Bounty/PortSwigger Academy",
     "Bug Bounty/OWASP Top 10/Untitled",
     "Bug Bounty/Google Dorking.md",
@@ -220,7 +222,6 @@
     "eJPT/Penetration Testing pre-requisites/HTTP Basics.md",
     "eJPT/Penetration Testing pre-requisites",
     "eJPT/INE Cyber Security - User Guide.pdf",
-    "eJPT",
     "Advent of Cyber/Pics/Xmas.png",
     "Advent of Cyber/Pics/RST for closed ports.png",
     "Advent of Cyber/Pics/Pasted image 20221206153221.png",
