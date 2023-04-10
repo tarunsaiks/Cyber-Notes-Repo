@@ -21,12 +21,13 @@ It is combination of Google and Dork, Google = Search Engine; Dork = Special Que
 | allinurl: | Finds links contianing all words following `:` | allinurl:healthy eating|
 |intext:, allintext: | Finds websites containing the payload |Compare intext:"Index of /" +.htaccess, allintext:"Index of /" +.htaccess |
 
-## Search
 
-|Dork | Description | Example|
-| ---|---|---- |
-| " " | Returns exact matches of query string enclosed in double quotes| |
-| | | |
-| | | |
+
+| Filter | Description | Example | 
+| --- | --- | --- | 
+| link | Searches for external links to pages. | link:"keyword" | 
+| numrange | Used to locate specific numbers in your searches. | numrange:321-325 | 
+| before/after | Used to search within a particular date range. |filetype:pdf & (before:2000-01-01 after:2001-01-01) | 
+|related | List web pages that are “similar” to a specific web page. | related:www.google.com | | cache | Shows the version of the web page that Google has in its cache. | cache:www.google.com |
 
 
