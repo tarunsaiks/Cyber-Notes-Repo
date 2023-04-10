@@ -20,11 +20,6 @@ It is combination of Google and Dork, Google = Search Engine; Dork = Special Que
 | inurl:  | Find links containing the character string | inurl:login.php, inurl: healthy inurl: eating |
 | allinurl: | Finds links contianing all words following `:` | allinurl:healthy eating|
 |intext:, allintext: | Finds websites containing the payload |Compare intext:"Index of /" +.htaccess, allintext:"Index of /" +.htaccess |
-
-
-
-| Filter | Description | Example | 
-| --- | --- | --- | 
 | link | Searches for external links to pages. | link:"keyword" | 
 | numrange | Used to locate specific numbers in your searches. | numrange:321-325 | 
 | before/after | Used to search within a particular date range. |filetype:pdf & (before:2000-01-01 after:2001-01-01) | 
