@@ -12,12 +12,19 @@ It is combination of Google and Dork, Google = Search Engine; Dork = Special Que
 | define: | Return definitions of a word or phrase | define: hydroponic |
 | stocks: | Check financial activity of a particular stock | stocks:TWTR |
 
-## Informational Dorks 
+## Text Dorks 
 
 | Dork | Description | Example|
 |---| --- | --- |
-| $| Search in prices in USD (\$)|iphone $1000 |
-| | | |
-| | | |
+| intitle:, allintitle:| Look for pages with titles containing the search terms.The dork “intitle:” applies to its search parameter only, while “allintitle:” applies to the entire query string.|[intitle:toy story](https://www.google.com/search?q=intitle%3Atoy+story), [intitle:”toy story”](https://www.google.com/search?q=intitle%3A%22toy+story%22)Compare the above with the number of search results of [toy story](https://www.google.com/search?q=toy+story) and [“toy story”](https://www.google.com/search?q=%22toy+story%22). [allintitle:”toy story”](https://www.google.com/search?q=allintitle%3A%22toy+story%22).Compare with [intitle:”toy story”](https://www.google.com/search?q=intitle%3A%22toy+story%22) — both have the same number of search results.|  
+| inurl:  | Find links containing the character string | inurl:login.php, inurl: healthy inurl: eating |
+| allinurl: | Finds links contianing all words following `:` | allinurl:healthy eating|
+|intext:, allintext: | Finds websites containing the payload |Compare intext:"Index of /" +.htaccess, allintext:"Index of /" +.htaccess |
+
+## Search
+
+|Dork | Description | Example|
+| ---|---|---- |
+| " " | Returns exact matches of query string enclosed in double quotes| |
 | | | |
 | | | |
