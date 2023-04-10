@@ -28,3 +28,5 @@ It is combination of Google and Dork, Google = Search Engine; Dork = Special Que
 | " " | Returns exact matches of query string enclosed in double quotes| |
 | | | |
 | | | |
+
+
