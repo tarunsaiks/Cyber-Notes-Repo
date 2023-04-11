@@ -28,6 +28,12 @@ Regardless of what services are running behind a port, we just try to check if a
 |389 |LDAP |
 |443 |HTTPS |
 |445 | Microsoft SMB |
+|1433 | Microsoft SQL Server|
+|3306| MySQL Server|
+|5800 | Java VNC Server |
+|5900 | VNC Server |
+
+>Virtual Network Computing, or VNC, is an open source application that **provides screen sharing services** and is available for virtually all operating systems such as Windows, Linux, and of course OS X.
 
 When port scanning we need not understand how the services are running and how to work with services, we just focus on status of the port.
 
@@ -38,5 +44,6 @@ The port scanning can be both passive as well as active based on service detecti
 ## Normal Scanning
 
 ```bash
-$ nmap -Pn -p 21,22, 
+$ nmap -Pn -p 21,22,80,443,445,3306,5800-5900 -iL targets.txt -oA quickscan
 ```
+
