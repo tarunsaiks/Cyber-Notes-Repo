@@ -69,9 +69,84 @@ This takes quite some time to give all the results including service detection s
 Based on the open ports from that quick file, we add only those ports in the fingerprinting nmap scan command.
 
 
-## NSE Scripts
+# NSE Scripts
 
 The Nmap Scripting Engine (NSE) is one of Nmap's most powerful and flexible features. It allows users to write (and share) simple scripts (using the [Lua programming language](http://lua.org/) ) to automate a wide variety of networking tasks. Those scripts are executed in parallel with the speed and efficiency you expect from Nmap. Users can rely on the growing and diverse set of scripts distributed with Nmap, or write their own to meet custom needs.
 
 Nmap Scripting Engine default scripts will be stored in /usr/share/local/nmap/scripts
 
+## Types of Nmap scripts
+
+When we talk about writing NSE scripts, there are four different types that can help us enhance the default Nmap features, depending on the target and the scanning phase in which they are run.
+
+1.  **Prerule scripts:** These types of scripts run before the rest of any scanning operation, while Nmap doesn't have any data about the remote target.
+2.  **Host scripts:** Once the Nmap default scan has finished the host exploration, detection, port scanning or software discovery, it will perform the host scripts.
+3.  **Service scripts:** These are a particular set of Nmap scripts that are run against services on the remote host. These include http service scripts, for example, which can be run against web servers.
+4.  **Postrule scripts:** These are run after the entire Nmap scan has finished, and are often useful for parsing, formatting and presenting the different results.
+
+<table>
+<thead>
+<tr>
+<th>Nmap Script Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>auth</td>
+<td>All sorts of authentication and user privilege scripts</td>
+</tr>
+<tr>
+<td>broadcast</td>
+<td>Network discovery scripts that use broadcast petitions for intel gathering</td>
+</tr>
+<tr>
+<td>brute</td>
+<td>Set of scripts for performing brute force attacks to guess access credentials</td>
+</tr>
+<tr>
+<td>default</td>
+<td>The most popular Nmap scripts, using -sC by default</td>
+</tr>
+<tr>
+<td>discovery</td>
+<td>Scripts related to network, service and host discovery</td>
+</tr>
+<tr>
+<td>dos</td>
+<td>Denial of service attack scripts used to test and perform DOS and floods</td>
+</tr>
+<tr>
+<td>exploit</td>
+<td>Used to perform service exploitation on different CVEs</td>
+</tr>
+<tr>
+<td>external</td>
+<td>Scripts that rely on 3rd party services or data</td>
+</tr>
+<tr>
+<td>fuzzer</td>
+<td>Used to perform fussing attacks against apps, services or networks</td>
+</tr>
+<tr>
+<td>intrusive</td>
+<td>All the ‘aggressive’ scripts that cause a lot of network noise</td>
+</tr>
+<tr>
+<td>malware</td>
+<td>Malware detections and exploration scripts</td>
+</tr>
+<tr>
+<td>safe</td>
+<td>Safe and non-intrusive/noisy scripts</td>
+</tr>
+<tr>
+<td>version</td>
+<td>OS, service and software detection scripts</td>
+</tr>
+<tr>
+<td>vuln</td>
+<td>The <a href="/blog/nmap-vulnerability-scan" title="How to Perform a Nmap Vulnerability Scan using NSE scripts">Nmap vuln</a> category includes vulnerability detection and exploitation scripts</td>
+</tr>
+</tbody>
+</table>
