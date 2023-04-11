@@ -57,8 +57,19 @@ Fingerprinting is a process in which we try to gather more information on ports 
 
 Here we try to aggressively scan a particular host to gather as much information as we can using service detection and fingerprinting.
 
-Here if we try scanning any corporate domain, we will create a lot of network traffic fow which we are not
+Here if we try scanning any corporate domain, we will create a lot of network traffic for which we are not authorized, Instead we'll scan a training website like `w3challs.com`
 
 ```bash
-$ namp -Pn 
+$ nslookup w3challs.com --> 51.15.18.162
+$ namp -Pn 51.15.18.162 -p- -sV -A -oA full --min-rate 50000 -vv
 ```
+
+This takes quite some time to give all the results including service detection scan. To tackle this time problem, first we'll scan with partial connection like we did with `quick`  output.
+
+Based on the open ports from that quick file, we add only those ports in the fingerprinting nmap scan command.
+
+
+## NSE Scripts
+
+Nmap Scripting Engine default scripts will be stored in /usr/bin/nmap/scripts
+
