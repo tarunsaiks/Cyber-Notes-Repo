@@ -23,4 +23,20 @@ Regardless of what services are running behind a port, we just try to check if a
 |21 | FTP|
 |22 | SSH |
 |25 | SMTP |
-|53 | | 
+|53| DNS|
+|80 | HTTP |
+|389 |LDAP |
+|443 |HTTPS |
+|445 | Microsoft SMB |
+
+When port scanning we need not understand how the services are running and how to work with services, we just focus on status of the port.
+
+## Active or Passive ?
+
+The port scanning can be both passive as well as active based on service detection and aggresion of the scan type, it depends on the scan type. Lets say if we are scanning with `-A` and creating alot of traffic in network then it is active.
+
+## Normal Scanning
+
+```bash
+$ nmap -Pn -p 21,22, 
+```
