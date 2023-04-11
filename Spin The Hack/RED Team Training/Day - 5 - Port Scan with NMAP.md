@@ -14,3 +14,13 @@ flowchart TD
 	id5 & id6 & id7 & id9 --> id10{{Parse XML Output}}
 ```
 
+## Port Scanning ?
+
+Regardless of what services are running behind a port, we just try to check if a particular port is opne or closed or filtered. There will be different services running behind different ports. For Example
+
+| Port | Service Running |
+|--|--|
+|21 | FTP|
+|22 | SSH |
+|25 | SMTP |
+|53 | | 
