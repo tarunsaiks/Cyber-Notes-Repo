@@ -150,3 +150,7 @@ When we talk about writing NSE scripts, there are four different types that can 
 </tr>
 </tbody>
 </table>
+
+## XML File Parsing
+
+Use this scipt to convert XML to CSV [Github](https://github.com/laconicwolf/Nmap-Scan-to-CSV)
