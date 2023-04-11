@@ -49,6 +49,16 @@ $ nmap -Pn -p 21,22,80,443,445,3306,5800-5900 -iL targets.txt -oA quickscan
 
 Here we are scanning without host discovery of mentioned ports and IP's from input file `targets.txt` and saving the output in a file named `quickscan`
 
+## Fingerprinting
+
 Fingerprinting is a process in which we try to gather more information on ports like services running and their versions. For this it establishes a handshake with that port.
 
 > w3challs.com is a testing website we are using here to scan and learn more about port scanning with nmap
+
+Here we try to aggressively scan a particular host to gather as much information as we can using service detection and fingerprinting.
+
+Here if we try scanning any corporate domain, we will create a lot of network traffic fow which we are not
+
+```bash
+$ namp -Pn 
+```
