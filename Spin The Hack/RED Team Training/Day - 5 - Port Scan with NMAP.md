@@ -73,5 +73,5 @@ Based on the open ports from that quick file, we add only those ports in the fin
 
 The Nmap Scripting Engine (NSE) is one of Nmap's most powerful and flexible features. It allows users to write (and share) simple scripts (using the [Lua programming language](http://lua.org/) ) to automate a wide variety of networking tasks. Those scripts are executed in parallel with the speed and efficiency you expect from Nmap. Users can rely on the growing and diverse set of scripts distributed with Nmap, or write their own to meet custom needs.
 
-Nmap Scripting Engine default scripts will be stored in /usr/share/local                                                                   /nmap/scripts
+Nmap Scripting Engine default scripts will be stored in /usr/share/local/nmap/scripts
 
