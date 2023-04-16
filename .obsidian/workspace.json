@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b508e4ecdf4cb502",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spin The Hack/RED Team Training/Day - 6 -Discovering Patching Vulnerabilities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bug Bounty/PortSwigger Academy/Broken Access Control.md",
+                "file": "Spin The Hack/RED Team Training/Day - 6 -Discovering Patching Vulnerabilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bug Bounty/PortSwigger Academy/Broken Access Control.md",
+                "file": "Spin The Hack/RED Team Training/Day - 6 -Discovering Patching Vulnerabilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bug Bounty/PortSwigger Academy/Broken Access Control.md"
+                "file": "Spin The Hack/RED Team Training/Day - 6 -Discovering Patching Vulnerabilities.md"
               }
             }
           },
@@ -155,14 +168,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d1dcda464e57c641",
+  "active": "b508e4ecdf4cb502",
   "lastOpenFiles": [
+    "Bug Bounty/PortSwigger Academy/Broken Access Control.md",
+    "Spin The Hack/RED Team Training/Day - 6 -Discovering Patching Vulnerabilities.md",
     "Bug Bounty/OWASP Top 10/Broken Access Control.md",
     "Bug Bounty/Google Dorking.md",
     "Spin The Hack/RED Team Training/Day - 5 - Port Scan with NMAP.md",
     "Bug Bounty/Hacktify Course Notes/Untitled.md",
     "Bug Bounty/Hacktify Course Notes",
-    "Bug Bounty/PortSwigger Academy/Broken Access Control.md",
     "Bug Bounty/PortSwigger Academy",
     "Bug Bounty/OWASP Top 10/Untitled",
     "Bug Bounty/OWASP Top 10/Cross Site Scripting (XSS).md",
