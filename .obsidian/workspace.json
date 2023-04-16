@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c723216cb8969d69",
+        "id": "7411cf04261b6b9a",
         "type": "tabs",
         "children": [
           {
-            "id": "120eac895a6d865c",
+            "id": "d1dcda464e57c641",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bug Bounty/OWASP Top 10/Broken Access Control.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1c2156387fde2d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bug Bounty/OWASP Top 10/Broken Access Control.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b2b3cc036d0f81d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spin The Hack/RED Team Training/Day - 5 - Port Scan with NMAP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "690c452911b9ebab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bug Bounty/Google Dorking.md",
+                "file": "Bug Bounty/PortSwigger Academy/Broken Access Control.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5,
-    "collapsed": true
+    "width": 201.5
   },
   "right": {
     "id": "0c692ad1b0912932",
@@ -123,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spin The Hack/RED Team Training/Day - 5 - Port Scan with NMAP.md",
+                "file": "Bug Bounty/PortSwigger Academy/Broken Access Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spin The Hack/RED Team Training/Day - 5 - Port Scan with NMAP.md",
+                "file": "Bug Bounty/PortSwigger Academy/Broken Access Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spin The Hack/RED Team Training/Day - 5 - Port Scan with NMAP.md"
+                "file": "Bug Bounty/PortSwigger Academy/Broken Access Control.md"
               }
             }
           },
@@ -193,12 +155,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b2b3cc036d0f81d",
+  "active": "d1dcda464e57c641",
   "lastOpenFiles": [
+    "Bug Bounty/OWASP Top 10/Broken Access Control.md",
     "Bug Bounty/Google Dorking.md",
     "Spin The Hack/RED Team Training/Day - 5 - Port Scan with NMAP.md",
     "Bug Bounty/Hacktify Course Notes/Untitled.md",
-    "Bug Bounty/OWASP Top 10/Broken Access Control.md",
     "Bug Bounty/Hacktify Course Notes",
     "Bug Bounty/PortSwigger Academy/Broken Access Control.md",
     "Bug Bounty/PortSwigger Academy",
