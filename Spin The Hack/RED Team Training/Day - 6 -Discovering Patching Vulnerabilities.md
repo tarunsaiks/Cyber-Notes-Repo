@@ -39,3 +39,25 @@ First we try to discover patching vulnerabilities on low hanging fruits (The ser
 
 ## CrackMapExec
 
+Using crackmapexec, we can map the targets based on protocol and we can create a protocol specific list. 
+
+Every protocol supports targets by CIDR notation(s), IP address(s), IP range(s), hostname(s), a file containing a list of targets or combination of all of the latter:CIDR notation(s), IP address(s), IP range(s), hostname(s), a file containing a list of targets or combination of all of the latter:
+
+```bash
+crackmapexec <protocol> <IP_ADDR>
+crackmapexec <protocol> ms.evilcorp.org
+crackmapexec <protocol> 192.168.1.0 192.168.0.2
+crackmapexec <protocol> 192.168.1.0/24
+crackmapexec <protocol> 192.168.1.0-28 10.0.0.1-67
+crackmapexec <protocol> ~/targets.txt
+```
+
+### [Using Credentials](#using-credentials)
+
+Every protocol supports using credentials in one form or another. For details on using credentials with a specific protocol, see the appropriate wiki section.
+
+Generally speaking, to use credentials, you can run the following commands:
+
+```
+crackmapexec <protocol> <target(s)> -u username -p 'Admin!123@'
+```crackmapexec <protocol> <target(s)> -u username -p password
