@@ -31,14 +31,14 @@ After parsing the XML output of nmap scan with NSE included, lets say we create 
 > Webshot gives analysis of web based attacks
 
 # Discovering Patching Vulnerabilities
+#discovery #identify #vulnerability_discovery
 
 Always follow Least Resistance Path (Firewall, Logs ..)
 
 First we try to discover patching vulnerabilities on low hanging fruits (The services and versions running on ports after scanning)
 
 
-## CrackMapExec
-
+## [CrackMapExec](https://wiki.porchetta.industries/)
 Using crackmapexec, we can map the targets based on protocol and we can create a protocol specific list. 
 
 Every protocol supports targets by CIDR notation(s), IP address(s), IP range(s), hostname(s), a file containing a list of targets or combination of all of the latter:CIDR notation(s), IP address(s), IP range(s), hostname(s), a file containing a list of targets or combination of all of the latter:
@@ -58,6 +58,23 @@ Every protocol supports using credentials in one form or another. For details on
 
 Generally speaking, to use credentials, you can run the following commands:
 
-```
+```bash
+crackmapexec <protocol> <target(s)> -u username -p password
 crackmapexec <protocol> <target(s)> -u username -p 'Admin!123@'
-```crackmapexec <protocol> <target(s)> -u username -p password
+```
+
+
+# Metasploit
+#metasploit 
+
+```bash
+msfconsole
+```
+
+```bash
+msf6 > search ssh
+```
+
+> Auxilary - We have to find if there is a vulnerbaility or not, **An auxiliary module does not execute a payload**.
+> Exploit - Once we find there is vulnerability we use exploit.
+
