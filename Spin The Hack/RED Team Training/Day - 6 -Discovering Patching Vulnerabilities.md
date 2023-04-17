@@ -34,4 +34,4 @@ After parsing the XML output of nmap scan with NSE included, lets say we create 
 
 Always follow Least Resistance Path (Firewall, Logs ..)
 
-First we try to discover patching vulnerabilites on low hanging fruits (The services and versions running on ports after scanning) we
+First we try to discover patching vulnerabilities on low hanging fruits (The services and versions running on ports after scanning)
