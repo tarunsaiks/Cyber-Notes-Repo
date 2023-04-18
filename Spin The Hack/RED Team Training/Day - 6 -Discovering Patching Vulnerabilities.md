@@ -78,3 +78,9 @@ msf6 > search ssh
 > Auxilary - We have to find if there is a vulnerbaility or not, **An auxiliary module does not execute a payload**.
 > Exploit - Once we find there is vulnerability we use exploit.
 
+# Process Flow
+
+1. Host Discovery to get targets.txt
+2. Lets say we have an IP Address of target, we directly jump into sub-phase B without host discovery, we directly start with Nmap, Open Ports, Versions.
+3. crackmapexec to create protocol specific list or check for supported protocols
+4. MSF --> protocol --> Auxilary --> Discover Patching Vulnerability.
