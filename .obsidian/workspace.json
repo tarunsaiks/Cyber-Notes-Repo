@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spin The Hack/RED Team Training/Day - 7 - Discovering Authentication Vulnerabilities.md",
+                "file": "Bug Bounty/Google Dorking.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spin The Hack/RED Team Training/Day - 7 - Discovering Authentication Vulnerabilities.md",
+                "file": "Bug Bounty/Google Dorking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spin The Hack/RED Team Training/Day - 7 - Discovering Authentication Vulnerabilities.md",
+                "file": "Bug Bounty/Google Dorking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spin The Hack/RED Team Training/Day - 7 - Discovering Authentication Vulnerabilities.md"
+                "file": "Bug Bounty/Google Dorking.md"
               }
             }
           },
@@ -182,11 +182,11 @@
   },
   "active": "49ae063df59d3efe",
   "lastOpenFiles": [
-    "Spin The Hack/RED Team Training/Day - 6 -Discovering Patching Vulnerabilities.md",
+    "Bug Bounty/OWASP Top 10/Broken Access Control.md",
     "Spin The Hack/RED Team Training/Day - 7 - Discovering Authentication Vulnerabilities.md",
+    "Spin The Hack/RED Team Training/Day - 6 -Discovering Patching Vulnerabilities.md",
     "Spin The Hack/RED Team Training/Day - 5 - Port Scan with NMAP.md",
     "Bug Bounty/PortSwigger Academy/Broken Access Control.md",
-    "Bug Bounty/OWASP Top 10/Broken Access Control.md",
     "Bug Bounty/Google Dorking.md",
     "Bug Bounty/Hacktify Course Notes/Untitled.md",
     "Bug Bounty/Hacktify Course Notes",
