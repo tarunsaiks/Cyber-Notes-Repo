@@ -180,8 +180,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49ae063df59d3efe",
+  "active": "ce7cbc096c348b06",
   "lastOpenFiles": [
+    "CS 253 - Web Security",
     "Bug Bounty/OWASP Top 10/Broken Access Control.md",
     "Spin The Hack/RED Team Training/Day - 7 - Discovering Authentication Vulnerabilities.md",
     "Spin The Hack/RED Team Training/Day - 6 -Discovering Patching Vulnerabilities.md",
@@ -226,7 +227,6 @@
     "Advent of Cyber/Day - 6 (Email Analysis).md",
     "Advent of Cyber/Day - 5 (Brute Forcing).md",
     "Advent of Cyber/Day - 4 (Scanning).md",
-    "Advent of Cyber/Day - 3 (OSINT).md",
-    "Advent of Cyber/Day - 2 (Log Analysis).md"
+    "Advent of Cyber/Day - 3 (OSINT).md"
   ]
 }
