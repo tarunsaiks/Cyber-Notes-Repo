@@ -66,9 +66,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bb36f079532a30c3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -111,6 +121,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "543b572aea6c57a5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -204,7 +222,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33d5ce059f6ff348",
+  "active": "bb36f079532a30c3",
   "lastOpenFiles": [
     "ISC2/Certified In Cybersecurity/Module 1/Module 1 - Summary.md",
     "ISC2/Certified In Cybersecurity/Module 1/Chapter 3 - Understanding Security Controls.md",
