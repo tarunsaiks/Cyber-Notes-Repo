@@ -66,19 +66,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bb36f079532a30c3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -152,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bash Scripting/Bash Scripting.md",
+                "file": "CS 253 - Web Security/1. What is Web Security, HTML and JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bash Scripting/Bash Scripting.md",
+                "file": "CS 253 - Web Security/1. What is Web Security, HTML and JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bash Scripting/Bash Scripting.md"
+                "file": "CS 253 - Web Security/1. What is Web Security, HTML and JS.md"
               }
             }
           },
@@ -222,8 +212,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb36f079532a30c3",
+  "active": "c1842c91e657ec78",
   "lastOpenFiles": [
+    "Bash Scripting/Bash Scripting.md",
     "ISC2/Certified In Cybersecurity/Module 1/Module 1 - Summary.md",
     "ISC2/Certified In Cybersecurity/Module 1/Chapter 3 - Understanding Security Controls.md",
     "ISC2/Certified In Cybersecurity/Module 1/Chapter 2 - Understanding Risk Management Process.md",
@@ -239,7 +230,6 @@
     "ISC2/Certified In Cybersecurity",
     "ISC2",
     "CS 253 - Web Security/1. What is Web Security, HTML and JS.md",
-    "Bash Scripting/Bash Scripting.md",
     "Bash Scripting",
     "Bug Bounty/PortSwigger Academy/Broken Access Control.md",
     "CS 253 - Web Security",
