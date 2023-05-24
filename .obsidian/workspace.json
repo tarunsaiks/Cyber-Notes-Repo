@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ISC2/Certified In Cybersecurity/Module 2/Understand Incident Response.md",
+                "file": "ISC2/Certified In Cybersecurity/Module 2/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5,
-    "collapsed": true
+    "width": 201.5
   },
   "right": {
     "id": "0c692ad1b0912932",
@@ -143,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ISC2/Certified In Cybersecurity/Module 2/Understand Incident Response.md",
+                "file": "ISC2/Certified In Cybersecurity/Module 2/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ISC2/Certified In Cybersecurity/Module 2/Understand Incident Response.md",
+                "file": "ISC2/Certified In Cybersecurity/Module 2/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ISC2/Certified In Cybersecurity/Module 2/Understand Incident Response.md"
+                "file": "ISC2/Certified In Cybersecurity/Module 2/Untitled.md"
               }
             }
           },
@@ -215,6 +214,8 @@
   },
   "active": "33d5ce059f6ff348",
   "lastOpenFiles": [
+    "ISC2/Certified In Cybersecurity/Module 2/Understand Incident Response.md",
+    "ISC2/Certified In Cybersecurity/Module 2/Untitled.md",
     "Bash Scripting/Bash Scripting.md",
     "CS 253 - Web Security/1. What is Web Security, HTML and JS.md",
     "ISC2/Certified In Cybersecurity/Module 1/Module 1 - Summary.md",
@@ -224,7 +225,6 @@
     "ISC2/Certified In Cybersecurity/Module 1/Chapter 4 - Understand Governance Elements and Processes.md",
     "ISC2/Certified In Cybersecurity/Module 1/Chapter 1 - Security Principles.md",
     "ISC2/Certified In Cybersecurity/Module 2/Module 2 Takeaway.pdf",
-    "ISC2/Certified In Cybersecurity/Module 2/Understand Incident Response.md",
     "ISC2/Certified In Cybersecurity/0. Course Objectives.md",
     "ISC2/Certified In Cybersecurity/EDU-CC-exam_domain_chapter_map.pdf",
     "ISC2/Certified In Cybersecurity/Module 2",
@@ -252,7 +252,6 @@
     "NahamSec/2. Open Redirects.md",
     "eJPT/Penetration Testing pre-requisites/images/HTML Request.svg",
     "eJPT/Penetration Testing pre-requisites/images/cookie-domain.png",
-    "eJPT/Penetration Testing pre-requisites/Untitled.md",
     "Advent of Cyber/Pics/Xmas.png",
     "Advent of Cyber/Pics/RST for closed ports.png",
     "Advent of Cyber/Pics/Pasted image 20221206153221.png",
