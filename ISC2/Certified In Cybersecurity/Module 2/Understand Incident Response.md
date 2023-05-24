@@ -78,9 +78,7 @@ To prepare for incidents, here are the components commonly found in an incident 
 
 -   Identify evidence that may need to be retained.
 -   Document lessons learned.
-
 Retrospective
-
 -   Preparation
 -   Detection and Analysis
 -   Containment, Eradication and Recovery
