@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ISC2/Certified In Cybersecurity/Module 2/Understand Business Continuity.md",
+                "file": "ISC2/Certified In Cybersecurity/Chapter 2/Module 1 - Understand Incident Response.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ISC2/Certified In Cybersecurity/Module 2/Understand Business Continuity.md",
+                "file": "ISC2/Certified In Cybersecurity/Chapter 2/Module 1 - Understand Incident Response.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ISC2/Certified In Cybersecurity/Module 2/Understand Business Continuity.md",
+                "file": "ISC2/Certified In Cybersecurity/Chapter 2/Module 1 - Understand Incident Response.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ISC2/Certified In Cybersecurity/Module 2/Understand Business Continuity.md"
+                "file": "ISC2/Certified In Cybersecurity/Chapter 2/Module 1 - Understand Incident Response.md"
               }
             }
           },
@@ -212,23 +212,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33d5ce059f6ff348",
+  "active": "ce7cbc096c348b06",
   "lastOpenFiles": [
-    "ISC2/Certified In Cybersecurity/Module 2/Understand Incident Response.md",
-    "ISC2/Certified In Cybersecurity/Module 2/Understand Business Continuity.md",
+    "ISC2/Certified In Cybersecurity/Chapter 2/Module 2 - Understand Business Continuity.md",
+    "ISC2/Certified In Cybersecurity/Chapter 2/Module 2 Takeaway.pdf",
+    "ISC2/Certified In Cybersecurity/Chapter 2/Module 1 - Understand Incident Response.md",
     "Bash Scripting/Bash Scripting.md",
     "CS 253 - Web Security/1. What is Web Security, HTML and JS.md",
-    "ISC2/Certified In Cybersecurity/Module 1/Module 1 - Summary.md",
-    "ISC2/Certified In Cybersecurity/Module 1/Chapter 3 - Understanding Security Controls.md",
-    "ISC2/Certified In Cybersecurity/Module 1/Chapter 2 - Understanding Risk Management Process.md",
-    "ISC2/Certified In Cybersecurity/Module 1/Module 1 Takeaway.pdf",
-    "ISC2/Certified In Cybersecurity/Module 1/Chapter 4 - Understand Governance Elements and Processes.md",
-    "ISC2/Certified In Cybersecurity/Module 1/Chapter 1 - Security Principles.md",
-    "ISC2/Certified In Cybersecurity/Module 2/Module 2 Takeaway.pdf",
+    "ISC2/Certified In Cybersecurity/Chapter 1/Module 1 - Summary.md",
+    "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 3 - Understanding Security Controls.md",
+    "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 2 - Understanding Risk Management Process.md",
+    "ISC2/Certified In Cybersecurity/Chapter 1/Module 1 Takeaway.pdf",
+    "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 4 - Understand Governance Elements and Processes.md",
+    "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 1 - Security Principles.md",
     "ISC2/Certified In Cybersecurity/0. Course Objectives.md",
     "ISC2/Certified In Cybersecurity/EDU-CC-exam_domain_chapter_map.pdf",
-    "ISC2/Certified In Cybersecurity/Module 2",
-    "ISC2/Certified In Cybersecurity/Module 1",
+    "ISC2/Certified In Cybersecurity/Chapter 2",
+    "ISC2/Certified In Cybersecurity/Chapter 1",
     "ISC2/Certified In Cybersecurity",
     "ISC2",
     "Bash Scripting",
@@ -249,7 +249,6 @@
     "Spin The Hack/RED Team Training/Day - 3 - ICMP Scanning using Nmap.md",
     "Spin The Hack/RED Team Training/Day - 2 - Setting up Methodology.md",
     "Spin The Hack/RED Team Training/Day - 1 - Introduction to INPT Workflows.md",
-    "NahamSec/2. Open Redirects.md",
     "eJPT/Penetration Testing pre-requisites/images/HTML Request.svg",
     "eJPT/Penetration Testing pre-requisites/images/cookie-domain.png",
     "Advent of Cyber/Pics/Xmas.png",
