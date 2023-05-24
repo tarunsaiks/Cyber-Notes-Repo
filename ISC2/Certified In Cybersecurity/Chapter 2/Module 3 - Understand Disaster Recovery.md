@@ -1,0 +1,1 @@
+It is always essential to have recovery plans no matter how good our incident response and business continuity plans are. It is more about recovering IT

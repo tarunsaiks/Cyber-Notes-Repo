@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ISC2/Certified In Cybersecurity/Chapter 2/Module 1 - Understand Incident Response.md",
+                "file": "ISC2/Certified In Cybersecurity/Chapter 2/Module 3 - Understand Disaster Recovery.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ISC2/Certified In Cybersecurity/Chapter 2/Module 1 - Understand Incident Response.md",
+                "file": "ISC2/Certified In Cybersecurity/Chapter 2/Module 3 - Understand Disaster Recovery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ISC2/Certified In Cybersecurity/Chapter 2/Module 1 - Understand Incident Response.md",
+                "file": "ISC2/Certified In Cybersecurity/Chapter 2/Module 3 - Understand Disaster Recovery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ISC2/Certified In Cybersecurity/Chapter 2/Module 1 - Understand Incident Response.md"
+                "file": "ISC2/Certified In Cybersecurity/Chapter 2/Module 3 - Understand Disaster Recovery.md"
               }
             }
           },
@@ -212,11 +212,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce7cbc096c348b06",
+  "active": "33d5ce059f6ff348",
   "lastOpenFiles": [
+    "ISC2/Certified In Cybersecurity/Chapter 2/Module 1 - Understand Incident Response.md",
+    "ISC2/Certified In Cybersecurity/Chapter 2/Module 3 - Understand Disaster Recovery.md",
     "ISC2/Certified In Cybersecurity/Chapter 2/Module 2 - Understand Business Continuity.md",
     "ISC2/Certified In Cybersecurity/Chapter 2/Module 2 Takeaway.pdf",
-    "ISC2/Certified In Cybersecurity/Chapter 2/Module 1 - Understand Incident Response.md",
     "Bash Scripting/Bash Scripting.md",
     "CS 253 - Web Security/1. What is Web Security, HTML and JS.md",
     "ISC2/Certified In Cybersecurity/Chapter 1/Module 1 - Summary.md",
