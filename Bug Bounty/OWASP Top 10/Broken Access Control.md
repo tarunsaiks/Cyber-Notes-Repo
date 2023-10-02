@@ -8,7 +8,7 @@ Access Control enforces policies such that users cannot act outside their intend
 
 There are three main types of attacks against access controls, corresponding to the three categories of controls:
 
-+ **Vertical privilege escalation** occurs when a user can perform functions that his assgined roles do not permit him to. Like a normal end user can perform adminstrative functions or below his user roles functions.
++ **Vertical privilege escalation** occurs when a user can perform functions that his assigned roles do not permit him to. Like a normal end user can perform administrative functions or below his user roles functions.
 	+ A simple example would be that of student, teacher and principal. Teacher can mark student's attendance and Principal can mark teacher's attendance. If a student can mark teacher's or his/her own attendance, then its vertical privilege escalation.
 + **Horizontal privilege escalation** occurs when a user can view, modify resources to which he is not entitled. 
 	+ `https://www.example.com/login/tarun` is a legit user's dashboard, if Tarun can get access to sai's dashboard `https://www.example.com/login/sai` and can modify data which is entitled to sai alone, then its is horizontal privilege escalation.
