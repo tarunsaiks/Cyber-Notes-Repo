@@ -30,45 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "49ae063df59d3efe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bug Bounty/Google Dorking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1842c91e657ec78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS 253 - Web Security/1. What is Web Security, HTML and JS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33d5ce059f6ff348",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ISC2/Certified In Cybersecurity/Chapter 2/Module 3 - Understand Disaster Recovery.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ISC2/Certified In Cybersecurity/Chapter 2/Module 3 - Understand Disaster Recovery.md",
+                "file": "Spin The Hack/RED Team Training/Day - 6 -Discovering Patching Vulnerabilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ISC2/Certified In Cybersecurity/Chapter 2/Module 3 - Understand Disaster Recovery.md",
+                "file": "Spin The Hack/RED Team Training/Day - 6 -Discovering Patching Vulnerabilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ISC2/Certified In Cybersecurity/Chapter 2/Module 3 - Understand Disaster Recovery.md"
+                "file": "Spin The Hack/RED Team Training/Day - 6 -Discovering Patching Vulnerabilities.md"
               }
             }
           },
@@ -212,14 +176,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33d5ce059f6ff348",
+  "active": "b508e4ecdf4cb502",
   "lastOpenFiles": [
-    "ISC2/Certified In Cybersecurity/Chapter 2/Module 1 - Understand Incident Response.md",
+    "Bug Bounty/Google Dorking.md",
+    "CS 253 - Web Security/1. What is Web Security, HTML and JS.md",
     "ISC2/Certified In Cybersecurity/Chapter 2/Module 3 - Understand Disaster Recovery.md",
+    "ISC2/Certified In Cybersecurity/Chapter 2/Module 1 - Understand Incident Response.md",
     "ISC2/Certified In Cybersecurity/Chapter 2/Module 2 - Understand Business Continuity.md",
     "ISC2/Certified In Cybersecurity/Chapter 2/Module 2 Takeaway.pdf",
     "Bash Scripting/Bash Scripting.md",
-    "CS 253 - Web Security/1. What is Web Security, HTML and JS.md",
     "ISC2/Certified In Cybersecurity/Chapter 1/Module 1 - Summary.md",
     "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 3 - Understanding Security Controls.md",
     "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 2 - Understanding Risk Management Process.md",
@@ -239,7 +204,6 @@
     "Spin The Hack/RED Team Training/Day - 7 - Discovering Authentication Vulnerabilities.md",
     "Spin The Hack/RED Team Training/Day - 6 -Discovering Patching Vulnerabilities.md",
     "Spin The Hack/RED Team Training/Day - 5 - Port Scan with NMAP.md",
-    "Bug Bounty/Google Dorking.md",
     "Bug Bounty/Hacktify Course Notes/Untitled.md",
     "Bug Bounty/Hacktify Course Notes",
     "Bug Bounty/OWASP Top 10/Cross Site Scripting (XSS).md",
