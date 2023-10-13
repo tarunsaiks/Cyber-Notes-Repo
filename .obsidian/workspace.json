@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7411cf04261b6b9a",
+        "id": "952253e7f949556b",
         "type": "tabs",
         "children": [
           {
-            "id": "d1dcda464e57c641",
+            "id": "91ae14f6bf3b50cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bug Bounty/PortSwigger Academy/Broken Access Control.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b508e4ecdf4cb502",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bug Bounty/OWASP Top 10/Broken Access Control.md",
+                "file": "AWS Solutions Architect/1. IAM and AWS CLI.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bug Bounty/OWASP Top 10/Broken Access Control.md",
+                "file": "AWS Solutions Architect/1. IAM and AWS CLI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bug Bounty/OWASP Top 10/Broken Access Control.md",
+                "file": "AWS Solutions Architect/1. IAM and AWS CLI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bug Bounty/OWASP Top 10/Broken Access Control.md"
+                "file": "AWS Solutions Architect/1. IAM and AWS CLI.md"
               }
             }
           },
@@ -176,10 +163,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b508e4ecdf4cb502",
+  "active": "91ae14f6bf3b50cc",
   "lastOpenFiles": [
+    "AWS Solutions Architect/0. Getting Started with AWS.md",
+    "AWS Solutions Architect/screenshots/IAM_policies_inheritance.jpg",
+    "AWS Solutions Architect/screenshots/IAM_JSO_Policy_Structure.jpg",
+    "AWS Solutions Architect/screenshots",
+    "AWS Solutions Architect/New folder",
     "Bug Bounty/PortSwigger Academy/Broken Access Control.md",
     "Spin The Hack/RED Team Training/Day - 6 -Discovering Patching Vulnerabilities.md",
+    "AWS Solutions Architect/1. IAM and AWS CLI.md",
+    "AWS Solutions Architect/IAM_policies_inheritance.jpg",
+    "AWS Solutions Architect/IAM_JSO_Policy_Structure.jpg",
+    "Bug Bounty/OWASP Top 10/Broken Access Control.md",
+    "AWS Solutions Architect",
     "Bug Bounty/Google Dorking.md",
     "CS 253 - Web Security/1. What is Web Security, HTML and JS.md",
     "ISC2/Certified In Cybersecurity/Chapter 2/Module 3 - Understand Disaster Recovery.md",
@@ -199,30 +196,19 @@
     "ISC2/Certified In Cybersecurity/Chapter 1",
     "ISC2/Certified In Cybersecurity",
     "ISC2",
-    "Bash Scripting",
-    "CS 253 - Web Security",
-    "Bug Bounty/OWASP Top 10/Broken Access Control.md",
     "Spin The Hack/RED Team Training/Day - 7 - Discovering Authentication Vulnerabilities.md",
     "Spin The Hack/RED Team Training/Day - 5 - Port Scan with NMAP.md",
     "Bug Bounty/Hacktify Course Notes/Untitled.md",
-    "Bug Bounty/Hacktify Course Notes",
     "Bug Bounty/OWASP Top 10/Cross Site Scripting (XSS).md",
     "NahamSec/1. HTTP Basics.md",
     "Spin The Hack/RED Team Training/Syllabus.md",
     "Spin The Hack/RED Team Training/ping.md",
     "Spin The Hack/RED Team Training/Day - 4 - Additional Host Discovery Methods.md",
-    "Spin The Hack/RED Team Training/Day - 3 - ICMP Scanning using Nmap.md",
-    "Spin The Hack/RED Team Training/Day - 2 - Setting up Methodology.md",
-    "Spin The Hack/RED Team Training/Day - 1 - Introduction to INPT Workflows.md",
     "eJPT/Penetration Testing pre-requisites/images/HTML Request.svg",
     "eJPT/Penetration Testing pre-requisites/images/cookie-domain.png",
     "Advent of Cyber/Pics/Xmas.png",
     "Advent of Cyber/Pics/RST for closed ports.png",
     "Advent of Cyber/Pics/Pasted image 20221206153221.png",
-    "Advent of Cyber/Pics/NULL.png",
-    "Advent of Cyber/Pics/iptables-cmd.png",
-    "Advent of Cyber/Pics/FIN.png",
-    "Advent of Cyber/Pics/78095df3e60ffa72f618bf9e735c129b.png",
-    "Advent of Cyber/Pics/3way_wireshark.png"
+    "Advent of Cyber/Pics/NULL.png"
   ]
 }
