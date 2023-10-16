@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spin The Hack/RED Team Training/Day - 6 -Discovering Patching Vulnerabilities.md",
+                "file": "AWS Solutions Architect/1. IAM and AWS CLI.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spin The Hack/RED Team Training/Day - 6 -Discovering Patching Vulnerabilities.md",
+                "file": "AWS Solutions Architect/1. IAM and AWS CLI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spin The Hack/RED Team Training/Day - 6 -Discovering Patching Vulnerabilities.md",
+                "file": "AWS Solutions Architect/1. IAM and AWS CLI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spin The Hack/RED Team Training/Day - 6 -Discovering Patching Vulnerabilities.md"
+                "file": "AWS Solutions Architect/1. IAM and AWS CLI.md"
               }
             }
           },
@@ -165,15 +165,18 @@
   },
   "active": "91ae14f6bf3b50cc",
   "lastOpenFiles": [
-    "Spin The Hack/RED Team Training/Day - 7 - Discovering Authentication Vulnerabilities.md",
+    "eJPT/INE Cyber Security - User Guide.pdf",
+    "eJPT/Penetration Testing pre-requisites/HTTP Basics.md",
     "AWS Solutions Architect/1. IAM and AWS CLI.md",
+    "Bash Scripting/Bash Scripting.md",
+    "Spin The Hack/RED Team Training/Day - 6 -Discovering Patching Vulnerabilities.md",
+    "Spin The Hack/RED Team Training/Day - 7 - Discovering Authentication Vulnerabilities.md",
     "AWS Solutions Architect/0. Getting Started with AWS.md",
     "AWS Solutions Architect/screenshots/IAM_policies_inheritance.jpg",
     "AWS Solutions Architect/screenshots/IAM_JSO_Policy_Structure.jpg",
     "AWS Solutions Architect/screenshots",
     "AWS Solutions Architect/New folder",
     "Bug Bounty/PortSwigger Academy/Broken Access Control.md",
-    "Spin The Hack/RED Team Training/Day - 6 -Discovering Patching Vulnerabilities.md",
     "AWS Solutions Architect/IAM_policies_inheritance.jpg",
     "AWS Solutions Architect/IAM_JSO_Policy_Structure.jpg",
     "Bug Bounty/OWASP Top 10/Broken Access Control.md",
@@ -184,7 +187,6 @@
     "ISC2/Certified In Cybersecurity/Chapter 2/Module 1 - Understand Incident Response.md",
     "ISC2/Certified In Cybersecurity/Chapter 2/Module 2 - Understand Business Continuity.md",
     "ISC2/Certified In Cybersecurity/Chapter 2/Module 2 Takeaway.pdf",
-    "Bash Scripting/Bash Scripting.md",
     "ISC2/Certified In Cybersecurity/Chapter 1/Module 1 - Summary.md",
     "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 3 - Understanding Security Controls.md",
     "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 2 - Understanding Risk Management Process.md",
@@ -203,7 +205,6 @@
     "NahamSec/1. HTTP Basics.md",
     "Spin The Hack/RED Team Training/Syllabus.md",
     "Spin The Hack/RED Team Training/ping.md",
-    "Spin The Hack/RED Team Training/Day - 4 - Additional Host Discovery Methods.md",
     "eJPT/Penetration Testing pre-requisites/images/HTML Request.svg",
     "eJPT/Penetration Testing pre-requisites/images/cookie-domain.png",
     "Advent of Cyber/Pics/Xmas.png",
