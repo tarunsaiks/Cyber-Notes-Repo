@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Solutions Architect/1. IAM and AWS CLI.md",
+                "file": "Spin The Hack/RED Team Training/Day - 6 -Discovering Patching Vulnerabilities.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Solutions Architect/1. IAM and AWS CLI.md",
+                "file": "Spin The Hack/RED Team Training/Day - 6 -Discovering Patching Vulnerabilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Solutions Architect/1. IAM and AWS CLI.md",
+                "file": "Spin The Hack/RED Team Training/Day - 6 -Discovering Patching Vulnerabilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS Solutions Architect/1. IAM and AWS CLI.md"
+                "file": "Spin The Hack/RED Team Training/Day - 6 -Discovering Patching Vulnerabilities.md"
               }
             }
           },
@@ -165,6 +165,8 @@
   },
   "active": "91ae14f6bf3b50cc",
   "lastOpenFiles": [
+    "Spin The Hack/RED Team Training/Day - 7 - Discovering Authentication Vulnerabilities.md",
+    "AWS Solutions Architect/1. IAM and AWS CLI.md",
     "AWS Solutions Architect/0. Getting Started with AWS.md",
     "AWS Solutions Architect/screenshots/IAM_policies_inheritance.jpg",
     "AWS Solutions Architect/screenshots/IAM_JSO_Policy_Structure.jpg",
@@ -172,7 +174,6 @@
     "AWS Solutions Architect/New folder",
     "Bug Bounty/PortSwigger Academy/Broken Access Control.md",
     "Spin The Hack/RED Team Training/Day - 6 -Discovering Patching Vulnerabilities.md",
-    "AWS Solutions Architect/1. IAM and AWS CLI.md",
     "AWS Solutions Architect/IAM_policies_inheritance.jpg",
     "AWS Solutions Architect/IAM_JSO_Policy_Structure.jpg",
     "Bug Bounty/OWASP Top 10/Broken Access Control.md",
@@ -196,7 +197,6 @@
     "ISC2/Certified In Cybersecurity/Chapter 1",
     "ISC2/Certified In Cybersecurity",
     "ISC2",
-    "Spin The Hack/RED Team Training/Day - 7 - Discovering Authentication Vulnerabilities.md",
     "Spin The Hack/RED Team Training/Day - 5 - Port Scan with NMAP.md",
     "Bug Bounty/Hacktify Course Notes/Untitled.md",
     "Bug Bounty/OWASP Top 10/Cross Site Scripting (XSS).md",
