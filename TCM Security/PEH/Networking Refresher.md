@@ -20,7 +20,7 @@ output of ipconfig has inet and inet, which indicate ipv4 and ipv6 respectively.
 
 ![[Public-vs-Private-IP-Addresses-01-EN.webp]]
 
-![[private]]
+![[public-and-private-addresses.jpg]]
 
 ## IPv6
 - IPv6 are 128-bit addresses represented in hex
