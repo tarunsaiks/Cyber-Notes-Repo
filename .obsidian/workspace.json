@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Solutions Architect/1. IAM and AWS CLI.md",
+                "file": "TCM Security/PEH/Networking Refresher.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 201.5,
+    "collapsed": true
   },
   "right": {
     "id": "0c692ad1b0912932",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Solutions Architect/1. IAM and AWS CLI.md",
+                "file": "TCM Security/PEH/Networking Refresher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Solutions Architect/1. IAM and AWS CLI.md",
+                "file": "TCM Security/PEH/Networking Refresher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS Solutions Architect/1. IAM and AWS CLI.md"
+                "file": "TCM Security/PEH/Networking Refresher.md"
               }
             }
           },
@@ -165,9 +166,12 @@
   },
   "active": "91ae14f6bf3b50cc",
   "lastOpenFiles": [
+    "AWS Solutions Architect/1. IAM and AWS CLI.md",
+    "TCM Security/PEH/Networking Refresher.md",
+    "TCM Security/PEH",
+    "TCM Security",
     "eJPT/INE Cyber Security - User Guide.pdf",
     "eJPT/Penetration Testing pre-requisites/HTTP Basics.md",
-    "AWS Solutions Architect/1. IAM and AWS CLI.md",
     "Bash Scripting/Bash Scripting.md",
     "Spin The Hack/RED Team Training/Day - 6 -Discovering Patching Vulnerabilities.md",
     "Spin The Hack/RED Team Training/Day - 7 - Discovering Authentication Vulnerabilities.md",
@@ -196,9 +200,6 @@
     "ISC2/Certified In Cybersecurity/0. Course Objectives.md",
     "ISC2/Certified In Cybersecurity/EDU-CC-exam_domain_chapter_map.pdf",
     "ISC2/Certified In Cybersecurity/Chapter 2",
-    "ISC2/Certified In Cybersecurity/Chapter 1",
-    "ISC2/Certified In Cybersecurity",
-    "ISC2",
     "Spin The Hack/RED Team Training/Day - 5 - Port Scan with NMAP.md",
     "Bug Bounty/Hacktify Course Notes/Untitled.md",
     "Bug Bounty/OWASP Top 10/Cross Site Scripting (XSS).md",
