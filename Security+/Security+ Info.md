@@ -20,6 +20,7 @@ Exam Objectives is important to understand and analyze with preparation.
 
 ## Exam Format
 
+
 - MCQ
 - Performance Based Questions
 - 75 to 85 (90)
