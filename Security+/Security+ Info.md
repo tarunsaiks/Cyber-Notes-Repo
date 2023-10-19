@@ -1,4 +1,5 @@
 ## Learning Objectives
+
 - Assess the security posture of an enterprise environment.
 - Recommend and Implement appropriate security solutions.
 - Monitor and secure hybrid environment.
@@ -14,3 +15,14 @@
 - Governance, Risk and Compliance - 14%
 
 Exam Objectives is important to understand and analyze with preparation.
+
+#OBJECTIVES
+
+## Exam Format
+
+- MCQ
+- Performance Based Questions
+- 75 to 85 (90)
+- 3-5 PBQ
+- Pass grade - 750/900
+
