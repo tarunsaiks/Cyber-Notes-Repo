@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,8 +165,9 @@
   },
   "active": "91ae14f6bf3b50cc",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Untitled.md",
     "Networking (CCNA)/3. Basic Network Terms.md",
+    "Untitled.canvas",
     "Networking (CCNA)/Threat Intelligence and MITRE ATT&CK.pptx",
     "Security+/Security+ Info.md",
     "Networking (CCNA)",
