@@ -18,16 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a3192247b7982445",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
         ]
       }
@@ -83,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -175,9 +166,10 @@
   },
   "active": "91ae14f6bf3b50cc",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Networking (CCNA)/3. Basic Network Terms.md",
     "Networking (CCNA)/Threat Intelligence and MITRE ATT&CK.pptx",
     "Security+/Security+ Info.md",
-    "Networking (CCNA)/3. Basic Network Terms.md",
     "Networking (CCNA)",
     "TCM Security/PEH/Networking Refresher.md",
     "Security+",
@@ -198,7 +190,6 @@
     "AWS Solutions Architect/screenshots/IAM_policies_inheritance.jpg",
     "AWS Solutions Architect/screenshots/IAM_JSO_Policy_Structure.jpg",
     "AWS Solutions Architect/screenshots",
-    "AWS Solutions Architect/New folder",
     "Bug Bounty/PortSwigger Academy/Broken Access Control.md",
     "AWS Solutions Architect/IAM_policies_inheritance.jpg",
     "AWS Solutions Architect/IAM_JSO_Policy_Structure.jpg",
