@@ -36,4 +36,9 @@ Exploring Splunk, web, running searches and Using commands to create reports and
 - Timestamps are identified and normalized to a consistent format.
 - Once data is ingested into the index, it is available for searching and analyzing.
 - By entering a query, into the Splunk Search bar, one can find events that contain values across multiple data sources, allowing one to analyze using Splunk search language.
-- Search results can be saved to repo
+- Search results can be saved to reports, which provide continued insights into your data and further helps to power dashboard panels.
+- Knowledge can be organized into structured data sets called **Data Models**. 
+- To allow users to quickly pivot and visualize data in Pivot, without having to write custom searches.
+- Alerts allow you to set triggers, so one can respond to incidents as soon as they occur.
+
+# Using Splunk Web
