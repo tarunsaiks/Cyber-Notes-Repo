@@ -16,3 +16,14 @@ Lets take a scenario in a gaming company where a customer calls in to report an 
 This whole process is very time-consuming and puts a lot of load on single person working on the issue at any given time.
 
 Instead, using Operational Intelligence solves this issue in less time.
+
+## Course Goals
+
+Exploring Splunk, web, running searches and Using commands to create reports and dashboards.
+
+## Process Flow
+
+- Consider a gaming company, which has multiple vendors and online site where their games are being sold. And the company has its own website activity, internal teams, support, orders, from different parts of the world.
+- Earlier, when a customer reached out to support, that issue is given a ticket, assigned to someone, and only one person could work on it manually, dropping everything else they were doing. This caused problem both at support and to customers costing time and resources.
+- Splunk supports by using all the data in env, to support. When support req comes in, it automatically  routes to application support portal, where support team searches the data for events, where purchase attempts lead to error, using which he can pinpoint if the event matches the user's experience.
+- That event is tied to a database query, which can be correlated to an entry in the slow query log
