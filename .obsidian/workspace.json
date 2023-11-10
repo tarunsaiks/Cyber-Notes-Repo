@@ -163,8 +163,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2bd440d4eae94e8c",
+  "active": "ce7cbc096c348b06",
   "lastOpenFiles": [
+    "TCM Security/PWST",
     "Security+/Security+ Info.md",
     "Splunk/Introduction to Splunk.md",
     "Networking (CCNA)/3. Basic Network Terms.md",
@@ -207,7 +208,6 @@
     "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 1 - Security Principles.md",
     "ISC2/Certified In Cybersecurity/0. Course Objectives.md",
     "Spin The Hack/RED Team Training/Day - 5 - Port Scan with NMAP.md",
-    "Bug Bounty/Hacktify Course Notes/Untitled.md",
     "eJPT/Penetration Testing pre-requisites/images/HTML Request.svg",
     "eJPT/Penetration Testing pre-requisites/images/cookie-domain.png",
     "Advent of Cyber/Pics/Xmas.png",
