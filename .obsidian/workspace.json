@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCM Security/PEH/Networking Refresher.md",
+                "file": "PortSwigger Academy/SQL Injection.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCM Security/PEH/Networking Refresher.md",
+                "file": "PortSwigger Academy/SQL Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TCM Security/PEH/Networking Refresher.md",
+                "file": "PortSwigger Academy/SQL Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCM Security/PEH/Networking Refresher.md"
+                "file": "PortSwigger Academy/SQL Injection.md"
               }
             }
           },
@@ -163,8 +163,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce7cbc096c348b06",
+  "active": "2bd440d4eae94e8c",
   "lastOpenFiles": [
+    "TCM Security/PEH/Networking Refresher.md",
+    "PortSwigger Academy/SQL Injection.md",
+    "PortSwigger Academy",
     "TCM Security/PWST",
     "Security+/Security+ Info.md",
     "Splunk/Introduction to Splunk.md",
@@ -173,7 +176,6 @@
     "Untitled.canvas",
     "Networking (CCNA)/Threat Intelligence and MITRE ATT&CK.pptx",
     "Networking (CCNA)",
-    "TCM Security/PEH/Networking Refresher.md",
     "Security+",
     "TCM Security/PEH/pics/public-and-private-addresses.jpg",
     "TCM Security/PEH/pics/Public-vs-Private-IP-Addresses-01-EN.webp",
@@ -183,7 +185,6 @@
     "AWS Solutions Architect/1. IAM and AWS CLI.md",
     "TCM Security/PEH",
     "TCM Security",
-    "eJPT/INE Cyber Security - User Guide.pdf",
     "eJPT/Penetration Testing pre-requisites/HTTP Basics.md",
     "Bash Scripting/Bash Scripting.md",
     "Spin The Hack/RED Team Training/Day - 6 -Discovering Patching Vulnerabilities.md",
@@ -191,7 +192,6 @@
     "AWS Solutions Architect/0. Getting Started with AWS.md",
     "AWS Solutions Architect/screenshots/IAM_policies_inheritance.jpg",
     "AWS Solutions Architect/screenshots/IAM_JSO_Policy_Structure.jpg",
-    "AWS Solutions Architect/screenshots",
     "Bug Bounty/PortSwigger Academy/Broken Access Control.md",
     "AWS Solutions Architect/IAM_policies_inheritance.jpg",
     "AWS Solutions Architect/IAM_JSO_Policy_Structure.jpg",
