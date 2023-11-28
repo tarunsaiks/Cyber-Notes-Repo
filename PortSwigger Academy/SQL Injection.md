@@ -21,3 +21,8 @@ OAST can be used to identify vulnerabilities that are not detectable using tradi
 ## SQL injection in different parts of the query
 
 Most SQL Injection vulns occur within WHERE clause of a SELECT query. But can also occur within different query types.
+
+- In `UPDATE` statements, within the updated values or the `WHERE` clause.
+- In `INSERT` statements, within the inserted values.
+- In `SELECT` statements, within the table or column name.
+- In `SELECT` statements, within the `ORDER BY` clause.
