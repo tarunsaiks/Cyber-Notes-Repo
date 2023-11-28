@@ -1,0 +1,1 @@
+SQLi - Attackers interfere with queries to view data that they are normally able to retrieve.
