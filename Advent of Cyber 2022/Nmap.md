@@ -83,7 +83,7 @@ This is all well and good, however, there is a third possibility. What if the po
 **Many firewalls are configured to simply drop incoming packets. Nmap sends a TCP SYN request, and receives nothing back. This indicates that the port is being protected by a firewall and thus the port is considered to be filtered.** 
 
 That said, it is very easy to configure a firewall to respond with a RST TCP packet. For example, in IPtables for Linux, a simple version of the command would be as follows:
-![[Pics/iptables-cmd.png]]
+![[iptables-cmd.png]]
 
 
 ## TCP SYN Scans
@@ -123,17 +123,17 @@ That said, it is very easy to configure a firewall to respond with a RST TCP pac
 ### NULL: 
 
 -   (-sN) scans are when TCP request is sent with no flag set at all, then as per RFC, the host should respond with a RST if port is closed. 
-- ![[Pics/NULL.png]]
+- ![[NULL.png]]
 
 ### FIN: 
 
 -   (-sF) works in almost same way, except request is sent with FIN flag set (usually used to gracefully close an active connection), RST if port is closed.
-- ![[Pics/FIN.png]]
+- ![[FIN.png]]
 
 ### Xmas: 
 
 -   Xmas scans (-sX) send a malformed TCP packet and expects a RST response for closed ports. It's referred to as an xmas scan as the flags that it sets (PSH, URG and FIN) give it the appearance of a blinking christmas tree when viewed as a packet capture in Wireshark. 
--   ![[Pics/Xmas.png]]
+-   ![[Xmas.png]]
 
 If the port is open then there is no response to the malformed packet. Unfortunately (as with open UDP ports), that is also an expected behaviour if the port is protected by a firewall, so NULL, FIN and Xmas scans will only ever identify ports as being open|filtered, closed, or filtered. If a port is identified as filtered with one of these scans then it is usually because the target has responded with an ICMP unreachable packet.
 
