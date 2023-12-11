@@ -20,7 +20,7 @@ Exam Objectives is important to understand and analyze with preparation.
 
 ## Exam Format
 
-
+- 90 min max
 - MCQ
 - Performance Based Questions
 - 75 to 85 (90)

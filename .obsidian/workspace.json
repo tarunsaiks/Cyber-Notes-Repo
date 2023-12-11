@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PortSwigger Academy/SQL Injection.md",
+                "file": "Security+/2. Fundamentals of Security.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PortSwigger Academy/SQL Injection.md",
+                "file": "Security+/2. Fundamentals of Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PortSwigger Academy/SQL Injection.md",
+                "file": "Security+/2. Fundamentals of Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PortSwigger Academy/SQL Injection.md"
+                "file": "Security+/2. Fundamentals of Security.md"
               }
             }
           },
@@ -163,13 +163,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce7cbc096c348b06",
+  "active": "2bd440d4eae94e8c",
   "lastOpenFiles": [
-    "TCM Security/PEH/Networking Refresher.md",
+    "Security+/Security+ Info.md",
+    "Security+/2. Fundamentals of Security.md",
     "PortSwigger Academy/SQL Injection.md",
+    "TCM Security/PEH/Networking Refresher.md",
     "PortSwigger Academy",
     "TCM Security/PWST",
-    "Security+/Security+ Info.md",
     "Splunk/Introduction to Splunk.md",
     "Networking (CCNA)/3. Basic Network Terms.md",
     "Untitled.md",
@@ -207,7 +208,6 @@
     "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 4 - Understand Governance Elements and Processes.md",
     "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 1 - Security Principles.md",
     "ISC2/Certified In Cybersecurity/0. Course Objectives.md",
-    "Spin The Hack/RED Team Training/Day - 5 - Port Scan with NMAP.md",
     "eJPT/Penetration Testing pre-requisites/images/HTML Request.svg",
     "eJPT/Penetration Testing pre-requisites/images/cookie-domain.png",
     "Advent of Cyber 2022/Pics/Xmas.png",
