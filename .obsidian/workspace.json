@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Splunk/Using Splunk Web.md",
+                "file": "Splunk/2.Using Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Splunk/Using Splunk Web.md",
+                "file": "Splunk/2.Using Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Splunk/Using Splunk Web.md",
+                "file": "Splunk/2.Using Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Splunk/Using Splunk Web.md"
+                "file": "Splunk/2.Using Search.md"
               }
             }
           },
@@ -165,8 +165,9 @@
   },
   "active": "2bd440d4eae94e8c",
   "lastOpenFiles": [
+    "Splunk/1.Using Splunk Web.md",
+    "Splunk/2.Using Search.md",
     "Splunk/0.Introduction to Splunk.md",
-    "Splunk/Using Splunk Web.md",
     "Security+/2. Fundamentals of Security.md",
     "Security+/Security+ Info.md",
     "PortSwigger Academy/SQL Injection.md",
@@ -207,7 +208,6 @@
     "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 3 - Understanding Security Controls.md",
     "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 2 - Understanding Risk Management Process.md",
     "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 4 - Understand Governance Elements and Processes.md",
-    "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 1 - Security Principles.md",
     "eJPT/Penetration Testing pre-requisites/images/HTML Request.svg",
     "eJPT/Penetration Testing pre-requisites/images/cookie-domain.png",
     "Advent of Cyber 2022/Pics/Xmas.png",
