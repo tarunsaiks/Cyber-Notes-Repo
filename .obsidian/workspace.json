@@ -166,9 +166,12 @@
   "active": "2bd440d4eae94e8c",
   "lastOpenFiles": [
     "Splunk/2 Using Search.md",
-    "Splunk/3 Commands.md",
     "Splunk/0 Introduction to Splunk.md",
     "Splunk/1 Using Splunk Web.md",
+    "Splunk/3 Commands.md",
+    "Splunk/screenshots/Splunk_search_language_example.png",
+    "Splunk/screenshots",
+    "Splunk/New folder",
     "Security+/2. Fundamentals of Security.md",
     "Security+/Security+ Info.md",
     "PortSwigger Academy/SQL Injection.md",
@@ -187,8 +190,6 @@
     "TCM Security/PEH/pics",
     "TCM Security/PEH/New folder",
     "AWS Solutions Architect/1. IAM and AWS CLI.md",
-    "TCM Security/PEH",
-    "TCM Security",
     "eJPT/Penetration Testing pre-requisites/HTTP Basics.md",
     "Bash Scripting/Bash Scripting.md",
     "Spin The Hack/RED Team Training/Day - 6 -Discovering Patching Vulnerabilities.md",
@@ -207,10 +208,8 @@
     "ISC2/Certified In Cybersecurity/Chapter 2/Module 2 - Understand Business Continuity.md",
     "ISC2/Certified In Cybersecurity/Chapter 1/Module 1 - Summary.md",
     "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 3 - Understanding Security Controls.md",
-    "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 2 - Understanding Risk Management Process.md",
     "eJPT/Penetration Testing pre-requisites/images/HTML Request.svg",
     "eJPT/Penetration Testing pre-requisites/images/cookie-domain.png",
-    "Advent of Cyber 2022/Pics/Xmas.png",
-    "Advent of Cyber 2022/Pics/RST for closed ports.png"
+    "Advent of Cyber 2022/Pics/Xmas.png"
   ]
 }
