@@ -33,4 +33,4 @@ Using Network index data from cisco_web_security_application data where it is co
 
 search command can be used at any time of search pipeline to further search in the results.
 
-![](search_pipeline_search.png)
+![](screenshots/search_pipeline_search.png)

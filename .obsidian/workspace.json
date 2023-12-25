@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Splunk/3 Commands.md",
+                "file": "AWS Solutions Architect/1. IAM and AWS CLI.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Splunk/3 Commands.md",
+                "file": "AWS Solutions Architect/1. IAM and AWS CLI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Splunk/3 Commands.md",
+                "file": "AWS Solutions Architect/1. IAM and AWS CLI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Splunk/3 Commands.md"
+                "file": "AWS Solutions Architect/1. IAM and AWS CLI.md"
               }
             }
           },
@@ -164,11 +164,12 @@
   },
   "active": "2bd440d4eae94e8c",
   "lastOpenFiles": [
+    "AWS Solutions Architect/0. Getting Started with AWS.md",
+    "Splunk/3 Commands.md",
     "Splunk/screenshots/search_pipeline_search.png",
     "Splunk/2 Using Search.md",
     "Splunk/0 Introduction to Splunk.md",
     "Splunk/1 Using Splunk Web.md",
-    "Splunk/3 Commands.md",
     "Splunk/screenshots/Splunk_search_language_example.png",
     "Splunk/screenshots",
     "Splunk/New folder",
@@ -194,7 +195,6 @@
     "Bash Scripting/Bash Scripting.md",
     "Spin The Hack/RED Team Training/Day - 6 -Discovering Patching Vulnerabilities.md",
     "Spin The Hack/RED Team Training/Day - 7 - Discovering Authentication Vulnerabilities.md",
-    "AWS Solutions Architect/0. Getting Started with AWS.md",
     "AWS Solutions Architect/screenshots/IAM_policies_inheritance.jpg",
     "AWS Solutions Architect/screenshots/IAM_JSO_Policy_Structure.jpg",
     "Bug Bounty/PortSwigger Academy/Broken Access Control.md",
@@ -209,7 +209,6 @@
     "ISC2/Certified In Cybersecurity/Chapter 1/Module 1 - Summary.md",
     "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 3 - Understanding Security Controls.md",
     "eJPT/Penetration Testing pre-requisites/images/HTML Request.svg",
-    "eJPT/Penetration Testing pre-requisites/images/cookie-domain.png",
-    "Advent of Cyber 2022/Pics/Xmas.png"
+    "eJPT/Penetration Testing pre-requisites/images/cookie-domain.png"
   ]
 }
