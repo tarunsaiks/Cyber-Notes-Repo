@@ -36,5 +36,26 @@ Fast, Smart and Verbose mode.
 Fast - Field Discovery disabled - Cuts down Field Information
 Verbose - All the fields data and verbose.
 
+## Exploring Events and Search Terms
 
-Previous - [[1 Using Splunk Web]] Next - [[3 Exploring Events]]
+Events are returned in a reverse chronological list (newest items first)
+
+Wildcards can be used to match terms better using `*`
+
+Search terms are not case sensitive.
+
+Uppercase Booleans of AND, OR, NOT can be used.
+
+Boolean Order of operations are
+1. NOT
+2. OR
+3. AND
+Parenthesis can be used to prioritize it first.
+
+Exact terms can be searched by placing them in quotes `"login" "failed"`
+
+Escape characters can be used in a search using `\`
+
+```
+info="user \"ChrisV4\" not in database"
+```
