@@ -26,11 +26,11 @@ as - clause
 
 | - Pipe
 
-![[Splunk_search_language_example.png]]
+![](Splunk_search_language_example.png)
 
 
 Using Network index data from cisco_web_security_application data where it is counting number of users that were prohibited access using keyword Violation. This data is stored in a field called Visits.
 
 search command can be used at any time of search pipeline to further search in the results.
 
-![[search_pipeline_search.png]]
+![](search_pipeline_search.png)
