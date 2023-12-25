@@ -1,0 +1,1 @@
+Events are returned in a reverse chronological list (newest items first)

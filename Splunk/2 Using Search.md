@@ -1,3 +1,4 @@
+
 #splunk #searchandreporting #splunkapps #splunk_search 
 In Search and Reporting app, Add the appropriate term on which we need to search and select time range and get the results.
 
@@ -30,8 +31,10 @@ If searches creates any  statistics or patterns, it will be available in respect
 - Print 
 - Export - Raw, CSV, XML and JSON formats supported
 ### Search mode Selector
-
 Fast, Smart and Verbose mode.
 
 Fast - Field Discovery disabled - Cuts down Field Information
-Verbose - All the fields data and 
+Verbose - All the fields data and verbose.
+
+
+Previous - [[1 Using Splunk Web]] Next - [[3 Exploring Events]]
