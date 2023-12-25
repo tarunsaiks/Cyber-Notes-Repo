@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9e957afe86ef3406",
+        "id": "c5789cca24ddbadc",
         "type": "tabs",
         "children": [
           {
-            "id": "2bd440d4eae94e8c",
+            "id": "0012bac4615df799",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Solutions Architect/1. IAM and AWS CLI.md",
+                "file": "Splunk/3 Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Solutions Architect/1. IAM and AWS CLI.md",
+                "file": "Splunk/3 Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Solutions Architect/1. IAM and AWS CLI.md",
+                "file": "Splunk/3 Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS Solutions Architect/1. IAM and AWS CLI.md"
+                "file": "Splunk/3 Commands.md"
               }
             }
           },
@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,10 +163,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2bd440d4eae94e8c",
+  "active": "0012bac4615df799",
   "lastOpenFiles": [
-    "AWS Solutions Architect/0. Getting Started with AWS.md",
+    "2023-12-25.md",
     "Splunk/3 Commands.md",
+    "AWS Solutions Architect/1. IAM and AWS CLI.md",
+    "AWS Solutions Architect/0. Getting Started with AWS.md",
     "Splunk/screenshots/search_pipeline_search.png",
     "Splunk/2 Using Search.md",
     "Splunk/0 Introduction to Splunk.md",
@@ -190,7 +193,6 @@
     "TCM Security/PEH/pics/Public-vs-Private-IP-Addresses-01-EN.webp.crdownload",
     "TCM Security/PEH/pics",
     "TCM Security/PEH/New folder",
-    "AWS Solutions Architect/1. IAM and AWS CLI.md",
     "eJPT/Penetration Testing pre-requisites/HTTP Basics.md",
     "Bash Scripting/Bash Scripting.md",
     "Spin The Hack/RED Team Training/Day - 6 -Discovering Patching Vulnerabilities.md",
