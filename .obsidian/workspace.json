@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Splunk/3 Commands.md",
+                "file": "Comcast/Threat Hunting Project sample.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Splunk/3 Commands.md",
+                "file": "Comcast/Threat Hunting Project sample.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Splunk/3 Commands.md",
+                "file": "Comcast/Threat Hunting Project sample.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Splunk/3 Commands.md"
+                "file": "Comcast/Threat Hunting Project sample.md"
               }
             }
           },
@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,14 +164,16 @@
   },
   "active": "0012bac4615df799",
   "lastOpenFiles": [
-    "2023-12-25.md",
+    "Splunk/0 Introduction to Splunk.md",
+    "Comcast/Threat Hunting Project sample.md",
+    "Comcast",
+    "Splunk/1 Using Splunk Web.md",
     "Splunk/3 Commands.md",
+    "2023-12-25.md",
     "AWS Solutions Architect/1. IAM and AWS CLI.md",
     "AWS Solutions Architect/0. Getting Started with AWS.md",
     "Splunk/screenshots/search_pipeline_search.png",
     "Splunk/2 Using Search.md",
-    "Splunk/0 Introduction to Splunk.md",
-    "Splunk/1 Using Splunk Web.md",
     "Splunk/screenshots/Splunk_search_language_example.png",
     "Splunk/screenshots",
     "Splunk/New folder",
@@ -192,7 +193,6 @@
     "TCM Security/PEH/pics/Public-vs-Private-IP-Addresses-01-EN.webp",
     "TCM Security/PEH/pics/Public-vs-Private-IP-Addresses-01-EN.webp.crdownload",
     "TCM Security/PEH/pics",
-    "TCM Security/PEH/New folder",
     "eJPT/Penetration Testing pre-requisites/HTTP Basics.md",
     "Bash Scripting/Bash Scripting.md",
     "Spin The Hack/RED Team Training/Day - 6 -Discovering Patching Vulnerabilities.md",
@@ -209,7 +209,6 @@
     "ISC2/Certified In Cybersecurity/Chapter 2/Module 1 - Understand Incident Response.md",
     "ISC2/Certified In Cybersecurity/Chapter 2/Module 2 - Understand Business Continuity.md",
     "ISC2/Certified In Cybersecurity/Chapter 1/Module 1 - Summary.md",
-    "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 3 - Understanding Security Controls.md",
     "eJPT/Penetration Testing pre-requisites/images/HTML Request.svg",
     "eJPT/Penetration Testing pre-requisites/images/cookie-domain.png"
   ]
