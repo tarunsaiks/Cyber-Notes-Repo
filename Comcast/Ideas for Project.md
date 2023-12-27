@@ -19,6 +19,9 @@
 ## 5. Cloud Security Threat Hunting:
 - **Idea:** Extend threat hunting to cloud environments, identifying security threats in AWS, Azure, or GCP.
 - **Technologies/Tools:** AWS CloudTrail, Azure Security Center, Google Cloud Security Command Center.
+- Examples
+	- [Azure Sentinel webinar: Threat Hunting on AWS (youtube.com)](https://www.youtube.com/watch?v=F6U2hSTcvFU)
+	- 
 
 ## ~~6. Web Application Security Hunting:~~
 ~~- **Idea:** Explore and hunt for vulnerabilities or indicators of compromise in web applications.~~
