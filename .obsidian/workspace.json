@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comcast/Threat Hunting Project sample.md",
+                "file": "Comcast/Ideas for Project.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comcast/Threat Hunting Project sample.md",
+                "file": "Comcast/Ideas for Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comcast/Threat Hunting Project sample.md",
+                "file": "Comcast/Ideas for Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comcast/Threat Hunting Project sample.md"
+                "file": "Comcast/Ideas for Project.md"
               }
             }
           },
@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,12 +163,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "907905a4e99c4cbb",
+  "active": "94890cdbe17a5884",
   "lastOpenFiles": [
+    "Comcast/Threat Hunting Project sample.md",
+    "Comcast/Ideas for Project.md",
     "Comcast/TaHiTI-Threat-Hunting-Methodology.pdf",
     "Comcast/Unconfirmed 406727.crdownload",
     "AWS Solutions Architect/0. Getting Started with AWS.md",
-    "Comcast/Threat Hunting Project sample.md",
     "Splunk/0 Introduction to Splunk.md",
     "Comcast",
     "Splunk/1 Using Splunk Web.md",
@@ -193,7 +195,6 @@
     "Security+",
     "TCM Security/PEH/pics/public-and-private-addresses.jpg",
     "TCM Security/PEH/pics/Public-vs-Private-IP-Addresses-01-EN.webp",
-    "TCM Security/PEH/pics/Public-vs-Private-IP-Addresses-01-EN.webp.crdownload",
     "eJPT/Penetration Testing pre-requisites/HTTP Basics.md",
     "Bash Scripting/Bash Scripting.md",
     "Spin The Hack/RED Team Training/Day - 6 -Discovering Patching Vulnerabilities.md",
