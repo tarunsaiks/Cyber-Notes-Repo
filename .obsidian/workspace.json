@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comcast/Ideas for Project.md",
+                "file": "Comcast/Threat Hunting Project sample.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comcast/Ideas for Project.md",
+                "file": "Comcast/Threat Hunting Project sample.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comcast/Ideas for Project.md",
+                "file": "Comcast/Threat Hunting Project sample.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comcast/Ideas for Project.md"
+                "file": "Comcast/Threat Hunting Project sample.md"
               }
             }
           },
@@ -165,8 +165,8 @@
   },
   "active": "907905a4e99c4cbb",
   "lastOpenFiles": [
-    "Comcast/TaHiTI-Threat-Hunting-Methodology.pdf",
     "Comcast/Ideas for Project.md",
+    "Comcast/TaHiTI-Threat-Hunting-Methodology.pdf",
     "Comcast/Threat Intelligence Integration.md",
     "Comcast/Threat Hunting Project sample.md",
     "Comcast/Unconfirmed 406727.crdownload",
