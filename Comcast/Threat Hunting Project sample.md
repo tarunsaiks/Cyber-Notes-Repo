@@ -7,4 +7,5 @@
 
 1. Classify and Arrange data into normal and malicious data and build a naive bayes classifier like spam filter to predict and give accuracy.
 
-2. Integrate OpenCTI or MISP with SIEM tool, (Generate feeds from open-source tools or sites like twitter using python or PowerAutomate, get data dumps in excel CSV) perform adversarial testing using scripts hosted in a server to manage and 
+2. Integrate OpenCTI or MISP with SIEM tool, (Generate feeds from open-source tools or sites like twitter using python or PowerAutomate, get data dumps in excel CSV) perform adversarial testing using scripts hosted in a server or MITRE Caldera.
+3. 
