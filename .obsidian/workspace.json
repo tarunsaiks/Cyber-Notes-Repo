@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "c5789cca24ddbadc",
+        "id": "680c82d805f8a2b2",
         "type": "tabs",
         "children": [
           {
-            "id": "0012bac4615df799",
+            "id": "907905a4e99c4cbb",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -154,8 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0012bac4615df799",
+  "active": "907905a4e99c4cbb",
   "lastOpenFiles": [
+    "Comcast/TaHiTI-Threat-Hunting-Methodology.pdf",
+    "Comcast/Unconfirmed 406727.crdownload",
+    "AWS Solutions Architect/0. Getting Started with AWS.md",
     "Comcast/Threat Hunting Project sample.md",
     "Splunk/0 Introduction to Splunk.md",
     "Comcast",
@@ -163,7 +166,6 @@
     "Splunk/3 Commands.md",
     "2023-12-25.md",
     "AWS Solutions Architect/1. IAM and AWS CLI.md",
-    "AWS Solutions Architect/0. Getting Started with AWS.md",
     "Splunk/screenshots/search_pipeline_search.png",
     "Splunk/2 Using Search.md",
     "Splunk/screenshots/Splunk_search_language_example.png",
@@ -184,7 +186,6 @@
     "TCM Security/PEH/pics/public-and-private-addresses.jpg",
     "TCM Security/PEH/pics/Public-vs-Private-IP-Addresses-01-EN.webp",
     "TCM Security/PEH/pics/Public-vs-Private-IP-Addresses-01-EN.webp.crdownload",
-    "TCM Security/PEH/pics",
     "eJPT/Penetration Testing pre-requisites/HTTP Basics.md",
     "Bash Scripting/Bash Scripting.md",
     "Spin The Hack/RED Team Training/Day - 6 -Discovering Patching Vulnerabilities.md",
@@ -200,7 +201,6 @@
     "ISC2/Certified In Cybersecurity/Chapter 2/Module 3 - Understand Disaster Recovery.md",
     "ISC2/Certified In Cybersecurity/Chapter 2/Module 1 - Understand Incident Response.md",
     "ISC2/Certified In Cybersecurity/Chapter 2/Module 2 - Understand Business Continuity.md",
-    "ISC2/Certified In Cybersecurity/Chapter 1/Module 1 - Summary.md",
     "eJPT/Penetration Testing pre-requisites/images/HTML Request.svg",
     "eJPT/Penetration Testing pre-requisites/images/cookie-domain.png"
   ]
