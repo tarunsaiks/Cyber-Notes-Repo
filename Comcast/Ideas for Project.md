@@ -16,6 +16,7 @@
 - **Idea:** Incorporate threat intelligence feeds into your threat hunting process.
 - **Technologies/Tools:** MISP, STIX/TAXI, ThreatConnect, ThreatQuotient, OpenCTI.
 
+
 ## 5. Cloud Security Threat Hunting:
 - **Idea:** Extend threat hunting to cloud environments, identifying security threats in AWS, Azure, or GCP.
 - **Technologies/Tools:** AWS CloudTrail, Azure Security Center, Google Cloud Security Command Center.

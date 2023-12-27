@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comcast/Ideas for Project.md",
+                "file": "Comcast/Threat Intelligence Integration.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comcast/Ideas for Project.md",
+                "file": "Comcast/Threat Intelligence Integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comcast/Ideas for Project.md",
+                "file": "Comcast/Threat Intelligence Integration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comcast/Ideas for Project.md"
+                "file": "Comcast/Threat Intelligence Integration.md"
               }
             }
           },
@@ -163,10 +163,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94890cdbe17a5884",
+  "active": "907905a4e99c4cbb",
   "lastOpenFiles": [
-    "Comcast/Threat Hunting Project sample.md",
     "Comcast/Ideas for Project.md",
+    "Comcast/Threat Intelligence Integration.md",
+    "Comcast/Threat Hunting Project sample.md",
     "Comcast/TaHiTI-Threat-Hunting-Methodology.pdf",
     "Comcast/Unconfirmed 406727.crdownload",
     "AWS Solutions Architect/0. Getting Started with AWS.md",
@@ -209,7 +210,6 @@
     "CS 253 - Web Security/1. What is Web Security, HTML and JS.md",
     "ISC2/Certified In Cybersecurity/Chapter 2/Module 3 - Understand Disaster Recovery.md",
     "ISC2/Certified In Cybersecurity/Chapter 2/Module 1 - Understand Incident Response.md",
-    "ISC2/Certified In Cybersecurity/Chapter 2/Module 2 - Understand Business Continuity.md",
     "eJPT/Penetration Testing pre-requisites/images/HTML Request.svg",
     "eJPT/Penetration Testing pre-requisites/images/cookie-domain.png"
   ]
