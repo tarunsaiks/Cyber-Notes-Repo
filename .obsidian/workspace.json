@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comcast/Threat Hunting Project sample.md",
+                "file": "Advent of Cyber 2022/Day - 2 (Log Analysis).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comcast/Threat Hunting Project sample.md",
+                "file": "Advent of Cyber 2022/Day - 2 (Log Analysis).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comcast/Threat Hunting Project sample.md",
+                "file": "Advent of Cyber 2022/Day - 2 (Log Analysis).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comcast/Threat Hunting Project sample.md"
+                "file": "Advent of Cyber 2022/Day - 2 (Log Analysis).md"
               }
             }
           },
@@ -165,10 +165,10 @@
   },
   "active": "907905a4e99c4cbb",
   "lastOpenFiles": [
+    "Comcast/Threat Hunting Project sample.md",
     "Comcast/Ideas for Project.md",
     "Comcast/TaHiTI-Threat-Hunting-Methodology.pdf",
     "Comcast/Threat Intelligence Integration.md",
-    "Comcast/Threat Hunting Project sample.md",
     "Comcast/Unconfirmed 406727.crdownload",
     "AWS Solutions Architect/0. Getting Started with AWS.md",
     "Splunk/0 Introduction to Splunk.md",
