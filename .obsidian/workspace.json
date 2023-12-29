@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,6 +164,9 @@
   },
   "active": "907905a4e99c4cbb",
   "lastOpenFiles": [
+    "FortinetCerts/NSE_2_Certification.pdf",
+    "FortinetCerts/NSE_1_Certification.pdf",
+    "FortinetCerts",
     "Fortinet Certs/NSE_2_Certification.pdf",
     "Fortinet Certs/NSE_1_Certification.pdf",
     "Fortinet Certs",
@@ -186,13 +188,10 @@
     "Splunk/2 Using Search.md",
     "Splunk/screenshots/Splunk_search_language_example.png",
     "Splunk/screenshots",
-    "Splunk/New folder",
     "Security+/2. Fundamentals of Security.md",
     "Security+/Security+ Info.md",
     "PortSwigger Academy/SQL Injection.md",
     "TCM Security/PEH/Networking Refresher.md",
-    "PortSwigger Academy",
-    "TCM Security/PWST",
     "Networking (CCNA)/3. Basic Network Terms.md",
     "Untitled.md",
     "Untitled.canvas",
