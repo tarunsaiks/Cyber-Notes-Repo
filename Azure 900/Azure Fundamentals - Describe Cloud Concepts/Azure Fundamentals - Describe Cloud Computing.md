@@ -85,15 +85,15 @@ Your service model will determine responsibility for things like:
 |Applications can be quickly provisioned and deprovisioned|Data is not collocated with other organizations’ data|Organizations determine where to run their applications|
 |Organizations pay only for what they use|Hardware must be purchased for startup and maintenance|Organizations control security, compliance, or legal requirements|
 |Organizations don’t have complete control over resources and security|Organizations are responsible for hardware maintenance and updates||
-## Multi-Cloud 
+### Multi-Cloud 
 #multi-cloud
 A fourth, and increasingly likely scenario is a multi-cloud scenario. In a multi-cloud scenario, you use multiple public cloud providers. Maybe you use different features from different cloud providers. Or maybe you started your cloud journey with one provider and are in the process of migrating to a different provider. Regardless, in a multi-cloud environment you deal with two (or more) public cloud providers and manage resources and security in both environments.
 
-## Azure Arc
+### Azure Arc
 #AzureArc #Azure
 Azure Arc is a set of technologies that helps manage your cloud environment. Azure Arc can help manage your cloud environment, whether it's a public cloud solely on Azure, a private cloud in your datacenter, a hybrid configuration, or even a multi-cloud environment running on multiple cloud providers at once.
 
-## Azure VMware Solution
+### Azure VMware Solution
 #Azure #AzureVMWare
 What if you’re already established with VMware in a private cloud environment but want to migrate to a public or hybrid cloud? Azure VMware Solution lets you run your VMware workloads in Azure with seamless integration and scalability.
 
@@ -128,3 +128,30 @@ Cloud computing is the delivery of computing services over the internet by using
 To put it another way, cloud computing is **a way to rent compute power and storage from someone else’s datacenter.** You can treat cloud resources like you would resources in your own datacenter. However, ==unlike in your own datacenter, when you're done using cloud resources, you give them back. You’re billed only for what you use==.
 
 Instead of maintaining CPUs and storage in your datacenter, you rent them for the time that you need them. The cloud provider takes care of maintaining the underlying infrastructure for you. The cloud enables you to quickly solve your toughest business challenges and bring cutting-edge solutions to your users.
+
+# Summary
+
+Completed100 XP
+
+- 2 minutes
+
+In this module, you learned about general cloud concepts. You started with things like just understanding what cloud computing is. You also learned about the shared responsibility model and how you and your cloud provider share the responsibility of keeping your information in the cloud secure. You briefly covered the differences between the cloud models (public, private, hybrid, and multi-cloud). Then, you wrapped up with a unit on how the cloud shifts IT spend from a capital expense to an operational expense.
+
+## Learning objectives
+
+You should now be able to:
+
+- Define cloud computing.
+- Describe the shared responsibility model.
+- Define cloud models, including public, private, and hybrid.
+- Identify appropriate use cases for each cloud model.
+- Describe the consumption-based model.
+- Compare cloud pricing models.
+
+## Additional resources
+
+The following resources provide more information on topics in this module or related to this module.
+
+- [Shared responsibility model](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility) - The shared responsibility model is the sharing of responsibilities for the cloud between you and your cloud provider.
+- [Introduction to Azure VMware Solution](https://learn.microsoft.com/en-us/learn/modules/intro-azure-vmware-solution/) is a Microsoft Learn course that dives deeper into Azure VMware Solution.
+- [Introduction to Azure hybrid cloud services](https://learn.microsoft.com/en-us/learn/modules/intro-to-azure-hybrid-services/) is a Microsoft Learn course that explains hybrid cloud in greater detail.

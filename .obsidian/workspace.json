@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "680c82d805f8a2b2",
+        "id": "e117375f56f328b2",
         "type": "tabs",
         "children": [
           {
-            "id": "907905a4e99c4cbb",
+            "id": "6520de1e15c0cf25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure 900/Azure Fundamentals - Describe Cloud Concepts.md",
+                "file": "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe Benefits of Cloud Services.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azure 900/Azure Fundamentals - Describe Cloud Concepts.md",
+                "file": "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe Benefits of Cloud Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Azure 900/Azure Fundamentals - Describe Cloud Concepts.md",
+                "file": "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe Benefits of Cloud Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azure 900/Azure Fundamentals - Describe Cloud Concepts.md"
+                "file": "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe Benefits of Cloud Services.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -163,11 +163,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "907905a4e99c4cbb",
+  "active": "6520de1e15c0cf25",
   "lastOpenFiles": [
+    "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe Cloud Computing.md",
+    "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe Benefits of Cloud Services.md",
+    "Azure 900/Azure Fundamentals - Describe Cloud Concepts",
+    "Azure 900/Azure Fundamentals - Descibe.md",
     "Pasted image 20231229161317.png",
     "Comcast/Threat Hunting Project sample.md",
-    "Azure 900/Azure Fundamentals - Describe Cloud Concepts.md",
     "Azure 900",
     "FortinetCerts/NSE_2_Certification.pdf",
     "FortinetCerts/NSE_1_Certification.pdf",
@@ -180,7 +183,6 @@
     "Comcast/Threat Intelligence Integration.md",
     "Comcast/Ideas for Project.md",
     "Comcast/TaHiTI-Threat-Hunting-Methodology.pdf",
-    "Comcast/Unconfirmed 406727.crdownload",
     "AWS Solutions Architect/0. Getting Started with AWS.md",
     "Splunk/0 Introduction to Splunk.md",
     "Splunk/1 Using Splunk Web.md",
@@ -209,8 +211,6 @@
     "AWS Solutions Architect/IAM_policies_inheritance.jpg",
     "AWS Solutions Architect/IAM_JSO_Policy_Structure.jpg",
     "Bug Bounty/OWASP Top 10/Broken Access Control.md",
-    "Bug Bounty/Google Dorking.md",
-    "eJPT/Penetration Testing pre-requisites/images/HTML Request.svg",
-    "eJPT/Penetration Testing pre-requisites/images/cookie-domain.png"
+    "eJPT/Penetration Testing pre-requisites/images/HTML Request.svg"
   ]
 }
