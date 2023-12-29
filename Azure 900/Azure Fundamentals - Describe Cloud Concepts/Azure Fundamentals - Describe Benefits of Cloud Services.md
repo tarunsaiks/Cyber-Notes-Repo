@@ -19,3 +19,7 @@ Handling Demand - Scalability
 - High Availability focuses on ensuring max availability, regardless of disruptions or events that may occur
 - When you’re architecting your solution, you’ll need to account for service availability guarantees. Azure is a highly available cloud environment with uptime guarantees depending on the service. These guarantees are part of the **service-level agreements (SLAs).** #SLA #service-level-agreements
 
+### SLA
+- Formal agreement between 
+
+
