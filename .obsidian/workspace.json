@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e117375f56f328b2",
+        "id": "3cea93f27932921f",
         "type": "tabs",
         "children": [
           {
-            "id": "6520de1e15c0cf25",
+            "id": "5c53ba82acb96296",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Comcast/Ideas for Project.md",
-                "mode": "source",
-                "source": false
+                "file": "Qualys-EDR/edr_cert.pdf"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comcast/Ideas for Project.md",
+                "file": "Qualys-EDR/edr_cert.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comcast/Ideas for Project.md",
+                "file": "Qualys-EDR/edr_cert.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comcast/Ideas for Project.md"
+                "file": "Qualys-EDR/edr_cert.pdf"
               }
             }
           },
@@ -150,8 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,8 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6520de1e15c0cf25",
+  "active": "348fa0eab31fcdc4",
   "lastOpenFiles": [
+    "Qualys-EDR/edr_cert.pdf",
+    "Comcast/Ideas for Project.md",
+    "Qualys-EDR",
     "Comcast/Threat Hunting Project sample.md",
     "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe Benefits of Cloud Services.md",
     "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe Cloud Computing.md",
@@ -178,11 +178,8 @@
     "Fortinet Certs/NSE_2_Certification.pdf",
     "Fortinet Certs/NSE_1_Certification.pdf",
     "Fortinet Certs",
-    "New folder",
     "Advent of Cyber 2022/Day - 2 (Log Analysis).md",
     "Comcast/Threat Intelligence Integration.md",
-    "Comcast/Ideas for Project.md",
-    "Comcast/TaHiTI-Threat-Hunting-Methodology.pdf",
     "AWS Solutions Architect/0. Getting Started with AWS.md",
     "Splunk/0 Introduction to Splunk.md",
     "Splunk/1 Using Splunk Web.md",
@@ -210,7 +207,6 @@
     "Bug Bounty/PortSwigger Academy/Broken Access Control.md",
     "AWS Solutions Architect/IAM_policies_inheritance.jpg",
     "AWS Solutions Architect/IAM_JSO_Policy_Structure.jpg",
-    "Bug Bounty/OWASP Top 10/Broken Access Control.md",
     "eJPT/Penetration Testing pre-requisites/images/HTML Request.svg"
   ]
 }
