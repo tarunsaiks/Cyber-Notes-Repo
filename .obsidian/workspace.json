@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe Benefits of Cloud Services.md",
+                "file": "AWS Solutions Architect/0. Getting Started with AWS.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe Benefits of Cloud Services.md",
+                "file": "AWS Solutions Architect/0. Getting Started with AWS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe Benefits of Cloud Services.md",
+                "file": "AWS Solutions Architect/0. Getting Started with AWS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe Benefits of Cloud Services.md"
+                "file": "AWS Solutions Architect/0. Getting Started with AWS.md"
               }
             }
           },
@@ -162,8 +162,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce7cbc096c348b06",
+  "active": "5c53ba82acb96296",
   "lastOpenFiles": [
+    "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe Benefits of Cloud Services.md",
     "Atomic_Red_Team/Slides.pptx",
     "Atomic_Red_Team/Adversarial Emulation Using Atomic Red Team and MITRE.pptx",
     "Atomic_Red_Team",
@@ -172,7 +173,6 @@
     "Comcast/Ideas for Project.md",
     "Qualys-EDR",
     "Comcast/Threat Hunting Project sample.md",
-    "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe Benefits of Cloud Services.md",
     "Azure 900/Azure Fundamentals - Describe Cloud Concepts",
     "Azure 900/Azure Fundamentals - Descibe.md",
     "Pasted image 20231229161317.png",
@@ -180,7 +180,6 @@
     "FortinetCerts/NSE_2_Certification.pdf",
     "FortinetCerts/NSE_1_Certification.pdf",
     "FortinetCerts",
-    "Fortinet Certs/NSE_2_Certification.pdf",
     "Advent of Cyber 2022/Day - 2 (Log Analysis).md",
     "Comcast/Threat Intelligence Integration.md",
     "AWS Solutions Architect/0. Getting Started with AWS.md",
