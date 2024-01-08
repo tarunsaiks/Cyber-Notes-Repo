@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -164,6 +164,7 @@
   },
   "active": "ce7cbc096c348b06",
   "lastOpenFiles": [
+    "Atomic_Red_Team/Slides.pptx",
     "Atomic_Red_Team/Adversarial Emulation Using Atomic Red Team and MITRE.pptx",
     "Atomic_Red_Team",
     "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe Cloud Computing.md",
@@ -180,7 +181,6 @@
     "FortinetCerts/NSE_1_Certification.pdf",
     "FortinetCerts",
     "Fortinet Certs/NSE_2_Certification.pdf",
-    "Fortinet Certs/NSE_1_Certification.pdf",
     "Advent of Cyber 2022/Day - 2 (Log Analysis).md",
     "Comcast/Threat Intelligence Integration.md",
     "AWS Solutions Architect/0. Getting Started with AWS.md",
