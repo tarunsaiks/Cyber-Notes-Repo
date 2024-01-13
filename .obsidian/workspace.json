@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Solutions Architect/0. Getting Started with AWS.md",
+                "file": "TCM Security/PEH/Networking Refresher.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Solutions Architect/0. Getting Started with AWS.md",
+                "file": "TCM Security/PEH/Networking Refresher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Solutions Architect/0. Getting Started with AWS.md",
+                "file": "TCM Security/PEH/Networking Refresher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS Solutions Architect/0. Getting Started with AWS.md"
+                "file": "TCM Security/PEH/Networking Refresher.md"
               }
             }
           },
@@ -162,8 +162,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94890cdbe17a5884",
+  "active": "5c53ba82acb96296",
   "lastOpenFiles": [
+    "AWS Solutions Architect/0. Getting Started with AWS.md",
     "Atomic_Red_Team/ppt532.tmp",
     "Atomic_Red_Team/pptD98D.tmp",
     "Atomic_Red_Team/~$Slides.pptx",
@@ -180,10 +181,8 @@
     "Azure 900/Azure Fundamentals - Descibe.md",
     "Pasted image 20231229161317.png",
     "Azure 900",
-    "FortinetCerts/NSE_2_Certification.pdf",
     "Advent of Cyber 2022/Day - 2 (Log Analysis).md",
     "Comcast/Threat Intelligence Integration.md",
-    "AWS Solutions Architect/0. Getting Started with AWS.md",
     "Splunk/0 Introduction to Splunk.md",
     "Splunk/1 Using Splunk Web.md",
     "Splunk/3 Commands.md",
