@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spin The Hack/RED Team Training/Day - 5 - Port Scan with NMAP.md",
+                "file": "Security Blue Team/Introduction to Threat hunting.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spin The Hack/RED Team Training/Day - 5 - Port Scan with NMAP.md",
+                "file": "Security Blue Team/Introduction to Threat hunting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spin The Hack/RED Team Training/Day - 5 - Port Scan with NMAP.md",
+                "file": "Security Blue Team/Introduction to Threat hunting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spin The Hack/RED Team Training/Day - 5 - Port Scan with NMAP.md"
+                "file": "Security Blue Team/Introduction to Threat hunting.md"
               }
             }
           },
@@ -164,6 +164,9 @@
   },
   "active": "5c53ba82acb96296",
   "lastOpenFiles": [
+    "Spin The Hack/RED Team Training/Day - 5 - Port Scan with NMAP.md",
+    "Security Blue Team/Introduction to Threat hunting.md",
+    "Security Blue Team",
     "TCM Security/PEH/Networking Refresher.md",
     "AWS Solutions Architect/0. Getting Started with AWS.md",
     "Atomic_Red_Team/ppt532.tmp",
@@ -181,7 +184,6 @@
     "Azure 900/Azure Fundamentals - Describe Cloud Concepts",
     "Azure 900/Azure Fundamentals - Descibe.md",
     "Pasted image 20231229161317.png",
-    "Azure 900",
     "Advent of Cyber 2022/Day - 2 (Log Analysis).md",
     "Comcast/Threat Intelligence Integration.md",
     "Splunk/0 Introduction to Splunk.md",
@@ -206,7 +208,6 @@
     "Spin The Hack/RED Team Training/Day - 7 - Discovering Authentication Vulnerabilities.md",
     "AWS Solutions Architect/screenshots/IAM_policies_inheritance.jpg",
     "AWS Solutions Architect/screenshots/IAM_JSO_Policy_Structure.jpg",
-    "Bug Bounty/PortSwigger Academy/Broken Access Control.md",
     "AWS Solutions Architect/IAM_policies_inheritance.jpg",
     "AWS Solutions Architect/IAM_JSO_Policy_Structure.jpg",
     "eJPT/Penetration Testing pre-requisites/images/HTML Request.svg"
