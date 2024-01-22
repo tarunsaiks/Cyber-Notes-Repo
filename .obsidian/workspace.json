@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Blue Team/Introduction to Threat hunting.md",
+                "file": "Security Blue Team/2. Generating Indicators.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security Blue Team/Introduction to Threat hunting.md",
+                "file": "Security Blue Team/2. Generating Indicators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security Blue Team/Introduction to Threat hunting.md",
+                "file": "Security Blue Team/2. Generating Indicators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security Blue Team/Introduction to Threat hunting.md"
+                "file": "Security Blue Team/2. Generating Indicators.md"
               }
             }
           },
@@ -146,11 +146,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,8 +165,9 @@
   },
   "active": "5c53ba82acb96296",
   "lastOpenFiles": [
+    "Security Blue Team/1. Introduction to Threat hunting.md",
+    "Security Blue Team/2. Generating Indicators.md",
     "Spin The Hack/RED Team Training/Day - 5 - Port Scan with NMAP.md",
-    "Security Blue Team/Introduction to Threat hunting.md",
     "Security Blue Team",
     "TCM Security/PEH/Networking Refresher.md",
     "AWS Solutions Architect/0. Getting Started with AWS.md",
@@ -205,7 +207,6 @@
     "eJPT/Penetration Testing pre-requisites/HTTP Basics.md",
     "Bash Scripting/Bash Scripting.md",
     "Spin The Hack/RED Team Training/Day - 6 -Discovering Patching Vulnerabilities.md",
-    "Spin The Hack/RED Team Training/Day - 7 - Discovering Authentication Vulnerabilities.md",
     "AWS Solutions Architect/screenshots/IAM_policies_inheritance.jpg",
     "AWS Solutions Architect/screenshots/IAM_JSO_Policy_Structure.jpg",
     "AWS Solutions Architect/IAM_policies_inheritance.jpg",
