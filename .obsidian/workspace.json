@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Blue Team/2. Generating Indicators.md",
+                "file": "Security Blue Team/3. Activity using IOC Generator.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security Blue Team/2. Generating Indicators.md",
+                "file": "Security Blue Team/3. Activity using IOC Generator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security Blue Team/2. Generating Indicators.md",
+                "file": "Security Blue Team/3. Activity using IOC Generator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security Blue Team/2. Generating Indicators.md"
+                "file": "Security Blue Team/3. Activity using IOC Generator.md"
               }
             }
           },
@@ -164,8 +164,16 @@
   },
   "active": "f8e0efe85f2805fd",
   "lastOpenFiles": [
-    "Security Blue Team/3. Activity using IOC Generator.md",
     "Security Blue Team/2. Generating Indicators.md",
+    "Security Blue Team/IOC_Activity_files/(1) I2TH_IOC_Activity_Files/4sales report july 2019.pdf",
+    "Security Blue Team/IOC_Activity_files/(1) I2TH_IOC_Activity_Files/3Stock-Image-PANIC.jpg",
+    "Security Blue Team/IOC_Activity_files/(1) I2TH_IOC_Activity_Files/2innocent.pdf",
+    "Security Blue Team/IOC_Activity_files/(1) I2TH_IOC_Activity_Files/1HIGHLY_MALICIOUS.txt",
+    "Security Blue Team/IOC_Activity_files/(1) I2TH_IOC_Activity_Files",
+    "Security Blue Team/IOC_Activity_files",
+    "Security Blue Team/IOC_Activity_files.zip",
+    "Security Blue Team/Unconfirmed 899492.crdownload",
+    "Security Blue Team/3. Activity using IOC Generator.md",
     "Computer Networking/ipv4.md",
     "Computer Networking/dhcp-nat-and-ports.md",
     "Computer Networking/SUMMARY.md",
@@ -178,16 +186,9 @@
     "Security Blue Team",
     "AWS Solutions Architect/0. Getting Started with AWS.md",
     "Atomic_Red_Team/ppt532.tmp",
-    "Atomic_Red_Team/pptD98D.tmp",
-    "Atomic_Red_Team/~$Slides.pptx",
     "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe Benefits of Cloud Services.md",
-    "Atomic_Red_Team/Slides.pptx",
-    "Atomic_Red_Team/Adversarial Emulation Using Atomic Red Team and MITRE.pptx",
-    "Atomic_Red_Team",
     "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe Cloud Computing.md",
-    "Qualys-EDR/edr_cert.pdf",
     "Comcast/Ideas for Project.md",
-    "Qualys-EDR",
     "Comcast/Threat Hunting Project sample.md",
     "Azure 900/Azure Fundamentals - Descibe.md",
     "Pasted image 20231229161317.png",
@@ -203,13 +204,11 @@
     "Splunk/screenshots/Splunk_search_language_example.png",
     "Security+/2. Fundamentals of Security.md",
     "Security+/Security+ Info.md",
-    "PortSwigger Academy/SQL Injection.md",
     "Untitled.canvas",
     "TCM Security/PEH/pics/public-and-private-addresses.jpg",
     "AWS Solutions Architect/screenshots/IAM_policies_inheritance.jpg",
     "AWS Solutions Architect/screenshots/IAM_JSO_Policy_Structure.jpg",
     "AWS Solutions Architect/IAM_policies_inheritance.jpg",
-    "AWS Solutions Architect/IAM_JSO_Policy_Structure.jpg",
-    "eJPT/Penetration Testing pre-requisites/images/HTML Request.svg"
+    "AWS Solutions Architect/IAM_JSO_Policy_Structure.jpg"
   ]
 }
