@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3cea93f27932921f",
+        "id": "5ec400cbf24e5d90",
         "type": "tabs",
         "children": [
           {
-            "id": "5c53ba82acb96296",
+            "id": "f8e0efe85f2805fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TCM Security/PEH/Networking Refresher.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCM Security/PEH/Networking Refresher.md",
+                "file": "Computer Networking/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TCM Security/PEH/Networking Refresher.md",
+                "file": "Computer Networking/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCM Security/PEH/Networking Refresher.md"
+                "file": "Computer Networking/README.md"
               }
             }
           },
@@ -146,12 +142,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,13 +158,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c53ba82acb96296",
+  "active": "94890cdbe17a5884",
   "lastOpenFiles": [
     "Computer Networking/SUMMARY.md",
     "Computer Networking/README.md",
+    "TCM Security/PEH/Networking Refresher.md",
     "Computer Networking",
     "TCM Security/PEH/pics/Public-vs-Private-IP-Addresses-01-EN.webp",
-    "TCM Security/PEH/Networking Refresher.md",
     "Security Blue Team/2. Generating Indicators.md",
     "Security Blue Team/1. Introduction to Threat hunting.md",
     "Spin The Hack/RED Team Training/Day - 5 - Port Scan with NMAP.md",
