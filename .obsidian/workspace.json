@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Blue Team/4. Overview of Malware.md",
+                "file": "Security Blue Team/2. Generating Indicators.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security Blue Team/4. Overview of Malware.md",
+                "file": "Security Blue Team/2. Generating Indicators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security Blue Team/4. Overview of Malware.md",
+                "file": "Security Blue Team/2. Generating Indicators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security Blue Team/4. Overview of Malware.md"
+                "file": "Security Blue Team/2. Generating Indicators.md"
               }
             }
           },
@@ -164,8 +164,8 @@
   },
   "active": "f8e0efe85f2805fd",
   "lastOpenFiles": [
-    "Security Blue Team/3. Activity using IOC Generator.md",
     "Security Blue Team/4. Overview of Malware.md",
+    "Security Blue Team/3. Activity using IOC Generator.md",
     "Security Blue Team/2. Generating Indicators.md",
     "Security Blue Team/IOC_Activity_files/(1) I2TH_IOC_Activity_Files/4sales report july 2019.pdf",
     "Security Blue Team/IOC_Activity_files/(1) I2TH_IOC_Activity_Files/3Stock-Image-PANIC.jpg",
