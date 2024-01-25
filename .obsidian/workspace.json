@@ -11,8 +11,12 @@
             "id": "f8e0efe85f2805fd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Security Blue Team/2. Generating Indicators.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Networking/README.md",
+                "file": "Security Blue Team/2. Generating Indicators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Networking/README.md",
+                "file": "Security Blue Team/2. Generating Indicators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Networking/README.md"
+                "file": "Security Blue Team/2. Generating Indicators.md"
               }
             }
           },
@@ -158,14 +162,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94890cdbe17a5884",
+  "active": "f8e0efe85f2805fd",
   "lastOpenFiles": [
+    "Security Blue Team/3. Activity using IOC Generator.md",
+    "Security Blue Team/2. Generating Indicators.md",
+    "Computer Networking/ipv4.md",
+    "Computer Networking/dhcp-nat-and-ports.md",
     "Computer Networking/SUMMARY.md",
     "Computer Networking/README.md",
     "TCM Security/PEH/Networking Refresher.md",
     "Computer Networking",
     "TCM Security/PEH/pics/Public-vs-Private-IP-Addresses-01-EN.webp",
-    "Security Blue Team/2. Generating Indicators.md",
     "Security Blue Team/1. Introduction to Threat hunting.md",
     "Spin The Hack/RED Team Training/Day - 5 - Port Scan with NMAP.md",
     "Security Blue Team",
@@ -197,11 +204,8 @@
     "Security+/2. Fundamentals of Security.md",
     "Security+/Security+ Info.md",
     "PortSwigger Academy/SQL Injection.md",
-    "Networking (CCNA)/3. Basic Network Terms.md",
-    "Untitled.md",
     "Untitled.canvas",
     "TCM Security/PEH/pics/public-and-private-addresses.jpg",
-    "eJPT/Penetration Testing pre-requisites/HTTP Basics.md",
     "AWS Solutions Architect/screenshots/IAM_policies_inheritance.jpg",
     "AWS Solutions Architect/screenshots/IAM_JSO_Policy_Structure.jpg",
     "AWS Solutions Architect/IAM_policies_inheritance.jpg",
