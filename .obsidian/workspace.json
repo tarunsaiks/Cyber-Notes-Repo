@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,7 +163,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8e0efe85f2805fd",
+  "active": "94890cdbe17a5884",
   "lastOpenFiles": [
     "Security Blue Team/4. Overview of Malware.md",
     "Security Blue Team/3. Activity using IOC Generator.md",
