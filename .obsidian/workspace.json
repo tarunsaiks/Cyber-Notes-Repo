@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Blue Team/2. Generating Indicators.md",
+                "file": "Splunk/3 Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security Blue Team/2. Generating Indicators.md",
+                "file": "Splunk/3 Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security Blue Team/2. Generating Indicators.md",
+                "file": "Splunk/3 Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security Blue Team/2. Generating Indicators.md"
+                "file": "Splunk/3 Commands.md"
               }
             }
           },
@@ -163,11 +163,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94890cdbe17a5884",
+  "active": "f8e0efe85f2805fd",
   "lastOpenFiles": [
+    "Splunk/2 Using Search.md",
+    "Splunk/1 Using Splunk Web.md",
+    "Splunk/0 Introduction to Splunk.md",
+    "Security Blue Team/2. Generating Indicators.md",
     "Security Blue Team/4. Overview of Malware.md",
     "Security Blue Team/3. Activity using IOC Generator.md",
-    "Security Blue Team/2. Generating Indicators.md",
     "Security Blue Team/IOC_Activity_files/(1) I2TH_IOC_Activity_Files/4sales report july 2019.pdf",
     "Security Blue Team/IOC_Activity_files/(1) I2TH_IOC_Activity_Files/3Stock-Image-PANIC.jpg",
     "Security Blue Team/IOC_Activity_files/(1) I2TH_IOC_Activity_Files/2innocent.pdf",
@@ -196,13 +199,10 @@
     "Pasted image 20231229161317.png",
     "Advent of Cyber 2022/Day - 2 (Log Analysis).md",
     "Comcast/Threat Intelligence Integration.md",
-    "Splunk/0 Introduction to Splunk.md",
-    "Splunk/1 Using Splunk Web.md",
     "Splunk/3 Commands.md",
     "2023-12-25.md",
     "AWS Solutions Architect/1. IAM and AWS CLI.md",
     "Splunk/screenshots/search_pipeline_search.png",
-    "Splunk/2 Using Search.md",
     "Splunk/screenshots/Splunk_search_language_example.png",
     "Security+/2. Fundamentals of Security.md",
     "Security+/Security+ Info.md",
