@@ -61,7 +61,7 @@ Here if we try scanning any corporate domain, we will create a lot of network tr
 
 ```bash
 $ nslookup w3challs.com --> 51.15.18.162
-$ namp -Pn 51.15.18.162 -p- -sV -A -oA full --min-rate 50000 -vv
+$ nmap -Pn 51.15.18.162 -p- -sV -A -oA full --min-rate 50000 -vv
 ```
 
 This takes quite some time to give all the results including service detection scan. To tackle this time problem, first we'll scan with partial connection like we did with `quick`  output.
