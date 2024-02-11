@@ -11,7 +11,7 @@
             "id": "a286e5b24bbbfa48",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Confidentiality",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Splunk/3 Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Splunk/3 Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Splunk/3 Commands.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,8 +156,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce7cbc096c348b06",
+  "active": "a286e5b24bbbfa48",
   "lastOpenFiles": [
+    "Advent of Cyber 2022/Day - 1 (Frameworks).md",
+    "Advent of Cyber 2022/Day - 6 (Email Analysis).md",
+    "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 1 - Security Principles.md",
     "Splunk/2 Using Search.md",
     "Splunk/1 Using Splunk Web.md",
     "Splunk/0 Introduction to Splunk.md",
@@ -197,11 +197,8 @@
     "Comcast/Threat Intelligence Integration.md",
     "Splunk/3 Commands.md",
     "2023-12-25.md",
-    "AWS Solutions Architect/1. IAM and AWS CLI.md",
     "Splunk/screenshots/search_pipeline_search.png",
     "Splunk/screenshots/Splunk_search_language_example.png",
-    "Security+/2. Fundamentals of Security.md",
-    "Security+/Security+ Info.md",
     "Untitled.canvas",
     "TCM Security/PEH/pics/public-and-private-addresses.jpg",
     "AWS Solutions Architect/screenshots/IAM_policies_inheritance.jpg",
