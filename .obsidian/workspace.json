@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f2bbe54bcead4a8a",
+        "id": "f64a5682ffceca94",
         "type": "tabs",
         "children": [
           {
-            "id": "ab07b36392b3b2fa",
+            "id": "cd9ad7ef898cfee9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -89,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 1 - Security Principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 1 - Security Principles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 1 - Security Principles.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,8 +155,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce7cbc096c348b06",
+  "active": "cd9ad7ef898cfee9",
   "lastOpenFiles": [
+    "TryHackMe/Cyber Defense Path/FTP - Network Services.md",
+    "TryHackMe/Cyber Defense Path/Telnet - Network Services.md",
+    "TryHackMe/Cyber Defense Path/NFS - Network Services - 2.md",
+    "TryHackMe/Cyber Defense Path/SMB - THM - Network Services.md",
+    "TryHackMe/Cyber Defense Path/Network Services.md",
+    "TryHackMe/Windows Fundamentals.md",
+    "TryHackMe/Snort.md",
+    "TryHackMe/Nessus.md",
+    "TryHackMe/MAL - Researching.md",
+    "TryHackMe/Log Analysis.md",
+    "TryHackMe/Metasploit.md",
+    "TryHackMe/Introduction to Defensive Security.md",
+    "TryHackMe/Cyber Defense Path",
+    "TryHackMe",
     "Advent of Cyber 2022/Day - 1 (Frameworks).md",
     "Advent of Cyber 2022/Day - 6 (Email Analysis).md",
     "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 1 - Security Principles.md",
@@ -185,21 +195,7 @@
     "TCM Security/PEH/Networking Refresher.md",
     "Computer Networking",
     "TCM Security/PEH/pics/Public-vs-Private-IP-Addresses-01-EN.webp",
-    "Security Blue Team/1. Introduction to Threat hunting.md",
-    "Spin The Hack/RED Team Training/Day - 5 - Port Scan with NMAP.md",
-    "Security Blue Team",
-    "AWS Solutions Architect/0. Getting Started with AWS.md",
-    "Atomic_Red_Team/ppt532.tmp",
-    "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe Benefits of Cloud Services.md",
-    "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe Cloud Computing.md",
-    "Comcast/Ideas for Project.md",
-    "Comcast/Threat Hunting Project sample.md",
-    "Azure 900/Azure Fundamentals - Descibe.md",
     "Pasted image 20231229161317.png",
-    "Advent of Cyber 2022/Day - 2 (Log Analysis).md",
-    "Comcast/Threat Intelligence Integration.md",
-    "Splunk/3 Commands.md",
-    "2023-12-25.md",
     "Splunk/screenshots/search_pipeline_search.png",
     "Splunk/screenshots/Splunk_search_language_example.png",
     "Untitled.canvas",
