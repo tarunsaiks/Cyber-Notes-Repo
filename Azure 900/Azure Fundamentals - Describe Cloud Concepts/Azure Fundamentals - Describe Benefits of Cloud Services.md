@@ -49,4 +49,46 @@ With horizontal scaling, if you suddenly experienced a steep jump in demand, you
 - Both performance and cost predictability highly influenced by Microsoft Azure Well-Architected Framework.
 - **Performance predictability** 
 	- focuses on predicting the resources needed to deliver a positive experience for your customers. Autoscaling, load balancing, and high availability are just some of the cloud concepts that support performance predictability. If you suddenly need more resources, autoscaling can deploy additional resources to meet the demand, and then scale back when the demand drops. Or if the traffic is heavily focused on one area, load balancing will help redirect some of the overload to less stressed areas
-- 
+- Cost Predictability
+	- focused on forecasting the cost of the cloud sepnd.
+	- can track resources in real time, monitor resources to ensure the use in most efficient way.
+	- Apply data analytics to find patterns and trends that help to plan future resource allocations and deployments.
+	- By operating in the cloud and using cloud analytics and information, you can predict future costs and adjust your resources as needed. You can even use tools like the Total Cost of Ownership (TCO) or Pricing Calculator to get an estimate of potential cloud spend.
+
+# Benefits of security and governance in the cloud
+
+Be it IaaS or SaaS, cloud features support governance and compliance.
+
+Things like set templates help ensure that all your deployed resources meet corporate standards and government regulatory requirements. Additionally, you can update all your deployed resources to new standards as standards change. 
+
+Cloud-based auditing helps flag any resource that’s out of compliance with your corporate standards and provides mitigation strategies. Depending on your operating model, software patches and updates may also automatically be applied, which helps with both governance and security.
+
+On the security side, you can find a cloud solution that matches your security needs. 
+
+> [!info]
+> If you want maximum control of security, infrastructure as a service provides you with physical resources but lets you manage the operating systems and installed software, including patches and maintenance. If you want patches and maintenance taken care of automatically, platform as a service or software as a service deployments may be the best cloud strategies for you.
+
+And because the cloud is intended as an over-the-internet delivery of IT resources, cloud providers are typically well suited to handle things like distributed denial of service (DDoS) attacks, making your network more robust and secure.
+
+By establishing a good governance footprint early, you can keep your cloud footprint updated, secure, and well managed.
+
+# Benefits of manageability in the cloud
+
+Two types of manageability - 
+1. Management of the Cloud
+2. Management in the Cloud
+
+## Management of the Cloud
+ (Sales Pitch if you're selling cloud services)
+- Automatically scale resource deployment on need.
+- Use preconfigured templates to deploy rather than manual configuration.
+- Monitor health of the resources and automatically replace if any failures.
+- Receive automatic alerts based on configured metrics to be aware of performance in real time.
+
+## Management in the cloud
+Management in the cloud speaks to how you’re able to manage your cloud environment and resources. You can manage these:
+
+- Through a web portal.
+- Using a command line interface.
+- Using APIs.
+- Using PowerShell.

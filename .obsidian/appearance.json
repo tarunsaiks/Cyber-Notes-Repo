@@ -1,4 +1,5 @@
 {
   "accentColor": "#0000ff",
-  "textFontFamily": "Lucida Sans Typewriter"
+  "textFontFamily": "Cascadia Code",
+  "baseFontSize": 10
 }
