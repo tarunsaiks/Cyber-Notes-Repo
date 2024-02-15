@@ -11,8 +11,12 @@
             "id": "cd9ad7ef898cfee9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe Benefits of Cloud Services.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 201.5,
+    "collapsed": true
   },
   "right": {
     "id": "0c692ad1b0912932",
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe Benefits of Cloud Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe Benefits of Cloud Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe Benefits of Cloud Services.md"
+              }
             }
           },
           {
@@ -157,6 +166,7 @@
   },
   "active": "cd9ad7ef898cfee9",
   "lastOpenFiles": [
+    "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe Cloud Computing.md",
     "TryHackMe/Cyber Defense Path/FTP - Network Services.md",
     "TryHackMe/Cyber Defense Path/Telnet - Network Services.md",
     "TryHackMe/Cyber Defense Path/NFS - Network Services - 2.md",
@@ -192,7 +202,6 @@
     "Computer Networking/dhcp-nat-and-ports.md",
     "Computer Networking/SUMMARY.md",
     "Computer Networking/README.md",
-    "TCM Security/PEH/Networking Refresher.md",
     "Computer Networking",
     "TCM Security/PEH/pics/Public-vs-Private-IP-Addresses-01-EN.webp",
     "Pasted image 20231229161317.png",
