@@ -3,7 +3,7 @@
   "useMarkdownLinks": true,
   "newLinkFormat": "relative",
   "livePreview": true,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "defaultViewMode": "source",
   "readableLineLength": true,
   "pdfExportSettings": {
@@ -12,5 +12,5 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "strictLineBreaks": false
+  "strictLineBreaks": true
 }
