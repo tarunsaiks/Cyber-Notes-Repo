@@ -4,5 +4,6 @@
   "newLinkFormat": "relative",
   "livePreview": true,
   "showLineNumber": false,
-  "defaultViewMode": "source"
+  "defaultViewMode": "source",
+  "readableLineLength": false
 }
