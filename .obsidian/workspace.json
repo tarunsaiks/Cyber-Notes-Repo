@@ -11,8 +11,12 @@
             "id": "98789444f5acb881",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TCM Security/PEH/1. Exploring Kali Linux.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TCM Security/PEH/1. Exploring Kali Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TCM Security/PEH/1. Exploring Kali Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TCM Security/PEH/1. Exploring Kali Linux.md"
+              }
             }
           },
           {
@@ -157,6 +165,8 @@
   },
   "active": "98789444f5acb881",
   "lastOpenFiles": [
+    "TCM Security/PEH/0. Networking Refresher.md",
+    "TCM Security/PEH/1. Exploring Kali Linux.md",
     "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 3 - Understanding Security Controls.md",
     "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 4 - Understand Governance Elements and Processes.md",
     "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 2 - Understanding Risk Management Process.md",
@@ -183,8 +193,6 @@
     "Splunk/1 Using Splunk Web.md",
     "Splunk/0 Introduction to Splunk.md",
     "Security Blue Team/2. Generating Indicators.md",
-    "Security Blue Team/4. Overview of Malware.md",
-    "Security Blue Team/3. Activity using IOC Generator.md",
     "Security Blue Team/IOC_Activity_files/(1) I2TH_IOC_Activity_Files/4sales report july 2019.pdf",
     "Security Blue Team/IOC_Activity_files/(1) I2TH_IOC_Activity_Files/3Stock-Image-PANIC.jpg",
     "Security Blue Team/IOC_Activity_files/(1) I2TH_IOC_Activity_Files/2innocent.pdf",
