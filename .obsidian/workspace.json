@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "28b1001d63e4a5ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nmap-Sravani.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Nmap-Sravani.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Nmap-Sravani.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nmap.md"
+                "file": "Nmap-Sravani.md"
               }
             }
           },
@@ -161,10 +176,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce7cbc096c348b06",
+  "active": "28b1001d63e4a5ac",
   "lastOpenFiles": [
-    "PortSwigger Academy/Server Side Vulnerabilities/Path Traversal.md",
     "Nmap.md",
+    "Nmap-Sravani.md",
+    "PortSwigger Academy/Server Side Vulnerabilities/Path Traversal.md",
     "TCM Security/PEH/1. Exploring Kali Linux.md",
     "PortSwigger Academy/Server Side Vulnerabilities",
     "TCM Security/PEH/0. Networking Refresher.md",
@@ -191,7 +207,6 @@
     "Advent of Cyber 2022/Day - 1 (Frameworks).md",
     "Advent of Cyber 2022/Day - 6 (Email Analysis).md",
     "Splunk/2 Using Search.md",
-    "Splunk/1 Using Splunk Web.md",
     "Security Blue Team/IOC_Activity_files/(1) I2TH_IOC_Activity_Files/4sales report july 2019.pdf",
     "Security Blue Team/IOC_Activity_files/(1) I2TH_IOC_Activity_Files/3Stock-Image-PANIC.jpg",
     "Security Blue Team/IOC_Activity_files/(1) I2TH_IOC_Activity_Files/2innocent.pdf",
