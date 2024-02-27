@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCM Security/PEH/1. Exploring Kali Linux.md",
+                "file": "PortSwigger Academy/Server Side Vulnerabilities/Path Traversal.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCM Security/PEH/1. Exploring Kali Linux.md",
+                "file": "PortSwigger Academy/Server Side Vulnerabilities/Path Traversal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TCM Security/PEH/1. Exploring Kali Linux.md",
+                "file": "PortSwigger Academy/Server Side Vulnerabilities/Path Traversal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCM Security/PEH/1. Exploring Kali Linux.md"
+                "file": "PortSwigger Academy/Server Side Vulnerabilities/Path Traversal.md"
               }
             }
           },
@@ -165,8 +165,10 @@
   },
   "active": "98789444f5acb881",
   "lastOpenFiles": [
-    "TCM Security/PEH/0. Networking Refresher.md",
     "TCM Security/PEH/1. Exploring Kali Linux.md",
+    "PortSwigger Academy/Server Side Vulnerabilities/Path Traversal.md",
+    "PortSwigger Academy/Server Side Vulnerabilities",
+    "TCM Security/PEH/0. Networking Refresher.md",
     "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 3 - Understanding Security Controls.md",
     "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 4 - Understand Governance Elements and Processes.md",
     "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 2 - Understanding Risk Management Process.md",
@@ -192,7 +194,6 @@
     "Splunk/2 Using Search.md",
     "Splunk/1 Using Splunk Web.md",
     "Splunk/0 Introduction to Splunk.md",
-    "Security Blue Team/2. Generating Indicators.md",
     "Security Blue Team/IOC_Activity_files/(1) I2TH_IOC_Activity_Files/4sales report july 2019.pdf",
     "Security Blue Team/IOC_Activity_files/(1) I2TH_IOC_Activity_Files/3Stock-Image-PANIC.jpg",
     "Security Blue Team/IOC_Activity_files/(1) I2TH_IOC_Activity_Files/2innocent.pdf",
@@ -201,7 +202,6 @@
     "Security Blue Team/IOC_Activity_files",
     "Security Blue Team/IOC_Activity_files.zip",
     "Security Blue Team/Unconfirmed 899492.crdownload",
-    "Computer Networking",
     "TCM Security/PEH/pics/Public-vs-Private-IP-Addresses-01-EN.webp",
     "Pasted image 20231229161317.png",
     "Splunk/screenshots/search_pipeline_search.png",
