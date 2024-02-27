@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nmap-Sravani.md",
+                "file": "Nmap-sravani-report/Nmap-Sravani.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nmap-Sravani.md",
+                "file": "Nmap-sravani-report/Nmap-Sravani.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nmap-Sravani.md",
+                "file": "Nmap-sravani-report/Nmap-Sravani.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nmap-Sravani.md"
+                "file": "Nmap-sravani-report/Nmap-Sravani.md"
               }
             }
           },
@@ -178,8 +178,17 @@
   },
   "active": "28b1001d63e4a5ac",
   "lastOpenFiles": [
+    "Nmap-sravani-report/Screenshots/2.3.png",
+    "Nmap-sravani-report/Screenshots/image (1).png",
+    "Nmap-sravani-report/Screenshots/2.2.png",
+    "Nmap-sravani-report/Screenshots/image.png",
+    "Nmap-sravani-report/Screenshots/2.1.2.png",
+    "Nmap-sravani-report/Screenshots/2.1.png",
+    "Nmap-sravani-report/Screenshots",
+    "Untitled",
+    "Nmap-sravani-report",
     "Nmap.md",
-    "Nmap-Sravani.md",
+    "Nmap-sravani-report/Nmap-Sravani.md",
     "PortSwigger Academy/Server Side Vulnerabilities/Path Traversal.md",
     "TCM Security/PEH/1. Exploring Kali Linux.md",
     "PortSwigger Academy/Server Side Vulnerabilities",
@@ -206,24 +215,15 @@
     "TryHackMe",
     "Advent of Cyber 2022/Day - 1 (Frameworks).md",
     "Advent of Cyber 2022/Day - 6 (Email Analysis).md",
-    "Splunk/2 Using Search.md",
     "Security Blue Team/IOC_Activity_files/(1) I2TH_IOC_Activity_Files/4sales report july 2019.pdf",
     "Security Blue Team/IOC_Activity_files/(1) I2TH_IOC_Activity_Files/3Stock-Image-PANIC.jpg",
     "Security Blue Team/IOC_Activity_files/(1) I2TH_IOC_Activity_Files/2innocent.pdf",
     "Security Blue Team/IOC_Activity_files/(1) I2TH_IOC_Activity_Files/1HIGHLY_MALICIOUS.txt",
     "Security Blue Team/IOC_Activity_files/(1) I2TH_IOC_Activity_Files",
-    "Security Blue Team/IOC_Activity_files",
-    "Security Blue Team/IOC_Activity_files.zip",
-    "Security Blue Team/Unconfirmed 899492.crdownload",
     "TCM Security/PEH/pics/Public-vs-Private-IP-Addresses-01-EN.webp",
     "Pasted image 20231229161317.png",
     "Splunk/screenshots/search_pipeline_search.png",
     "Splunk/screenshots/Splunk_search_language_example.png",
-    "Untitled.canvas",
-    "TCM Security/PEH/pics/public-and-private-addresses.jpg",
-    "AWS Solutions Architect/screenshots/IAM_policies_inheritance.jpg",
-    "AWS Solutions Architect/screenshots/IAM_JSO_Policy_Structure.jpg",
-    "AWS Solutions Architect/IAM_policies_inheritance.jpg",
-    "AWS Solutions Architect/IAM_JSO_Policy_Structure.jpg"
+    "Untitled.canvas"
   ]
 }

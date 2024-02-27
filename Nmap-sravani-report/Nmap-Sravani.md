@@ -1,6 +1,6 @@
 ## Scanning
 
-**Perform an active discovery analysis of the Pentesting VM using Kali VM (Nmap) to gather the following information. Use methods that minimize firewall detection, but do not worry about time and rate limit factors when constructing Nmap queries. (5 points)****
+**Perform an active discovery analysis of the Pentesting VM using Kali VM (Nmap) to gather the following information. Use methods that minimize firewall detection, but do not worry about time and rate limit factors when constructing Nmap queries. (5 points)
 **
 1. **IP Address and MAC Address of the Pentesting VM**:
    To find the IP address and MAC address of the Pentesting VM, you can run the following Nmap command:
@@ -8,7 +8,7 @@
    nmap -sn 10.0.2.0/24
    ```
    This will perform a simple ping scan (`-sn`), which will only determine whether the target is online and will provide you with the IP address and MAC address of the Pentesting VM = **10.0.2.15**.
-%%    <Add_image_here> %%
+   ![](Screenshots/2.1.png)
 
 2. **All open TCP ports on the Pentesting VM**:
    Use the following Nmap command to scan for open TCP ports:
@@ -16,6 +16,7 @@
    nmap -sT -p- -T4 10.0.2.15 --packet-trace
    ```
    This command will scan all 65535 TCP ports (`-p-`) aggressively (`-T4`) to find open ports on the Pentesting VM.
+   ![](Screenshots/2.2.png)
 
 3. **All open UDP ports on the Pentesting VM**:
    Run the following Nmap command to scan for open UDP ports:
@@ -23,18 +24,18 @@
    nmap -sU -PS -p- 10.0.2.15 --packet-trace
    ```
    This command will scan all 65535 UDP ports to find open ports on 10.0.2.15. 
+   ![](Screenshots/2.3.png)
 
 4. **Detect actual services and their respective versions**:
    Once you have identified open TCP and UDP ports, you can use Nmap's service version detection feature to determine the services running on those ports along with their versions. Use the following command:
    ```
-   nmap -sV -p- 10.0.2.15 --packet-
+   nmap -sV -p- 10.0.2.15 --packet-trace
    ```
-   Replace `<open_ports>` with the list of open ports obtained from the previous scans.
 
 5. **Operating System of the Pentesting VM**:
    To identify the operating system of the Pentesting VM, you can use Nmap's OS detection feature. Run the following command:
    ```
-   nmap -O <Pentesting_VM_IP>
+   nmap -O 10.0.2.15 --packet-trace
    ```
 
 
