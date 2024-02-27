@@ -27,16 +27,18 @@
    ![](Screenshots/2.3.png)
 
 4. **Detect actual services and their respective versions**:
-   Once you have identified open TCP and UDP ports, you can use Nmap's service version detection feature to determine the services running on those ports along with their versions. Use the following command:
+   Once you have identified open TCP and UDP ports, you can use Nmap's service version detection feature to determine the services running on those ports along with their versions. Refer Figure [2.4](Screenshots/2.4.png) Use the following command:
    ```
    nmap -sV -p- 10.0.2.15 --packet-trace
    ```
+   
 
 5. **Operating System of the Pentesting VM**:
    To identify the operating system of the Pentesting VM, you can use Nmap's OS detection feature. Run the following command:
    ```
    nmap -O 10.0.2.15 --packet-trace
    ```
+   
 
 
 ## Wireshark or --packet-trace
@@ -58,3 +60,9 @@ Nmap sends probes tailored to specific services and analyzes the responses to de
 
 e. **Detect the specific operating system**: 
 Nmap analyzes various aspects of network communication, including TCP/IP stack behavior and responses to specific probes, to make an educated guess about the target's operating system.
+
+## Figures
+
+![service-Version-detection](Screenshots/2.4.png)
+
+![os-detection](Screenshots/2.5.png)
