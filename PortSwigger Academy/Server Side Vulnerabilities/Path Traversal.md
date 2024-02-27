@@ -1,5 +1,5 @@
 ## What is Path Traversal?
-#path-traversal #directory-traversal
+#path-traversal #directory-traversal #bugbounty
 - aka Directory traversal
 - enables attackers to read arbitrary files on servers that is running an application. This might include:
 - Application code and data.
