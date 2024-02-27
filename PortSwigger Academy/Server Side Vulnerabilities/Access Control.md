@@ -25,7 +25,7 @@ If a user can gain access to functionality that they are not permitted to access
 
 Vertical prev-esc arises when an app does not enforce any protection for sensitive functionality.
 
-a user might be able to access the administrative functions by browsing to the relevant admin URL.For example, a website might host sensitive functionality at the following URL:
+a user might be able to access the administrative functions by browsing to the relevant admin URL.0For example, a website might host sensitive functionality at the following URL:
 
 `https://insecure-website.com/admin`
 
