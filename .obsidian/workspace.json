@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Nmap-sravani-report/Lab 2 - BlackBox Nmap Scanning.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -178,6 +178,7 @@
   },
   "active": "70529da26f954c4d",
   "lastOpenFiles": [
+    "Nmap-sravani-report/Lab 2 - BlackBox Nmap Scanning.pdf",
     "Nmap-sravani-report/Sravanimadhas_lab2.pdf",
     "Nmap-sravani-report/Nmap-Sravani.pdf",
     "Nmap-sravani-report/Screenshots/2.3.png",
@@ -223,7 +224,6 @@
     "Advent of Cyber 2022/Day - 6 (Email Analysis).md",
     "Security Blue Team/IOC_Activity_files/(1) I2TH_IOC_Activity_Files/4sales report july 2019.pdf",
     "Security Blue Team/IOC_Activity_files/(1) I2TH_IOC_Activity_Files/2innocent.pdf",
-    "Security Blue Team/IOC_Activity_files/(1) I2TH_IOC_Activity_Files/1HIGHLY_MALICIOUS.txt",
     "Untitled.canvas"
   ]
 }

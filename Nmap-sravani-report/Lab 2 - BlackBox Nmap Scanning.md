@@ -60,6 +60,7 @@ Nmap sends probes tailored to specific services and analyzes the responses to de
 e. **Detect the specific operating system**: 
 Nmap analyzes various aspects of network communication, including TCP/IP stack behavior and responses to specific probes, to make an educated guess about the target's operating system. Refer Figure [2.5](Screenshots/2.5.png)
 
+<div style="page-break-after: always;"></div>
 ## Figures
 
 Figure 2.1
