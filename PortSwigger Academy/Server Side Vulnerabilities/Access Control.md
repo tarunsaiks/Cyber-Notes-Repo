@@ -8,7 +8,12 @@ Access Controls determine if the access is allowed to access or perform operatio
 ## Broken Access Control
 #access-controls #owasp #owasp-top-10
 
-Broken Access controls represent a critical security vulnerability.
+- Broken access control is the #1 security concern according to OWASP in 2021, moving from its #5 spot in 2017.
+- There are several types of broken access control vulnerabilities, including inadequate access control, inconsistent access control, bypassing access control, insufficient authorization, and lack of access control management.
+- Examples of attacks include **SQL injection**, **session fixation**, cross-site request forgery (**CSRF**), **privilege escalation**, and **path traversal**.
 
+Broken Access control is the vulnerability in the access control system that allows unauthorized access to sensitive data or resources.
 
-![](../../access-control.svg)
+![]([https://portswigger.net/web-security/images/access-control.svg])
+
+## Vertical Privilege Escalation
