@@ -93,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PortSwigger Academy/Server Side Vulnerabilities/Path Traversal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PortSwigger Academy/Server Side Vulnerabilities/Path Traversal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PortSwigger Academy/Server Side Vulnerabilities/Path Traversal.md"
+                "file": "Nmap.md"
               }
             }
           },
@@ -163,10 +161,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98789444f5acb881",
+  "active": "ce7cbc096c348b06",
   "lastOpenFiles": [
-    "TCM Security/PEH/1. Exploring Kali Linux.md",
     "PortSwigger Academy/Server Side Vulnerabilities/Path Traversal.md",
+    "Nmap.md",
+    "TCM Security/PEH/1. Exploring Kali Linux.md",
     "PortSwigger Academy/Server Side Vulnerabilities",
     "TCM Security/PEH/0. Networking Refresher.md",
     "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 3 - Understanding Security Controls.md",
@@ -193,7 +192,6 @@
     "Advent of Cyber 2022/Day - 6 (Email Analysis).md",
     "Splunk/2 Using Search.md",
     "Splunk/1 Using Splunk Web.md",
-    "Splunk/0 Introduction to Splunk.md",
     "Security Blue Team/IOC_Activity_files/(1) I2TH_IOC_Activity_Files/4sales report july 2019.pdf",
     "Security Blue Team/IOC_Activity_files/(1) I2TH_IOC_Activity_Files/3Stock-Image-PANIC.jpg",
     "Security Blue Team/IOC_Activity_files/(1) I2TH_IOC_Activity_Files/2innocent.pdf",

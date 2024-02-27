@@ -9,7 +9,7 @@
 + Grey Box
 Keep a strong eye on **SOW** (Statement of Work)
 
-Find more about ![[Nmap#What is NMAP ?]]
+Find more about ![[../../Advent of Cyber 2022/Nmap#What is NMAP ?]]
 
 ## What is the Internet Control Message Protocol (ICMP)?
 
