@@ -17,5 +17,20 @@ Broken Access control is the vulnerability in the access control system that a
 https://portswigger.net/web-security/images/access-control.svg
 
 ## Vertical Privilege Escalation
+#vertical-previlege-escalation #previlege-escalation
 
 If a user can gain access to functionality that they are not permitted to access then this is vertical privilege escalation. For example, if a non-administrative user can gain access to an admin page where they can delete user accounts, then this is vertical privilege escalation.
+
+### Unprotected Functionality
+
+Vertical prev-esc arises when an app does not enforce any protection for sensitive functionality.
+
+a user might be able to access the administrative functions by browsing to the relevant admin URL.For example, a website might host sensitive functionality at the following URL:
+
+`https://insecure-website.com/admin`
+
+This might be accessible by any user, not only administrative users who have a link to the functionality in their user interface. In some cases, the administrative URL might be disclosed in other locations, such as the `robots.txt` file:
+
+`https://insecure-website.com/robots.txt`
+
+Even if the URL isn't disclosed anywhere, an attacker may be able to use a wordlist to brute-force the location of the sensitive functionality.
