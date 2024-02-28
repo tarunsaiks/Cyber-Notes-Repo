@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Blue Team/2. Generating Indicators.md",
+                "file": "Security Blue Team/4. Overview of Malware.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security Blue Team/2. Generating Indicators.md",
+                "file": "Security Blue Team/4. Overview of Malware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security Blue Team/2. Generating Indicators.md",
+                "file": "Security Blue Team/4. Overview of Malware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security Blue Team/2. Generating Indicators.md"
+                "file": "Security Blue Team/4. Overview of Malware.md"
               }
             }
           },
@@ -165,8 +165,9 @@
   },
   "active": "74a18bed198d384c",
   "lastOpenFiles": [
-    "Security Blue Team/1. Introduction to Threat hunting.md",
+    "Security Blue Team/3. Activity using IOC Generator.md",
     "Security Blue Team/2. Generating Indicators.md",
+    "Security Blue Team/1. Introduction to Threat hunting.md",
     "2024-02-27.md",
     "PortSwigger Academy/Server Side Vulnerabilities/Access Control.md",
     "Pasted image 20240227002441.png",
@@ -208,7 +209,6 @@
     "TryHackMe/Nessus.md",
     "TryHackMe/MAL - Researching.md",
     "TryHackMe/Log Analysis.md",
-    "TryHackMe/Metasploit.md",
     "TryHackMe/Cyber Defense Path",
     "TryHackMe",
     "Untitled.canvas"
