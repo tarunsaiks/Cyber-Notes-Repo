@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0fd1df747121ca55",
+        "id": "3f3f0e8cd04c88c8",
         "type": "tabs",
         "children": [
           {
-            "id": "98789444f5acb881",
+            "id": "74a18bed198d384c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-02-27.md",
+                "file": "Security Blue Team/2. Generating Indicators.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5,
-    "collapsed": true
+    "width": 201.5
   },
   "right": {
     "id": "0c692ad1b0912932",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-02-27.md",
+                "file": "Security Blue Team/2. Generating Indicators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-02-27.md",
+                "file": "Security Blue Team/2. Generating Indicators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-02-27.md"
+                "file": "Security Blue Team/2. Generating Indicators.md"
               }
             }
           },
@@ -164,10 +163,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98789444f5acb881",
+  "active": "74a18bed198d384c",
   "lastOpenFiles": [
-    "PortSwigger Academy/Server Side Vulnerabilities/Access Control.md",
+    "Security Blue Team/1. Introduction to Threat hunting.md",
+    "Security Blue Team/2. Generating Indicators.md",
     "2024-02-27.md",
+    "PortSwigger Academy/Server Side Vulnerabilities/Access Control.md",
     "Pasted image 20240227002441.png",
     "access-control.svg",
     "PortSwigger Academy/Server Side Vulnerabilities/Path Traversal.md",
@@ -208,10 +209,8 @@
     "TryHackMe/MAL - Researching.md",
     "TryHackMe/Log Analysis.md",
     "TryHackMe/Metasploit.md",
-    "TryHackMe/Introduction to Defensive Security.md",
     "TryHackMe/Cyber Defense Path",
     "TryHackMe",
-    "Advent of Cyber 2022/Day - 1 (Frameworks).md",
     "Untitled.canvas"
   ]
 }
