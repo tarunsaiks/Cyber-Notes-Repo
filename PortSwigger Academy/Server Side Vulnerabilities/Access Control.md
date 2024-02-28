@@ -34,3 +34,7 @@ This might be accessible by any user, not only administrative users who have a l
 `https://insecure-website.com/robots.txt`
 
 Even if the URL isn't disclosed anywhere, an attacker may be able to use a wordlist to brute-force the location of the sensitive functionality.
+
+> Lab Unprotected admin functionality SOLVED
+
+**Security By Obscurity** is when a sensitive functionality is given a less predictable URL

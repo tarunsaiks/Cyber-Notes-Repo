@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PortSwigger Academy/Server Side Vulnerabilities/Access Control.md",
+                "file": "2024-02-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PortSwigger Academy/Server Side Vulnerabilities/Access Control.md",
+                "file": "2024-02-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PortSwigger Academy/Server Side Vulnerabilities/Access Control.md",
+                "file": "2024-02-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PortSwigger Academy/Server Side Vulnerabilities/Access Control.md"
+                "file": "2024-02-27.md"
               }
             }
           },
@@ -166,10 +166,11 @@
   },
   "active": "98789444f5acb881",
   "lastOpenFiles": [
+    "PortSwigger Academy/Server Side Vulnerabilities/Access Control.md",
+    "2024-02-27.md",
     "Pasted image 20240227002441.png",
     "access-control.svg",
     "PortSwigger Academy/Server Side Vulnerabilities/Path Traversal.md",
-    "PortSwigger Academy/Server Side Vulnerabilities/Access Control.md",
     "Nmap-sravani-report.zip",
     "Nmap-sravani-report/Lab 2 - BlackBox Nmap Scanning.md",
     "Nmap-sravani-report/Lab 2 - BlackBox Nmap Scanning.pdf",
@@ -183,7 +184,6 @@
     "Nmap-sravani-report/Screenshots/image (1).png",
     "Nmap-sravani-report/Screenshots/2.2.png",
     "Nmap-sravani-report/Screenshots/image.png",
-    "Nmap-sravani-report/Screenshots/2.1.2.png",
     "Nmap-sravani-report/Screenshots",
     "Untitled",
     "Nmap-sravani-report",
