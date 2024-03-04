@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How Linux Works/README.md.md",
+                "file": "Linux/Day 2 - Basic Linux Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How Linux Works/README.md.md",
+                "file": "Linux/Day 2 - Basic Linux Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How Linux Works/README.md.md",
+                "file": "Linux/Day 2 - Basic Linux Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How Linux Works/README.md.md"
+                "file": "Linux/Day 2 - Basic Linux Commands.md"
               }
             }
           },
@@ -165,16 +165,16 @@
   },
   "active": "a16e324c8fa1864d",
   "lastOpenFiles": [
-    "How Linux Works/Day 2 - Basic Commands.md",
-    "How Linux Works/README.md.md",
-    "How Linux Works/Day 1 - The Big Picture.md",
-    "How Linux Works/Screenshots/1.2-process_starting.png",
-    "How Linux Works/Screenshots/OS_overview.jpeg",
+    "Linux/README.md.md",
+    "Linux/Day 2 - Basic Linux Commands.md",
+    "Linux/Day 1 - The Big Picture.md",
+    "Linux/Screenshots/1.2-process_starting.png",
+    "Linux/Screenshots/OS_overview.jpeg",
     "How Linux Works/Screenshots/OS_overview.jpeg.crdownload",
-    "How Linux Works/Screenshots/1.1-LinuxSystemOrg.png",
-    "How Linux Works/Screenshots",
+    "Linux/Screenshots/1.1-LinuxSystemOrg.png",
+    "Linux/Screenshots",
     "Hacking Simplified Internship/Week - 1 Class - 1.md",
-    "How Linux Works",
+    "Linux",
     "Untitled.md",
     "Hacking Simplified Internship/CyberSecurityBootcamp/Week 1 - Starting Up - Learning webapp basics, deploy on the web/README.md",
     "Hacking Simplified Internship/CyberSecurityBootcamp/Week 1 - Starting Up - Learning webapp basics, deploy on the web/class-1.md",
