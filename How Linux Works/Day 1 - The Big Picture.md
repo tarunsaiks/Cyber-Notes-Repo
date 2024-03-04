@@ -45,3 +45,20 @@ The kernel tasks are all intimately tied to main memory and require meticulous m
 
 start, stop, pause, resume, scheduling and terminating are some of the actions performed on programs that run on memory (process, see now you know process definition is, definitely A grade this time)
 
+CPU has multiple cores these days, but consider a single core CPU for now, they are used to run multiple process at a same time by giving each process a fraction of time (time slice) to use CPU and perform its operations. However, because the slices are so small, we can’t perceive them, and the system appears to be running multiple processes at the same time (a capability known as **multitasking**).
+
+>[!info]
+>This is where the OG Computer Architecture and other complex but really interesting things come up. If you're interested, you should've joined Suhas K P sir class at NIE during 2021 pandemic, LEGEND taught us idiots well, Made it really interesting for me though.
+
+
+**CONTEXT SWITCHING**
+
+The context switch answers the important question of *when* the kernel runs. The answer is that it runs *between* process time slices during a context switch
+
+1. CPU interrupts a current process based on internal timer, switches into KERNEL MODE, and hands over the control to kernel.
+2. Kernel records the current state of CPU and memory, which will be essential to resume the process that was just interrupted.
+3. Kernel performs any tasks that might have come up during preceeding time slice.
+4. Kernel is ready to let another process run, analyzes the list of precoesses that are ready to run and chooses one.
+5. Kernel prepares memory for this new process and let this process use CPU.
+6. Kernel tells CPU how long the time slice is and that's how long the new process will run.
+7. The Kernel switches CPU to User mode and hands the control of CPU to process to run.
