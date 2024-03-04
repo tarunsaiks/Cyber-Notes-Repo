@@ -1,7 +1,11 @@
 # Bourne Shell: /bin/sh
 The shell is one of the most important parts of a Unix system. A shell is a program that runs commands, like the ones that users enter into a terminal window.
 
-Many important parts of the linux systems are actually shell scripts that contain sequence of shell commands that will be executed.
+Many important parts of the linux systems are actually shell scripts that contain sequence of shell commands that will be executed. In MS-DOS it is similar to .BAT files.
+
+There are many different Unix shells, but all derive features from the **Bourne shell (/bin/sh)**, a standard shell developed at Bell Labs.
+
+Linux uses an enhanced version of the Bourne shell called `bash` or the “Bourne-again” shell. The `bash` shell is the default shell on most Linux distributions, and /bin/sh is normally a link to `bash` on a Linux system.
 # Using the Shell
 # Basic Commands
 ## ls
