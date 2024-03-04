@@ -163,11 +163,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74a18bed198d384c",
+  "active": "ce7cbc096c348b06",
   "lastOpenFiles": [
+    "How Linux Works",
+    "Untitled.md",
+    "Hacking Simplified Internship/Week - 1 Class - 1.md",
     "Hacking Simplified Internship/CyberSecurityBootcamp/Week 1 - Starting Up - Learning webapp basics, deploy on the web/README.md",
     "Hacking Simplified Internship/CyberSecurityBootcamp/Week 1 - Starting Up - Learning webapp basics, deploy on the web/class-1.md",
-    "Hacking Simplified Internship/Week - 1 Class - 1.md",
     "Hacking Simplified Internship/CyberSecurityBootcamp/assets/5-Week-Security-Internship.jpeg",
     "Hacking Simplified Internship/CyberSecurityBootcamp/assets",
     "Hacking Simplified Internship/CyberSecurityBootcamp/Week 1 - Starting Up - Learning webapp basics, deploy on the web",
@@ -209,7 +211,6 @@
     "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe Cloud Computing.md",
     "TryHackMe/Cyber Defense Path/FTP - Network Services.md",
     "TryHackMe/Cyber Defense Path/Telnet - Network Services.md",
-    "TryHackMe/Cyber Defense Path/NFS - Network Services - 2.md",
     "Untitled.canvas"
   ]
 }
