@@ -62,3 +62,9 @@ The context switch answers the important question of *when* the kernel runs. The
 5. Kernel prepares memory for this new process and let this process use CPU.
 6. Kernel tells CPU how long the time slice is and that's how long the new process will run.
 7. The Kernel switches CPU to User mode and hands the control of CPU to process to run.
+
+#### Memory Management
+
+Kernel needs to manage the memory during a context switch which can be quite complex.
+Conditions for context switch:
+1. Kernel must have its own private area in memory that other processes cant access.7777777777
