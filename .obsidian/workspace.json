@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How Linux Works/Day 1 - The Big Picture.md",
+                "file": "How Linux Works/Day 2 - Basic Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How Linux Works/Day 1 - The Big Picture.md",
+                "file": "How Linux Works/Day 2 - Basic Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How Linux Works/Day 1 - The Big Picture.md",
+                "file": "How Linux Works/Day 2 - Basic Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How Linux Works/Day 1 - The Big Picture.md"
+                "file": "How Linux Works/Day 2 - Basic Commands.md"
               }
             }
           },
@@ -146,11 +146,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,8 +165,9 @@
   },
   "active": "a16e324c8fa1864d",
   "lastOpenFiles": [
-    "How Linux Works/Screenshots/1.2-process_starting.png",
     "How Linux Works/Day 1 - The Big Picture.md",
+    "How Linux Works/Day 2 - Basic Commands.md",
+    "How Linux Works/Screenshots/1.2-process_starting.png",
     "How Linux Works/Screenshots/OS_overview.jpeg",
     "How Linux Works/Screenshots/OS_overview.jpeg.crdownload",
     "How Linux Works/Screenshots/1.1-LinuxSystemOrg.png",
@@ -199,7 +201,6 @@
     "Nmap-sravani-report/Screenshots/2.5.png",
     "Nmap-sravani-report/Screenshots/image (4).png",
     "Nmap-sravani-report/Screenshots/2.4.png",
-    "Nmap-sravani-report/Screenshots/image (3).png",
     "Nmap.md",
     "TCM Security/PEH/1. Exploring Kali Linux.md",
     "TCM Security/PEH/0. Networking Refresher.md",
