@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How Linux Works/Day 2 - Basic Commands.md",
+                "file": "How Linux Works/README.md.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How Linux Works/Day 2 - Basic Commands.md",
+                "file": "How Linux Works/README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How Linux Works/Day 2 - Basic Commands.md",
+                "file": "How Linux Works/README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How Linux Works/Day 2 - Basic Commands.md"
+                "file": "How Linux Works/README.md.md"
               }
             }
           },
@@ -165,8 +165,9 @@
   },
   "active": "a16e324c8fa1864d",
   "lastOpenFiles": [
-    "How Linux Works/Day 1 - The Big Picture.md",
     "How Linux Works/Day 2 - Basic Commands.md",
+    "How Linux Works/README.md.md",
+    "How Linux Works/Day 1 - The Big Picture.md",
     "How Linux Works/Screenshots/1.2-process_starting.png",
     "How Linux Works/Screenshots/OS_overview.jpeg",
     "How Linux Works/Screenshots/OS_overview.jpeg.crdownload",
@@ -210,7 +211,6 @@
     "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 1 - Security Principles.md",
     "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe Benefits of Cloud Services.md",
     "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe Cloud Computing.md",
-    "TryHackMe/Cyber Defense Path/FTP - Network Services.md",
     "Untitled.canvas"
   ]
 }
