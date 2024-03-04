@@ -67,4 +67,24 @@ The context switch answers the important question of *when* the kernel runs. The
 
 Kernel needs to manage the memory during a context switch which can be quite complex.
 Conditions for context switch:
-1. Kernel must have its own private area in memory that other processes cant access.7777777777
+1. Kernel must have its own private area in memory that other processes cant access.
+2. Each process must have its own memory section and it may not access other process private memory.
+3. User processes can share memory and few of them can be read-only
+4. Virtual memory using disk space. [Read More about Virtual Memory](https://www.techtarget.com/searchstorage/definition/virtual-memory)
+
+#### Device Drivers and Management
+
+A device is accessible only in kernel mode because improper access like user process asking to turn off power supply to CPU is pretty scary and chaotic.
+
+There's also complexity of different devices using different API's even for same operations. So Device drivers have been part of kernel providing uniform interface to user processes using system calls and shell.
+
+#### System Calls and Support
+
+Kernel features are available to user processes to perform specific tasks that user process cannot do alone like opening, reading or writing to a file.
+
+Two of the most important system calls that processes use to start are `fork()` and `exec()`
+
+`fork()` - Kernel creates a nearly identical copy of the process.
+`exec()` - Kernel loads the program replacing current process.
+
+A very simple example is any program that you run at the command line, such as the `ls` command to show the contents of a directory. When you enter ls into a terminal window, the shell that’s running inside the terminal window calls `fork()` to create a copy of the shell, and then the new copy of the shell calls `exec(ls)` to run `ls`.
