@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3f3f0e8cd04c88c8",
+        "id": "00c7b45cc521939a",
         "type": "tabs",
         "children": [
           {
-            "id": "74a18bed198d384c",
+            "id": "a16e324c8fa1864d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -163,12 +163,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74a18bed198d384c",
+  "active": "a16e324c8fa1864d",
   "lastOpenFiles": [
+    "How Linux Works/Day 1 - The Big Picture.md",
+    "How Linux Works/Screenshots/OS_overview.jpeg",
+    "How Linux Works/Screenshots/OS_overview.jpeg.crdownload",
     "How Linux Works/Screenshots/1.1-LinuxSystemOrg.png",
     "How Linux Works/Screenshots",
     "Hacking Simplified Internship/Week - 1 Class - 1.md",
-    "How Linux Works/Day 1 - The Big Picture.md",
     "How Linux Works",
     "Untitled.md",
     "Hacking Simplified Internship/CyberSecurityBootcamp/Week 1 - Starting Up - Learning webapp basics, deploy on the web/README.md",
@@ -193,14 +195,11 @@
     "Nmap-sravani-report.zip",
     "Nmap-sravani-report/Lab 2 - BlackBox Nmap Scanning.md",
     "Nmap-sravani-report/Lab 2 - BlackBox Nmap Scanning.pdf",
-    "Nmap-sravani-report/Sravanimadhas_lab2.pdf",
     "Nmap-sravani-report/Screenshots/2.3.png",
     "Nmap-sravani-report/Screenshots/2.5.png",
     "Nmap-sravani-report/Screenshots/image (4).png",
     "Nmap-sravani-report/Screenshots/2.4.png",
     "Nmap-sravani-report/Screenshots/image (3).png",
-    "Nmap-sravani-report/Screenshots/image (1).png",
-    "Nmap-sravani-report/Screenshots/2.2.png",
     "Nmap.md",
     "TCM Security/PEH/1. Exploring Kali Linux.md",
     "TCM Security/PEH/0. Networking Refresher.md",
