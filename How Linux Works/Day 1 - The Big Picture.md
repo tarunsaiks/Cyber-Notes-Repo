@@ -93,6 +93,8 @@ A very simple example is any program that you run at the command line, such as t
 
 ### User Space
 
-Memory allocated by kernel for user processes.
-
+- Memory allocated by kernel for user processes.
 - Process is a state in memory at any given time and user space refers to the memory for the entire collection of running processes.
+**Note:** User process can access the kernel space through system calls.
+- Most applications and services write diagnostic messages known as logs. Most programs use the standard syslog service to write log messages, but some prefer to do all of the logging themselves.
+- A user space process runs in [user mode](http://www.linfo.org/user_mode.html), which is the non-privileged execution mode that the process' instructions are executed with. User mode processes have to switch to kernel mode when they want to consume services provided by the kernel (e.g. disk I/O, network access). Switching to kernel mode involves triggering a syscall to be executed by the kernel.
