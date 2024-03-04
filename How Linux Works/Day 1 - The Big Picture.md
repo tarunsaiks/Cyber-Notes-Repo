@@ -57,8 +57,8 @@ The context switch answers the important question of *when* the kernel runs. The
 
 1. CPU interrupts a current process based on internal timer, switches into KERNEL MODE, and hands over the control to kernel.
 2. Kernel records the current state of CPU and memory, which will be essential to resume the process that was just interrupted.
-3. Kernel performs any tasks that might have come up during preceeding time slice.
-4. Kernel is ready to let another process run, analyzes the list of precoesses that are ready to run and chooses one.
+3. Kernel performs any tasks that might have come up during preceding time slice.
+4. Kernel is ready to let another process run, analyzes the list of processes that are ready to run and chooses one.
 5. Kernel prepares memory for this new process and let this process use CPU.
 6. Kernel tells CPU how long the time slice is and that's how long the new process will run.
 7. The Kernel switches CPU to User mode and hands the control of CPU to process to run.
@@ -88,3 +88,11 @@ Two of the most important system calls that processes use to start are `fork()` 
 `exec()` - Kernel loads the program replacing current process.
 
 A very simple example is any program that you run at the command line, such as the `ls` command to show the contents of a directory. When you enter ls into a terminal window, the shell that’s running inside the terminal window calls `fork()` to create a copy of the shell, and then the new copy of the shell calls `exec(ls)` to run `ls`.
+
+![](Screenshots/1.2-process_starting.png)
+
+### User Space
+
+Memory allocated by kernel for user processes.
+
+- Process is a state in memory at any given time and user space refers to the memory for the entire collection of running processes.
