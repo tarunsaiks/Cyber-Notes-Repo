@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Day 1 - The Big Picture.md",
+                "file": "Linux/Day 2 - Basic Linux Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Day 1 - The Big Picture.md",
+                "file": "Linux/Day 2 - Basic Linux Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Day 1 - The Big Picture.md",
+                "file": "Linux/Day 2 - Basic Linux Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Day 1 - The Big Picture.md"
+                "file": "Linux/Day 2 - Basic Linux Commands.md"
               }
             }
           },
@@ -165,9 +165,9 @@
   },
   "active": "a16e324c8fa1864d",
   "lastOpenFiles": [
+    "Linux/Day 1 - The Big Picture.md",
     "Linux/Day 2 - Basic Linux Commands.md",
     "Linux/README.md.md",
-    "Linux/Day 1 - The Big Picture.md",
     "Linux/Screenshots/1.2-process_starting.png",
     "Linux/Screenshots/OS_overview.jpeg",
     "How Linux Works/Screenshots/OS_overview.jpeg.crdownload",
