@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Day 2 - Basic Linux Commands.md",
+                "file": "2024-03-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -165,6 +165,7 @@
   },
   "active": "a16e324c8fa1864d",
   "lastOpenFiles": [
+    "2024-03-05.md",
     "Linux/Screenshots/1.4 Linux File System.png",
     "Linux/Day 1 - The Big Picture.md",
     "Linux/Day 2 - Basic Linux Commands.md",
@@ -202,7 +203,6 @@
     "Nmap-sravani-report/Screenshots/2.3.png",
     "Nmap-sravani-report/Screenshots/2.5.png",
     "Nmap-sravani-report/Screenshots/image (4).png",
-    "Nmap-sravani-report/Screenshots/2.4.png",
     "Nmap.md",
     "TCM Security/PEH/1. Exploring Kali Linux.md",
     "TCM Security/PEH/0. Networking Refresher.md",
