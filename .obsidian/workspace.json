@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-03-05.md",
+                "file": "Linux/Day 1 - The Big Picture.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-05.md",
+                "file": "Linux/Day 1 - The Big Picture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-05.md",
+                "file": "Linux/Day 1 - The Big Picture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-05.md"
+                "file": "Linux/Day 1 - The Big Picture.md"
               }
             }
           },
@@ -165,6 +165,9 @@
   },
   "active": "a856a5580f0f60ab",
   "lastOpenFiles": [
+    "Linux/Reports/Day 1 - The Big Picture.pdf",
+    "Linux/Reports",
+    "Linux/New folder",
     "2024-03-05.md",
     "Linux/Day 2 - Basic Linux Commands.md",
     "Linux/Screenshots/1.4 Linux File System.png",
@@ -197,9 +200,7 @@
     "Pasted image 20240227002441.png",
     "access-control.svg",
     "PortSwigger Academy/Server Side Vulnerabilities/Path Traversal.md",
-    "Nmap-sravani-report.zip",
     "Nmap-sravani-report/Lab 2 - BlackBox Nmap Scanning.md",
-    "Nmap-sravani-report/Lab 2 - BlackBox Nmap Scanning.pdf",
     "Nmap-sravani-report/Screenshots/2.3.png",
     "Nmap-sravani-report/Screenshots/2.5.png",
     "Nmap-sravani-report/Screenshots/image (4).png",
@@ -210,7 +211,6 @@
     "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 4 - Understand Governance Elements and Processes.md",
     "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 2 - Understanding Risk Management Process.md",
     "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 1 - Security Principles.md",
-    "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe Benefits of Cloud Services.md",
     "Untitled.canvas"
   ]
 }
