@@ -31,10 +31,18 @@ Linux uses an enhanced version of the Bourne shell called `bash` or the “Bourn
 - After you remove a file, it’s usually gone from your system and generally cannot be undeleted unless you restore it from a backup.
 - `rm fileToDelete`
 ## echo
-- Prints arguments to the STDOUT ()
+- Prints arguments to the STDOUT (standard output).
+```bash
+echo Hello Again
+Hello Again
+```
+- The echo command is very useful for finding expansions of shell globs (“wildcards” such as *) and variables (such as $HOME)
 
 # Navigating Directories
-
+- **/** - root directory
+- */* is used as directory seperator.
+- multiple sub-directories under root directory.
+![](Screenshots/1.4%20Linux%20File%20System.png)
 ## cd
 ## mkdir
 ## rmdir
