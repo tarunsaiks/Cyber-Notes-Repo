@@ -40,10 +40,19 @@ Hello Again
 
 # Navigating Directories
 - **/** - root directory
-- */* is used as directory seperator.
+- */* is used as directory separator.
+- **.** is used to represent current working directory
+- **..** is used to represent parent directory.
+- if you’re in `/usr/lib`, the path` . `is still `/usr/lib`, and `./X11` is `/usr/lib/X11`.
 - multiple sub-directories under root directory.
 ![](Screenshots/1.4%20Linux%20File%20System.png)
 ## cd
+- the change directory command
+- To change to `/etc/`, use `cd /etc`
+
+>[!info]
+>The cd command is a shell built-in. It wouldn’t work as a separate program because
+if it were to run as a subprocess, it could not (normally) change its parent’s current working directory. This may not seem a particularly important distinction at the moment, but there are times when knowing this fact can clear up confusion.
 ## mkdir
 ## rmdir
 ## Wildcards
