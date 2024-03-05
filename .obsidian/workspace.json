@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "00c7b45cc521939a",
+        "id": "582aa6241c64ed2f",
         "type": "tabs",
         "children": [
           {
-            "id": "a16e324c8fa1864d",
+            "id": "a856a5580f0f60ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Day 2 - Basic Linux Commands.md",
+                "file": "2024-03-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Day 2 - Basic Linux Commands.md",
+                "file": "2024-03-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Day 2 - Basic Linux Commands.md"
+                "file": "2024-03-05.md"
               }
             }
           },
@@ -163,12 +163,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a16e324c8fa1864d",
+  "active": "a856a5580f0f60ab",
   "lastOpenFiles": [
     "2024-03-05.md",
+    "Linux/Day 2 - Basic Linux Commands.md",
     "Linux/Screenshots/1.4 Linux File System.png",
     "Linux/Day 1 - The Big Picture.md",
-    "Linux/Day 2 - Basic Linux Commands.md",
     "Linux/README.md.md",
     "Linux/Screenshots/1.2-process_starting.png",
     "Linux/Screenshots/OS_overview.jpeg",
