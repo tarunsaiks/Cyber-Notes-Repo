@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Day 1 - The Big Picture.md",
+                "file": "Linux/Day 2 - Basic Linux Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Day 1 - The Big Picture.md",
+                "file": "Linux/Day 2 - Basic Linux Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Day 1 - The Big Picture.md",
+                "file": "Linux/Day 2 - Basic Linux Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Day 1 - The Big Picture.md"
+                "file": "Linux/Day 2 - Basic Linux Commands.md"
               }
             }
           },
@@ -165,13 +165,13 @@
   },
   "active": "a856a5580f0f60ab",
   "lastOpenFiles": [
+    "Linux/Day 1 - The Big Picture.md",
     "Linux/Reports/Day 1 - The Big Picture.pdf",
     "Linux/Reports",
     "Linux/New folder",
     "2024-03-05.md",
     "Linux/Day 2 - Basic Linux Commands.md",
     "Linux/Screenshots/1.4 Linux File System.png",
-    "Linux/Day 1 - The Big Picture.md",
     "Linux/README.md.md",
     "Linux/Screenshots/1.2-process_starting.png",
     "Linux/Screenshots/OS_overview.jpeg",
@@ -190,7 +190,6 @@
     "Hacking Simplified Internship/CyberSecurityBootcamp/LICENSE",
     "Hacking Simplified Internship/CyberSecurityBootcamp",
     "Security Blue Team/4. Overview of Malware.md",
-    "Hacking Simplified Internship",
     "2024-03-01.md",
     "Security Blue Team/3. Activity using IOC Generator.md",
     "Security Blue Team/2. Generating Indicators.md",
