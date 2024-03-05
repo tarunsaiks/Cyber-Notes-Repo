@@ -1,3 +1,4 @@
+Date - 03/04/2024
 # Bourne Shell: /bin/sh
 The shell is one of the most important parts of a Unix system. A shell is a program that runs commands, like the ones that users enter into a terminal window.
 
@@ -71,8 +72,20 @@ if it were to run as a subprocess, it could not (normally) change its parent’s
 
 >[!info]
 >If you’re used to the Windows command prompt, you might instinctively type *.* to match all files. Break this habit now. In Linux and other versions of Unix, you must use * to match all files. In the Unix shell, *.* matches only files and directories that contain the dot (.) character in their names. Unix filenames do not need extensions and often do not carry them.
+
+If you don’t want the shell to expand a glob in a command, enclose the glob in single quotes (''). For example, the command echo '*' prints a star
+
 # Intermediate Commands
-## grep
+# grep
+- The `grep` command is used to search for patterns within files. It prints lines that match the specified pattern.
+- to print the lines in the /etc/passwd file that contain the text root, `grep root /etc/passwd`
+- if you want to check every file in /etc that contains the word root, `grep root /etc/*`
+- grep understands regular expressions, patterns that are grounded in computer science theory and are very common in Unix utilities. 
+- Regular expressions are more powerful than wildcard-style patterns, and they have a different syntax. 
+- There are three important things to remember about regular expressions:
+	.* matches any number of characters, including none (like the * in globs and wildcards).
+	.+ matches any one or more characters.
+	. matches exactly one arbitrary character.
 ## less
 ## pwd
 ## diff
