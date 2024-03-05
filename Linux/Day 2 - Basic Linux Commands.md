@@ -54,8 +54,23 @@ Hello Again
 >The cd command is a shell built-in. It wouldn’t work as a separate program because
 if it were to run as a subprocess, it could not (normally) change its parent’s current working directory. This may not seem a particularly important distinction at the moment, but there are times when knowing this fact can clear up confusion.
 ## mkdir
+- Creates a directory
 ## rmdir
+- Removes a directory.
+- It will not remove directories with contents unless you specify the `-r` option (recursive), which removes directories and their contents.
 ## Wildcards
+- Wildcards are characters used to match filenames or strings in commands. 
+- The shell can match simple patterns to file and directory names, a process known as **globbing**
+- Common wildcards include `*` (matches zero or more characters) and `?` (matches any single character).
+- The substitution is called expansion because the shell substitutes all matching filenames for a simplified expression. Here are some ways to use * to expand filenames:
+	• at* expands to all filenames that start with at.
+	
+	• *at expands to all filenames that end with at.
+	
+	• *at* expands to all filenames that contain at.
+
+>[!info]
+>If you’re used to the Windows command prompt, you might instinctively type *.* to match all files. Break this habit now. In Linux and other versions of Unix, you must use * to match all files. In the Unix shell, *.* matches only files and directories that contain the dot (.) character in their names. Unix filenames do not need extensions and often do not carry them.
 # Intermediate Commands
 ## grep
 ## less
