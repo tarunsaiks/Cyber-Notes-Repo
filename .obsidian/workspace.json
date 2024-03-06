@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Day 1 - The Big Picture.md",
+                "file": "PortSwigger Academy/Server Side Vulnerabilities/Access Control.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Day 1 - The Big Picture.md",
+                "file": "PortSwigger Academy/Server Side Vulnerabilities/Access Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Day 1 - The Big Picture.md",
+                "file": "PortSwigger Academy/Server Side Vulnerabilities/Access Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Day 1 - The Big Picture.md"
+                "file": "PortSwigger Academy/Server Side Vulnerabilities/Access Control.md"
               }
             }
           },
@@ -165,12 +165,13 @@
   },
   "active": "a856a5580f0f60ab",
   "lastOpenFiles": [
-    "Linux/Day 2 - Basic Linux Commands.md",
+    "PortSwigger Academy/access-control.svg",
+    "Some Key things to remember.md",
     "Linux/Day 1 - The Big Picture.md",
+    "Linux/Day 2 - Basic Linux Commands.md",
     "Linux/Reports/Day 1 - The Big Picture.pdf",
     "Linux/Reports",
     "Linux/New folder",
-    "2024-03-05.md",
     "Linux/Screenshots/1.4 Linux File System.png",
     "Linux/README.md.md",
     "Linux/Screenshots/1.2-process_starting.png",
@@ -197,7 +198,6 @@
     "2024-02-27.md",
     "PortSwigger Academy/Server Side Vulnerabilities/Access Control.md",
     "Pasted image 20240227002441.png",
-    "access-control.svg",
     "PortSwigger Academy/Server Side Vulnerabilities/Path Traversal.md",
     "Nmap-sravani-report/Lab 2 - BlackBox Nmap Scanning.md",
     "Nmap-sravani-report/Screenshots/2.3.png",
