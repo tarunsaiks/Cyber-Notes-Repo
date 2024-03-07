@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Day 2 - Basic Linux Commands.md",
+                "file": "Linux/Day - 2 - Linux Commands Basics Rephrased.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Day 2 - Basic Linux Commands.md",
+                "file": "Linux/Day - 2 - Linux Commands Basics Rephrased.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Day 2 - Basic Linux Commands.md",
+                "file": "Linux/Day - 2 - Linux Commands Basics Rephrased.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Day 2 - Basic Linux Commands.md"
+                "file": "Linux/Day - 2 - Linux Commands Basics Rephrased.md"
               }
             }
           },
@@ -165,11 +165,12 @@
   },
   "active": "a856a5580f0f60ab",
   "lastOpenFiles": [
+    "Linux/Day 2 - Basic Linux Commands.md",
+    "Linux/Day - 2 - Linux Commands Basics Rephrased.md",
     "PortSwigger Academy/Server Side Vulnerabilities/Access Control.md",
     "PortSwigger Academy/access-control.svg",
     "Some Key things to remember.md",
     "Linux/Day 1 - The Big Picture.md",
-    "Linux/Day 2 - Basic Linux Commands.md",
     "Linux/Reports/Day 1 - The Big Picture.pdf",
     "Linux/Reports",
     "Linux/New folder",
