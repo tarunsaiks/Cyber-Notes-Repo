@@ -86,10 +86,35 @@ If you don’t want the shell to expand a glob in a command, enclose the glob in
 	.* matches any number of characters, including none (like the * in globs and wildcards).
 	.+ matches any one or more characters.
 	. matches exactly one arbitrary character.
-## less
-## pwd
-## diff
-## file
-## find and locate
-## head and tail
-## sort
+
+# less
+- **Purpose:** Displays the contents of a file one screen at a time, making it ideal for larger files that wouldn't fit comfortably on your entire screen.
+- **Example:** `less /etc/hosts` will display the contents of the `/etc/hosts` file page by page. Use the `space` key to scroll down and `b` to go back a page.
+
+# pwd
+- **Purpose:** This simple command prints the full path of the directory you're currently working in.
+- **Example:** Typing `pwd` and pressing Enter will show the directory path, like `/home/your_username`.
+
+# diff
+- **Purpose:** Compares the differences between two files line by line. It's helpful for identifying changes made to a file or comparing different versions.
+- **Example:** `diff file1.txt file2.txt` will show the differences between the two files.
+
+# file
+- **Purpose:** Examines a file and attempts to determine its type based on its content. This can be useful for identifying unknown file types.
+- **Example:** Running `file mysterious_file.data` might reveal it as a "PNG image" or a "text file".
+
+# find and locate
+- **Purpose:** These commands help locate files based on their name or other criteria.
+    - `find`: Offers more flexibility and advanced search capabilities.
+    - `locate`: Builds a database of filenames, making searches faster but less versatile.
+- **Example:** `find . -name "file_name.txt"` searches for files named "file_name.txt" in the current directory and its subdirectories.
+
+# head and tail
+- **Purpose:**
+    - `head`: Displays the beginning of a file.
+    - `tail`: Displays the end of a file.
+- **Example:** `head -n 5 my_report.txt` shows the first five lines of "my_report.txt". `tail -n 3 system.log` displays the last three lines of "system.log".
+
+# sort
+- **Purpose:** Arranges the lines of a file in a specific order, typically alphabetical or numerical.
+- **Example:** `sort names.txt` sorts the lines in "names.txt" alphabetically. You can add the `-r` flag to sort in reverse order.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PortSwigger Academy/Server Side Vulnerabilities/Access Control.md",
+                "file": "Linux/Day 2 - Basic Linux Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PortSwigger Academy/Server Side Vulnerabilities/Access Control.md",
+                "file": "Linux/Day 2 - Basic Linux Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PortSwigger Academy/Server Side Vulnerabilities/Access Control.md",
+                "file": "Linux/Day 2 - Basic Linux Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PortSwigger Academy/Server Side Vulnerabilities/Access Control.md"
+                "file": "Linux/Day 2 - Basic Linux Commands.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   },
   "active": "a856a5580f0f60ab",
   "lastOpenFiles": [
+    "PortSwigger Academy/Server Side Vulnerabilities/Access Control.md",
     "PortSwigger Academy/access-control.svg",
     "Some Key things to remember.md",
     "Linux/Day 1 - The Big Picture.md",
@@ -196,7 +197,6 @@
     "Security Blue Team/2. Generating Indicators.md",
     "Security Blue Team/1. Introduction to Threat hunting.md",
     "2024-02-27.md",
-    "PortSwigger Academy/Server Side Vulnerabilities/Access Control.md",
     "Pasted image 20240227002441.png",
     "PortSwigger Academy/Server Side Vulnerabilities/Path Traversal.md",
     "Nmap-sravani-report/Lab 2 - BlackBox Nmap Scanning.md",
