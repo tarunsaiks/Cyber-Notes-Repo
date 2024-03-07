@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Linux/Day 2 - Basic Linux Commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9b627116ce37118",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Linux/Day - 2 - Linux Commands Basics Rephrased.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,7 +176,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a856a5580f0f60ab",
+  "active": "e9b627116ce37118",
   "lastOpenFiles": [
     "Linux/Day 2 - Basic Linux Commands.md",
     "Linux/Day - 2 - Linux Commands Basics Rephrased.md",

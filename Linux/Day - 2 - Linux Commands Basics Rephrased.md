@@ -75,6 +75,14 @@ This guide delves into essential Linux commands, empowering you to navigate, sea
     - `echo $HOME`: Prints the value of the environment variable `HOME`, which typically points to your home directory.
 - **Key takeaway:** `echo` is versatile for printing messages, testing commands, and displaying variable values. Use `-e` for basic formatting.
 
+## Navigating Directories
+- **/** - root directory
+- */* is used as directory separator.
+- **.** is used to represent current working directory
+- **..** is used to represent parent directory.
+- if you’re in `/usr/lib`, the path` . `is still `/usr/lib`, and `./X11` is `/usr/lib/X11`.
+- multiple sub-directories under root directory.
+
 **7. cd: Changing Directory**
 
 - **Purpose:** Navigates to a different directory.
@@ -115,7 +123,6 @@ This guide delves into essential Linux commands, empowering you to navigate, sea
     - `ls *.txt`: Lists all files ending with `.txt` in the current directory.
     - `cp image[0-9]*.jpg photos/`: Copies all JPEG image files starting with "image" and followed by one or more digits to the "photos" directory.
 - **Key takeaway:** Wildcards are powerful for working with groups of files that share similar names. Use them carefully to avoid unintended matches.
-## Essential Linux Commands Explained: A Detailed Guide (Continued)
 
 **11. grep: Searching Text Files**
 
@@ -170,3 +177,72 @@ This guide delves into essential Linux commands, empowering you to navigate, sea
 - **Examples:**
     - `file mysterious_file`: Reveals the type of the file named `mysterious_file` (e.g., "PNG image" or "text file").
 - **Key takeaway:** Use `file` to identify unknown file types, especially when dealing with downloaded files or files without extensions.
+
+**16. find:**
+
+- **Syntax:** `find [options] [path] [expression]`
+- **Options:**
+    - `-name pattern`: Searches for files by name (e.g., `find . -name "*.txt"` finds all files ending with ".txt" in the current directory and its subdirectories).
+    - `-type type`: Searches for files based on type (e.g., `find . -type f` finds all regular files, `find . -type d` finds all directories).
+    - `-size +|- n`: Searches for files based on size (e.g., `find . -size +10M` finds files larger than 10 megabytes).
+    - `-perm permission`: Searches for files based on permission (e.g., `find . -perm 755` finds files with read, write, and execute permissions for the owner).
+
+**17. locate:**
+
+- **Syntax:** `locate pattern`
+- **Note:** `locate` relies on a pre-built database that needs to be updated periodically (usually with the `updatedb` command). This may not reflect the latest file system changes.
+
+**Examples:**
+
+- **find:**
+    - `find /home/user -name "myfile.txt"`: Searches for the file "myfile.txt" in the user's home directory.
+    - `find . -type f -mtime -1`: Finds all files modified in the last 24 hours within the current directory and its subdirectories (using `-mtime -1` for modification time within 1 day).
+- **locate:**
+    - `locate *.pdf`: Finds all files with the ".pdf" extension in the system (based on the updated database).
+
+**Key takeaway:**
+
+- `find` is more powerful and flexible for complex searches.
+- `locate` is faster for simple searches based on filenames, but relies on an updated database.
+
+**17. head and tail: Viewing File Head and Tail**
+
+- **Purpose:**
+    
+    - **head:** Displays the beginning of a file.
+    - **tail:** Displays the end of a file.
+- **Syntax:**
+    
+    - `head [options] number file`
+    - `tail [options] number file`
+- **Options:**
+    
+    - `-n number`: Specifies the number of lines to display (default: 10).
+
+**Examples:**
+
+- `head -n 5 myreport.txt`: Shows the first 5 lines of "myreport.txt".
+- `tail -n 3 system.log`: Displays the last 3 lines of "system.log".
+
+**Key takeaway:**
+
+- Use `head` to preview the start of a file or check its content quickly.
+- Use `tail` to view the latest additions to a file, such as log entries, without scrolling through the entire content.
+
+**18. sort: Arranging Lines in Files**
+
+- **Purpose:** Sorts the lines of a file in a specific order.
+- **Syntax:** `sort [options] file`
+- **Options:**
+    - `-n`: Sorts numerically.
+    - `-r`: Sorts in reverse order (descending).
+
+**Examples:**
+
+- `sort names.txt`: Sorts the lines in "names.txt" alphabetically.
+- `sort -nr system.log`: Sorts the lines in "system.log" numerically in reverse order (largest to smallest).
+
+**Key takeaway:**
+
+- `sort` is useful for organizing and analyzing data stored in text files.
+- Use options like `-n` and `-r` to control the sorting behavior.
