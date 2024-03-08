@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Day - 2 - Linux Commands Basics Rephrased.md",
+                "file": "Linux/Day 3 - Common Services in Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Day - 2 - Linux Commands Basics Rephrased.md",
+                "file": "Linux/Day 3 - Common Services in Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Day - 2 - Linux Commands Basics Rephrased.md",
+                "file": "Linux/Day 3 - Common Services in Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Day - 2 - Linux Commands Basics Rephrased.md"
+                "file": "Linux/Day 3 - Common Services in Linux.md"
               }
             }
           },
@@ -178,8 +178,9 @@
   },
   "active": "e9b627116ce37118",
   "lastOpenFiles": [
-    "Linux/Day 2 - Basic Linux Commands.md",
     "Linux/Day - 2 - Linux Commands Basics Rephrased.md",
+    "Linux/Day 3 - Common Services in Linux.md",
+    "Linux/Day 2 - Basic Linux Commands.md",
     "PortSwigger Academy/Server Side Vulnerabilities/Access Control.md",
     "PortSwigger Academy/access-control.svg",
     "Some Key things to remember.md",
@@ -223,7 +224,6 @@
     "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 3 - Understanding Security Controls.md",
     "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 4 - Understand Governance Elements and Processes.md",
     "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 2 - Understanding Risk Management Process.md",
-    "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 1 - Security Principles.md",
     "Untitled.canvas"
   ]
 }
