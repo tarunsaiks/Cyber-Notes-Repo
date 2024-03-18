@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "582aa6241c64ed2f",
+        "id": "21d34f981846c74e",
         "type": "tabs",
         "children": [
           {
-            "id": "a856a5580f0f60ab",
+            "id": "17002ccb3779cc58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Some Key things to remember.md",
+                "file": "Linux/Day 3 - Command Line Continued.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Some Key things to remember.md",
+                "file": "Linux/Day 3 - Command Line Continued.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Some Key things to remember.md",
+                "file": "Linux/Day 3 - Command Line Continued.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Some Key things to remember.md"
+                "file": "Linux/Day 3 - Command Line Continued.md"
               }
             }
           },
@@ -163,15 +163,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a856a5580f0f60ab",
+  "active": "17002ccb3779cc58",
   "lastOpenFiles": [
+    "2024-03-18.md",
+    "Some Key things to remember.md",
     "Linux/Day 2 - Basic Linux Commands.md",
     "2024-03-15.md",
     "Linux/Day 3 - Command Line Continued.md",
     "Linux/Day - 2 - Linux Commands Basics Rephrased.md",
     "PortSwigger Academy/Server Side Vulnerabilities/Access Control.md",
     "PortSwigger Academy/access-control.svg",
-    "Some Key things to remember.md",
     "Linux/Day 1 - The Big Picture.md",
     "Linux/Reports/Day 1 - The Big Picture.pdf",
     "Linux/Reports",
@@ -210,7 +211,6 @@
     "TCM Security/PEH/1. Exploring Kali Linux.md",
     "TCM Security/PEH/0. Networking Refresher.md",
     "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 3 - Understanding Security Controls.md",
-    "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 4 - Understand Governance Elements and Processes.md",
     "Untitled.canvas"
   ]
 }
