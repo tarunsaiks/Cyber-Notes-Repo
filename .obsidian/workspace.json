@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 1 - Security Principles.md",
+                "file": "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 2 - Understanding Risk Management Process.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 1 - Security Principles.md",
+                "file": "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 2 - Understanding Risk Management Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 1 - Security Principles.md",
+                "file": "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 2 - Understanding Risk Management Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 1 - Security Principles.md"
+                "file": "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 2 - Understanding Risk Management Process.md"
               }
             }
           },
@@ -164,6 +164,7 @@
   },
   "active": "17002ccb3779cc58",
   "lastOpenFiles": [
+    "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 1 - Security Principles.md",
     "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 4 - Understand Governance Elements and Processes.md",
     "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 3 - Understanding Security Controls.md",
     "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 2 - Understanding Risk Management Process.md",
@@ -207,7 +208,6 @@
     "2024-02-27.md",
     "Pasted image 20240227002441.png",
     "PortSwigger Academy/Server Side Vulnerabilities/Path Traversal.md",
-    "Nmap-sravani-report/Lab 2 - BlackBox Nmap Scanning.md",
     "Nmap-sravani-report/Screenshots/2.3.png",
     "Nmap-sravani-report/Screenshots/2.5.png",
     "Untitled.canvas"
