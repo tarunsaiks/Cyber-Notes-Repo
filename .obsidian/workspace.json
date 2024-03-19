@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Day 3 - Command Line Continued.md",
+                "file": "ISC2/Certified In Cybersecurity/0. Course Objectives.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Day 3 - Command Line Continued.md",
+                "file": "ISC2/Certified In Cybersecurity/0. Course Objectives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Day 3 - Command Line Continued.md",
+                "file": "ISC2/Certified In Cybersecurity/0. Course Objectives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Day 3 - Command Line Continued.md"
+                "file": "ISC2/Certified In Cybersecurity/0. Course Objectives.md"
               }
             }
           },
@@ -165,11 +165,13 @@
   },
   "active": "17002ccb3779cc58",
   "lastOpenFiles": [
+    "Pasted image 20240318210424.png",
+    "ISC2/Certified In Cybersecurity/EDU-CC-exam_domain_chapter_map.pdf",
+    "Linux/Day 3 - Command Line Continued.md",
     "2024-03-18.md",
     "Some Key things to remember.md",
     "Linux/Day 2 - Basic Linux Commands.md",
     "2024-03-15.md",
-    "Linux/Day 3 - Command Line Continued.md",
     "Linux/Day - 2 - Linux Commands Basics Rephrased.md",
     "PortSwigger Academy/Server Side Vulnerabilities/Access Control.md",
     "PortSwigger Academy/access-control.svg",
@@ -194,7 +196,6 @@
     "Hacking Simplified Internship/CyberSecurityBootcamp/Week 1 - Starting Up - Learning webapp basics, deploy on the web",
     "Hacking Simplified Internship/CyberSecurityBootcamp/README.md",
     "Hacking Simplified Internship/CyberSecurityBootcamp/LICENSE",
-    "Hacking Simplified Internship/CyberSecurityBootcamp",
     "Security Blue Team/4. Overview of Malware.md",
     "2024-03-01.md",
     "Security Blue Team/3. Activity using IOC Generator.md",
@@ -210,7 +211,6 @@
     "Nmap.md",
     "TCM Security/PEH/1. Exploring Kali Linux.md",
     "TCM Security/PEH/0. Networking Refresher.md",
-    "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 3 - Understanding Security Controls.md",
     "Untitled.canvas"
   ]
 }
