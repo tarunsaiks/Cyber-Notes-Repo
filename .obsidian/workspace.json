@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cf3e220f29f74415",
+        "id": "9dcc2ab872554da7",
         "type": "tabs",
         "children": [
           {
-            "id": "56206bdd86d04cec",
+            "id": "e77393b7b6773349",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TCM Security/PEH/1. Exploring Kali Linux.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TCM Security/PEH/1. Exploring Kali Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TCM Security/PEH/1. Exploring Kali Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TCM Security/PEH/1. Exploring Kali Linux.md"
+              }
             }
           },
           {
@@ -154,8 +162,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56206bdd86d04cec",
+  "active": "e77393b7b6773349",
   "lastOpenFiles": [
+    "2024-03-25.md",
     "2024-03-24.md",
     "Linux/Day 3 - Command Line Continued.md",
     "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 2 - Understanding Risk Management Process.md",
@@ -198,7 +207,6 @@
     "2024-03-01.md",
     "Security Blue Team/3. Activity using IOC Generator.md",
     "Security Blue Team/2. Generating Indicators.md",
-    "Security Blue Team/1. Introduction to Threat hunting.md",
     "Pasted image 20240227002441.png",
     "Nmap-sravani-report/Screenshots/2.3.png",
     "Nmap-sravani-report/Screenshots/2.5.png",
