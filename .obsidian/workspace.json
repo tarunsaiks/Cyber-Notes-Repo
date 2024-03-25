@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9dcc2ab872554da7",
+        "id": "09461b98c206a175",
         "type": "tabs",
         "children": [
           {
-            "id": "e77393b7b6773349",
+            "id": "5ac8d9069de1eb09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Day 3 - Command Line Continued.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1de1a1f4ec036104",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day - 3 Command Line.md",
+                "file": "TCM Security/PEH/1. Exploring Kali Linux.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day - 3 Command Line.md",
+                "file": "TCM Security/PEH/1. Exploring Kali Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day - 3 Command Line.md",
+                "file": "TCM Security/PEH/1. Exploring Kali Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day - 3 Command Line.md"
+                "file": "TCM Security/PEH/1. Exploring Kali Linux.md"
               }
             }
           },
@@ -175,7 +162,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1de1a1f4ec036104",
+  "active": "5ac8d9069de1eb09",
   "lastOpenFiles": [
     "Linux/Day 3 - Command Line Continued.md",
     "Day - 3 Command Line.md",
