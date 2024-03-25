@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1de1a1f4ec036104",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day - 3 Command Line.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Day 3 - Command Line Continued.md",
+                "file": "Day - 3 Command Line.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Day 3 - Command Line Continued.md",
+                "file": "Day - 3 Command Line.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Day 3 - Command Line Continued.md"
+                "file": "Day - 3 Command Line.md"
               }
             }
           },
@@ -150,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 314.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,12 +175,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e77393b7b6773349",
+  "active": "1de1a1f4ec036104",
   "lastOpenFiles": [
+    "Linux/Day 3 - Command Line Continued.md",
+    "Day - 3 Command Line.md",
     "TCM Security/PEH/1. Exploring Kali Linux.md",
     "2024-03-25.md",
     "2024-03-24.md",
-    "Linux/Day 3 - Command Line Continued.md",
     "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 2 - Understanding Risk Management Process.md",
     "2024-03-21.md",
     "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 1 - Security Principles.md",
@@ -206,7 +220,6 @@
     "Hacking Simplified Internship/CyberSecurityBootcamp/LICENSE",
     "Security Blue Team/4. Overview of Malware.md",
     "2024-03-01.md",
-    "Security Blue Team/3. Activity using IOC Generator.md",
     "Pasted image 20240227002441.png",
     "Nmap-sravani-report/Screenshots/2.3.png",
     "Nmap-sravani-report/Screenshots/2.5.png",
