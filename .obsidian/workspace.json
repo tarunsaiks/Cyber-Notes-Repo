@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCM Security/PEH/1. Exploring Kali Linux.md",
+                "file": "Linux/Day 3 - Command Line Continued.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCM Security/PEH/1. Exploring Kali Linux.md",
+                "file": "Linux/Day 3 - Command Line Continued.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TCM Security/PEH/1. Exploring Kali Linux.md",
+                "file": "Linux/Day 3 - Command Line Continued.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCM Security/PEH/1. Exploring Kali Linux.md"
+                "file": "Linux/Day 3 - Command Line Continued.md"
               }
             }
           },
@@ -164,6 +164,7 @@
   },
   "active": "e77393b7b6773349",
   "lastOpenFiles": [
+    "TCM Security/PEH/1. Exploring Kali Linux.md",
     "2024-03-25.md",
     "2024-03-24.md",
     "Linux/Day 3 - Command Line Continued.md",
@@ -206,7 +207,6 @@
     "Security Blue Team/4. Overview of Malware.md",
     "2024-03-01.md",
     "Security Blue Team/3. Activity using IOC Generator.md",
-    "Security Blue Team/2. Generating Indicators.md",
     "Pasted image 20240227002441.png",
     "Nmap-sravani-report/Screenshots/2.3.png",
     "Nmap-sravani-report/Screenshots/2.5.png",
