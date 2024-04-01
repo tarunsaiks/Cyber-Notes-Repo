@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCM Security/PEH/1. Exploring Kali Linux.md",
+                "file": "2024-04-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCM Security/PEH/1. Exploring Kali Linux.md",
+                "file": "2024-04-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TCM Security/PEH/1. Exploring Kali Linux.md",
+                "file": "2024-04-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCM Security/PEH/1. Exploring Kali Linux.md"
+                "file": "2024-04-01.md"
               }
             }
           },
@@ -164,9 +164,10 @@
   },
   "active": "5ac8d9069de1eb09",
   "lastOpenFiles": [
+    "TCM Security/PEH/1. Exploring Kali Linux.md",
+    "2024-04-01.md",
     "Linux/Day 3 - Command Line Continued.md",
     "Day - 3 Command Line.md",
-    "TCM Security/PEH/1. Exploring Kali Linux.md",
     "2024-03-25.md",
     "2024-03-24.md",
     "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 2 - Understanding Risk Management Process.md",
@@ -206,7 +207,6 @@
     "Hacking Simplified Internship/CyberSecurityBootcamp/README.md",
     "Hacking Simplified Internship/CyberSecurityBootcamp/LICENSE",
     "Security Blue Team/4. Overview of Malware.md",
-    "2024-03-01.md",
     "Pasted image 20240227002441.png",
     "Nmap-sravani-report/Screenshots/2.3.png",
     "Nmap-sravani-report/Screenshots/2.5.png",
