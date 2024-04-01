@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "09461b98c206a175",
+        "id": "c34fa12f5c157851",
         "type": "tabs",
         "children": [
           {
-            "id": "5ac8d9069de1eb09",
+            "id": "7c609b3a0e85e03b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-04-01.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024-04-01.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,10 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ac8d9069de1eb09",
+  "active": "7c609b3a0e85e03b",
   "lastOpenFiles": [
-    "TCM Security/PEH/1. Exploring Kali Linux.md",
     "2024-04-01.md",
+    "TCM Security/PEH/1. Exploring Kali Linux.md",
     "Linux/Day 3 - Command Line Continued.md",
     "Day - 3 Command Line.md",
     "2024-03-25.md",
