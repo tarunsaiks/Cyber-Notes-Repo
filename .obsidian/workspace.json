@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c34fa12f5c157851",
+        "id": "08291e58304a2a46",
         "type": "tabs",
         "children": [
           {
-            "id": "7c609b3a0e85e03b",
+            "id": "94575796cb72ae1b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -154,7 +154,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c609b3a0e85e03b",
+  "active": "94575796cb72ae1b",
   "lastOpenFiles": [
     "2024-04-01.md",
     "TCM Security/PEH/1. Exploring Kali Linux.md",
