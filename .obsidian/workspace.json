@@ -11,8 +11,12 @@
             "id": "94575796cb72ae1b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024-06-14.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024-06-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024-06-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024-06-14.md"
+              }
             }
           },
           {
@@ -156,6 +164,7 @@
   },
   "active": "94575796cb72ae1b",
   "lastOpenFiles": [
+    "2024-06-14.md",
     "2024-04-01.md",
     "TCM Security/PEH/1. Exploring Kali Linux.md",
     "Linux/Day 3 - Command Line Continued.md",
@@ -198,7 +207,6 @@
     "Hacking Simplified Internship/CyberSecurityBootcamp/Week 1 - Starting Up - Learning webapp basics, deploy on the web",
     "Hacking Simplified Internship/CyberSecurityBootcamp/README.md",
     "Hacking Simplified Internship/CyberSecurityBootcamp/LICENSE",
-    "Security Blue Team/4. Overview of Malware.md",
     "Pasted image 20240227002441.png",
     "Nmap-sravani-report/Screenshots/2.3.png",
     "Nmap-sravani-report/Screenshots/2.5.png",
