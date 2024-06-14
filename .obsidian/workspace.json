@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "08291e58304a2a46",
+        "id": "5d9df63458a1a448",
         "type": "tabs",
         "children": [
           {
-            "id": "94575796cb72ae1b",
+            "id": "9dad57d48a9fac58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-06-14.md",
+                "file": "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe cloud service types.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-06-14.md",
+                "file": "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe cloud service types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-06-14.md",
+                "file": "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe cloud service types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-06-14.md"
+                "file": "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe cloud service types.md"
               }
             }
           },
@@ -162,8 +162,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94575796cb72ae1b",
+  "active": "9dad57d48a9fac58",
   "lastOpenFiles": [
+    "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe Benefits of Cloud Services.md",
+    "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe Cloud Computing.md",
+    "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe cloud service types.md",
     "2024-06-14.md",
     "2024-04-01.md",
     "TCM Security/PEH/1. Exploring Kali Linux.md",
@@ -200,12 +203,9 @@
     "Hacking Simplified Internship/Week - 1 Class - 1.md",
     "Linux",
     "Untitled.md",
-    "Hacking Simplified Internship/CyberSecurityBootcamp/Week 1 - Starting Up - Learning webapp basics, deploy on the web/README.md",
-    "Hacking Simplified Internship/CyberSecurityBootcamp/Week 1 - Starting Up - Learning webapp basics, deploy on the web/class-1.md",
     "Hacking Simplified Internship/CyberSecurityBootcamp/assets/5-Week-Security-Internship.jpeg",
     "Hacking Simplified Internship/CyberSecurityBootcamp/assets",
     "Hacking Simplified Internship/CyberSecurityBootcamp/Week 1 - Starting Up - Learning webapp basics, deploy on the web",
-    "Hacking Simplified Internship/CyberSecurityBootcamp/README.md",
     "Hacking Simplified Internship/CyberSecurityBootcamp/LICENSE",
     "Pasted image 20240227002441.png",
     "Nmap-sravani-report/Screenshots/2.3.png",
