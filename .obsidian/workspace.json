@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8b67b6edd6af674e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-06-20.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-06-20.md",
+                "file": "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe cloud service types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-06-20.md",
+                "file": "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe cloud service types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-06-20.md"
+                "file": "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe cloud service types.md"
               }
             }
           },
@@ -175,7 +162,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b67b6edd6af674e",
+  "active": "9dad57d48a9fac58",
   "lastOpenFiles": [
     "2024-06-20.md",
     "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe Benefits of Cloud Services.md",
