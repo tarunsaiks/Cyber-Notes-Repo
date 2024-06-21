@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure 900/2.Describe Azure architecture and services/Azure Accounts.md",
+                "file": "Azure 900/2.Describe Azure architecture and services/Azure Architecture and Services.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azure 900/2.Describe Azure architecture and services/Azure Accounts.md",
+                "file": "Azure 900/2.Describe Azure architecture and services/Azure Architecture and Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Azure 900/2.Describe Azure architecture and services/Azure Accounts.md",
+                "file": "Azure 900/2.Describe Azure architecture and services/Azure Architecture and Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azure 900/2.Describe Azure architecture and services/Azure Accounts.md"
+                "file": "Azure 900/2.Describe Azure architecture and services/Azure Architecture and Services.md"
               }
             }
           },
@@ -164,8 +164,9 @@
   },
   "active": "17e1b4397d5b67e9",
   "lastOpenFiles": [
+    "Pasted image 20240621100214.png",
     "Pasted image 20240621094945.png",
-    "Azure 900/2.Describe Azure architecture and services/Azure Accounts.md",
+    "Azure 900/2.Describe Azure architecture and services/Azure Architecture and Services.md",
     "Azure 900/2.Describe Azure architecture and services",
     "Azure 900/1.Describe Cloud Concepts/Azure Fundamentals - Describe cloud service types.md",
     "Azure 900/1.Describe Cloud Concepts/Azure Fundamentals - Describe Cloud Computing.md",
@@ -209,7 +210,6 @@
     "Hacking Simplified Internship/CyberSecurityBootcamp/assets/5-Week-Security-Internship.jpeg",
     "Pasted image 20240227002441.png",
     "Nmap-sravani-report/Screenshots/2.3.png",
-    "Nmap-sravani-report/Screenshots/2.5.png",
     "Untitled.canvas"
   ]
 }
