@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe cloud service types.md",
+                "file": "2024-06-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe cloud service types.md",
+                "file": "2024-06-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe cloud service types.md",
+                "file": "2024-06-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe cloud service types.md"
+                "file": "2024-06-21.md"
               }
             }
           },
@@ -164,10 +164,11 @@
   },
   "active": "9dad57d48a9fac58",
   "lastOpenFiles": [
+    "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe cloud service types.md",
+    "2024-06-21.md",
     "2024-06-20.md",
     "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe Benefits of Cloud Services.md",
     "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe Cloud Computing.md",
-    "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe cloud service types.md",
     "2024-06-14.md",
     "2024-04-01.md",
     "TCM Security/PEH/1. Exploring Kali Linux.md",
@@ -201,7 +202,6 @@
     "How Linux Works/Screenshots/OS_overview.jpeg.crdownload",
     "Linux/Screenshots/1.1-LinuxSystemOrg.png",
     "Linux/Screenshots",
-    "Hacking Simplified Internship/Week - 1 Class - 1.md",
     "Linux",
     "Hacking Simplified Internship/CyberSecurityBootcamp/assets/5-Week-Security-Internship.jpeg",
     "Hacking Simplified Internship/CyberSecurityBootcamp/assets",
