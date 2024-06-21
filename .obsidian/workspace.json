@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 314.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,7 +163,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17e1b4397d5b67e9",
+  "active": "348fa0eab31fcdc4",
   "lastOpenFiles": [
     "Pasted image 20240621100214.png",
     "Pasted image 20240621094945.png",
