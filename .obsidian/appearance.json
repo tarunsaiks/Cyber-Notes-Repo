@@ -1,6 +1,7 @@
 {
-  "accentColor": "#0000ff",
-  "textFontFamily": "Calibri,Cascadia Code",
+  "accentColor": "#ff7b00",
+  "textFontFamily": "Segoe UI,Calibri,Cascadia Code",
   "baseFontSize": 17,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "nativeMenus": false
 }

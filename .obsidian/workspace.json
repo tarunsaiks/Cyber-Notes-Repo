@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "12c13c7a74acd8d5",
+        "id": "d9d07558d83128e0",
         "type": "tabs",
         "children": [
           {
-            "id": "17e1b4397d5b67e9",
+            "id": "be1899284b492dcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-06-23.md",
+                "file": "ISC2/Certified In Cybersecurity/Chapter 2/Module 1 - Understand Incident Response.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-06-23.md",
+                "file": "ISC2/Certified In Cybersecurity/Chapter 2/Module 1 - Understand Incident Response.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-06-23.md",
+                "file": "ISC2/Certified In Cybersecurity/Chapter 2/Module 1 - Understand Incident Response.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-06-23.md"
+                "file": "ISC2/Certified In Cybersecurity/Chapter 2/Module 1 - Understand Incident Response.md"
               }
             }
           },
@@ -163,10 +163,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17e1b4397d5b67e9",
+  "active": "be1899284b492dcc",
   "lastOpenFiles": [
-    "Azure 900/2.Describe Azure architecture and services/Azure Architecture and Services.md",
+    "ISC2/Certified In Cybersecurity/Chapter 2/Module 3 - Understand Disaster Recovery.md",
+    "Security+/2. Fundamentals of Security.md",
     "2024-06-23.md",
+    "Azure 900/2.Describe Azure architecture and services/Azure Architecture and Services.md",
     "Pasted image 20240621100214.png",
     "Pasted image 20240621094945.png",
     "Azure 900/2.Describe Azure architecture and services",
@@ -196,8 +198,6 @@
     "Pasted image 20240318210424.png",
     "ISC2/Certified In Cybersecurity/EDU-CC-exam_domain_chapter_map.pdf",
     "2024-03-18.md",
-    "Some Key things to remember.md",
-    "Linux/Day 2 - Basic Linux Commands.md",
     "PortSwigger Academy/access-control.svg",
     "Linux/Reports/Day 1 - The Big Picture.pdf",
     "Linux/Reports",
