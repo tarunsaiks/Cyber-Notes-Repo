@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 1 - Security Principles.md",
+                "file": "ISC2/Certified In Cybersecurity/Chapter 2/Module 1 - Understand Incident Response.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 1 - Security Principles.md",
+                "file": "ISC2/Certified In Cybersecurity/Chapter 2/Module 1 - Understand Incident Response.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 1 - Security Principles.md",
+                "file": "ISC2/Certified In Cybersecurity/Chapter 2/Module 1 - Understand Incident Response.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 1 - Security Principles.md"
+                "file": "ISC2/Certified In Cybersecurity/Chapter 2/Module 1 - Understand Incident Response.md"
               }
             }
           },
@@ -165,10 +165,13 @@
   },
   "active": "be1899284b492dcc",
   "lastOpenFiles": [
+    "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 4 - Understand Governance Elements and Processes.md",
+    "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 3 - Understanding Security Controls.md",
+    "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 2 - Understanding Risk Management Process.md",
+    "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 1 - Security Principles.md",
     "ISC2/Certified In Cybersecurity/Chapter 1/Module 1 Takeaway.pdf",
     "ISC2/Certified In Cybersecurity/0. Course Objectives.md",
     "ISC2/Certified In Cybersecurity/EDU-CC-exam_domain_chapter_map.pdf",
-    "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 1 - Security Principles.md",
     "ISC2/Certified In Cybersecurity/Chapter 2/Module 1 - Understand Incident Response.md",
     "ISC2/Certified In Cybersecurity/Chapter 2/Module 3 - Understand Disaster Recovery.md",
     "Security+/2. Fundamentals of Security.md",
@@ -194,9 +197,7 @@
     "Day - 3 Command Line.md",
     "2024-03-25.md",
     "2024-03-24.md",
-    "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 2 - Understanding Risk Management Process.md",
     "2024-03-21.md",
-    "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 4 - Understand Governance Elements and Processes.md",
     "Pasted image 20240318210424.png",
     "PortSwigger Academy/access-control.svg",
     "Linux/Reports/Day 1 - The Big Picture.pdf",
@@ -208,7 +209,6 @@
     "How Linux Works/Screenshots/OS_overview.jpeg.crdownload",
     "Linux/Screenshots/1.1-LinuxSystemOrg.png",
     "Linux/Screenshots",
-    "Linux",
     "Hacking Simplified Internship/CyberSecurityBootcamp/assets/5-Week-Security-Internship.jpeg",
     "Pasted image 20240227002441.png",
     "Untitled.canvas"
