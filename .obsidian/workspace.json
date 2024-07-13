@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d9d07558d83128e0",
+        "id": "6148eda568343839",
         "type": "tabs",
         "children": [
           {
-            "id": "be1899284b492dcc",
+            "id": "97fc260e983167b7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ISC2/Certified In Cybersecurity/Chapter 2/Module 3 - Understand Disaster Recovery.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d6388988898ac92",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ISC2/Certified In Cybersecurity/Chapter 2/Module 3 - Understand Disaster Recovery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ISC2/Certified In Cybersecurity/Chapter 2/Module 3 - Understand Disaster Recovery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ISC2/Certified In Cybersecurity/Chapter 2/Module 3 - Understand Disaster Recovery.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,8 +155,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d6388988898ac92",
+  "active": "97fc260e983167b7",
   "lastOpenFiles": [
+    "ISC2/Certified In Cybersecurity/Chapter 2/Module 3 - Understand Disaster Recovery.md",
     "ISC2/Certified In Cybersecurity/Chapter 2/Module 2 Takeaway.pdf",
     "ISC2/Certified In Cybersecurity/Chapter 2/Module 2 - Understand Business Continuity.md",
     "ISC2/Certified In Cybersecurity/Chapter 2/Module 1 - Understand Incident Response.md",
@@ -186,7 +168,6 @@
     "ISC2/Certified In Cybersecurity/Chapter 1/Module 1 Takeaway.pdf",
     "ISC2/Certified In Cybersecurity/0. Course Objectives.md",
     "ISC2/Certified In Cybersecurity/EDU-CC-exam_domain_chapter_map.pdf",
-    "ISC2/Certified In Cybersecurity/Chapter 2/Module 3 - Understand Disaster Recovery.md",
     "Security+/2. Fundamentals of Security.md",
     "2024-06-23.md",
     "Azure 900/2.Describe Azure architecture and services/Azure Architecture and Services.md",
@@ -219,7 +200,6 @@
     "Linux/Screenshots/OS_overview.jpeg",
     "How Linux Works/Screenshots/OS_overview.jpeg.crdownload",
     "Linux/Screenshots/1.1-LinuxSystemOrg.png",
-    "Linux/Screenshots",
     "Hacking Simplified Internship/CyberSecurityBootcamp/assets/5-Week-Security-Internship.jpeg",
     "Pasted image 20240227002441.png",
     "Untitled.canvas"
