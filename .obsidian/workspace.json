@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0d6388988898ac92",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,7 +174,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be1899284b492dcc",
+  "active": "0d6388988898ac92",
   "lastOpenFiles": [
     "ISC2/Certified In Cybersecurity/Chapter 2/Module 2 Takeaway.pdf",
     "ISC2/Certified In Cybersecurity/Chapter 2/Module 2 - Understand Business Continuity.md",
