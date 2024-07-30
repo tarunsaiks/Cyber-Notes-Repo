@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6148eda568343839",
+        "id": "9b32aaede53a5572",
         "type": "tabs",
         "children": [
           {
-            "id": "97fc260e983167b7",
+            "id": "b0c9f0c01b4ab116",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "ISC2/Certified In Cybersecurity/Chapter 2/Module 1 - Understand Incident Response.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.6.7"
               }
             }
           }
@@ -93,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ISC2/Certified In Cybersecurity/Chapter 2/Module 1 - Understand Incident Response.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ISC2/Certified In Cybersecurity/Chapter 2/Module 1 - Understand Incident Response.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ISC2/Certified In Cybersecurity/Chapter 2/Module 1 - Understand Incident Response.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,12 +157,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97fc260e983167b7",
+  "active": "b0c9f0c01b4ab116",
   "lastOpenFiles": [
-    "ISC2/Certified In Cybersecurity/Chapter 2/Module 3 - Understand Disaster Recovery.md",
-    "ISC2/Certified In Cybersecurity/Chapter 2/Module 2 Takeaway.pdf",
     "ISC2/Certified In Cybersecurity/Chapter 2/Module 2 - Understand Business Continuity.md",
     "ISC2/Certified In Cybersecurity/Chapter 2/Module 1 - Understand Incident Response.md",
+    "ISC2/Certified In Cybersecurity/Chapter 2/Module 3 - Understand Disaster Recovery.md",
+    "ISC2/Certified In Cybersecurity/Chapter 2/Module 2 Takeaway.pdf",
     "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 4 - Understand Governance Elements and Processes.md",
     "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 3 - Understanding Security Controls.md",
     "ISC2/Certified In Cybersecurity/Chapter 1/Chapter 2 - Understanding Risk Management Process.md",
