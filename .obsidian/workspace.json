@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure SC-200/Mitigate Threats using Microsoft Defender XDR/Introduction to Defender XDR threat protection.md",
+                "file": "Security+/2. Fundamentals of Security.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azure SC-200/Mitigate Threats using Microsoft Defender XDR/Introduction to Defender XDR threat protection.md",
+                "file": "Security+/2. Fundamentals of Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Azure SC-200/Mitigate Threats using Microsoft Defender XDR/Introduction to Defender XDR threat protection.md",
+                "file": "Security+/2. Fundamentals of Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azure SC-200/Mitigate Threats using Microsoft Defender XDR/Introduction to Defender XDR threat protection.md"
+                "file": "Security+/2. Fundamentals of Security.md"
               }
             }
           },
@@ -165,11 +165,12 @@
   },
   "active": "cefa070b7480d54a",
   "lastOpenFiles": [
+    "Security+/Security+ Info.md",
+    "Azure SC-200/Mitigate Threats using Microsoft Defender XDR/Introduction to Defender XDR threat protection.md",
     "Pasted image 20240729225306.png",
     "Pasted image 20240729224713.png",
     "Pasted image 20240729223826.png",
     "Pasted image 20240729223221.png",
-    "Azure SC-200/Mitigate Threats using Microsoft Defender XDR/Introduction to Defender XDR threat protection.md",
     "Azure SC-200/Mitigate Threats using Microsoft Defender XDR",
     "Azure SC-200",
     "ISC2/Certified In Cybersecurity/Chapter 2/Module 2 - Understand Business Continuity.md",
@@ -210,7 +211,6 @@
     "Linux/Reports",
     "Linux/Screenshots/1.4 Linux File System.png",
     "Linux/Screenshots/1.2-process_starting.png",
-    "Linux/Screenshots/OS_overview.jpeg",
     "Untitled.canvas"
   ]
 }
