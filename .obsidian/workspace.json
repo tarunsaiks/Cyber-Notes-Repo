@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3db81bdf8c03b201",
+        "id": "c0b48ecbe6be529b",
         "type": "tabs",
         "children": [
           {
-            "id": "05346fdd0f17855e",
+            "id": "0a6cacf5fb975ac3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -163,7 +163,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "05346fdd0f17855e",
+  "active": "0a6cacf5fb975ac3",
   "lastOpenFiles": [
     "TryHackMe/Active Directory Basics.md",
     "Security+/2. Fundamentals of Security.md",
