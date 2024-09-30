@@ -1,0 +1,1 @@
+If an organization has 5 computers and 5 employees, it is easy to manage and config each device, check logs and specifically for each user. But if an organization has 1000's of users and multiple departments, 
