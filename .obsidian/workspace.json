@@ -13,24 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Active Directory Basics.md",
+                "file": "Azure 900/1.Describe Cloud Concepts/Azure Fundamentals - Describe Cloud Computing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Active Directory Basics"
+              "title": "Azure Fundamentals - Describe Cloud Computing"
             }
           },
           {
-            "id": "bbfb77b3943088ba",
+            "id": "189e401c0d4f4fd2",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.7.4"
+                "currentVersion": "1.7.7"
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "Release Notes 1.7.7"
             }
           }
         ],
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5,
-    "collapsed": true
+    "width": 201.5
   },
   "right": {
     "id": "0c692ad1b0912932",
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TryHackMe/Active Directory Basics.md",
+                "file": "Azure 900/1.Describe Cloud Concepts/Azure Fundamentals - Describe Cloud Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Active Directory Basics"
+              "title": "Backlinks for Azure Fundamentals - Describe Cloud Computing"
             }
           },
           {
@@ -136,12 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TryHackMe/Active Directory Basics.md",
+                "file": "Azure 900/1.Describe Cloud Concepts/Azure Fundamentals - Describe Cloud Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Active Directory Basics"
+              "title": "Outgoing links from Azure Fundamentals - Describe Cloud Computing"
             }
           },
           {
@@ -163,10 +162,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TryHackMe/Active Directory Basics.md"
+                "file": "Azure 900/1.Describe Cloud Concepts/Azure Fundamentals - Describe Cloud Computing.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Active Directory Basics"
+              "title": "Outline of Azure Fundamentals - Describe Cloud Computing"
             }
           },
           {
@@ -197,8 +196,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bbfb77b3943088ba",
+  "active": "189e401c0d4f4fd2",
   "lastOpenFiles": [
+    "Azure 900/1.Describe Cloud Concepts/Azure Fundamentals - Describe Benefits of Cloud Services.md",
     "TryHackMe/Active Directory Basics.md",
     "Security+/2. Fundamentals of Security.md",
     "Pasted image 20240730222033.png",
@@ -228,7 +228,6 @@
     "Azure 900/2.Describe Azure architecture and services",
     "Azure 900/1.Describe Cloud Concepts/Azure Fundamentals - Describe cloud service types.md",
     "Azure 900/1.Describe Cloud Concepts/Azure Fundamentals - Describe Cloud Computing.md",
-    "Azure 900/1.Describe Cloud Concepts/Azure Fundamentals - Describe Benefits of Cloud Services.md",
     "Azure 900/1.Describe Cloud Concepts",
     "2024-06-21.md",
     "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe cloud service types.md",
