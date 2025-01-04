@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c0b48ecbe6be529b",
+        "id": "c698091fab24013a",
         "type": "tabs",
         "children": [
           {
-            "id": "0a6cacf5fb975ac3",
+            "id": "ba8e645433e4626a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure 900/1.Describe Cloud Concepts/Azure Fundamentals - Describe Cloud Computing.md",
+                "file": "HackTheBox/SOC Analyst Path/1. Incident Handling Process.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Azure Fundamentals - Describe Cloud Computing"
-            }
-          },
-          {
-            "id": "189e401c0d4f4fd2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "1. Incident Handling Process"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,8 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "189e401c0d4f4fd2",
+  "active": "ba8e645433e4626a",
   "lastOpenFiles": [
+    "Pasted image 20250104173745.png",
+    "HackTheBox/SOC Analyst Path/1. Incident Handling Process.md",
+    "HackTheBox/SOC Analyst Path",
+    "HackTheBox",
+    "Azure 900/1.Describe Cloud Concepts/Azure Fundamentals - Describe Cloud Computing.md",
     "Azure 900/1.Describe Cloud Concepts/Azure Fundamentals - Describe Benefits of Cloud Services.md",
     "TryHackMe/Active Directory Basics.md",
     "Security+/2. Fundamentals of Security.md",
@@ -227,7 +219,6 @@
     "Pasted image 20240621094945.png",
     "Azure 900/2.Describe Azure architecture and services",
     "Azure 900/1.Describe Cloud Concepts/Azure Fundamentals - Describe cloud service types.md",
-    "Azure 900/1.Describe Cloud Concepts/Azure Fundamentals - Describe Cloud Computing.md",
     "Azure 900/1.Describe Cloud Concepts",
     "2024-06-21.md",
     "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe cloud service types.md",
@@ -237,12 +228,8 @@
     "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe Cloud Computing.md",
     "2024-06-14.md",
     "2024-04-01.md",
-    "TCM Security/PEH/1. Exploring Kali Linux.md",
-    "Linux/Day 3 - Command Line Continued.md",
     "Pasted image 20240318210424.png",
     "PortSwigger Academy/access-control.svg",
-    "Linux/Reports/Day 1 - The Big Picture.pdf",
-    "Linux/Reports",
     "Linux/Screenshots/1.4 Linux File System.png",
     "Untitled.canvas"
   ]
