@@ -4,7 +4,7 @@ Defender XDR is integrated threat protection suite with solutions that detect ma
 
 This makes one of the crucial job responsibilities of a SOC Analyst.
 
-![](../../Pasted%20image%2020240729223221.png)
+![](../../../Pasted%20image%2020240729223221.png)
 
 ---
 # Explore XDR use cases
@@ -13,7 +13,7 @@ This makes one of the crucial job responsibilities of a SOC Analyst.
 
 The victim receives a malicious email on a personal email account not protected by Microsoft Defender for Office 365 (MDO) or a USB drive and opens the attachment. Once the attachment opens, the malware infects the computer. The user is unaware that an attack occurred. But Microsoft Defender for Endpoints (MDE) detects this attack, raises an alert to security operations, and provides details about the threat to the Security team. Disable user access from device while infected - MDE communicates to Intune that the risk level on this endpoint has changed. An Intune Compliance Policy configured with an MDE risk level severity is triggered and marks the account as noncompliant with organizations policy. The Conditional Access created in Microsoft Entra ID blocks user access to apps.
 
-![](../../Pasted%20image%2020240729223826.png)
+![](../../../Pasted%20image%2020240729223826.png)
 
 ## Remediation
 
@@ -25,7 +25,7 @@ Restore Access - Once the infected devices are remediated,  MDE signals Intune t
 
 MDO and Microsoft Defender for Cloud use the signals to detect and remediate threats in email, office collaboration, Azure, and more.
 
-![](../../Pasted%20image%2020240729224713.png)
+![](../../../Pasted%20image%2020240729224713.png)
 
 #### Access Restricted
 Restricts access based on Conditional Access knowing about device risk using MDE notified Intune, which then updated the compliance status of the device in Entra ID.
@@ -42,4 +42,4 @@ This mitigates risk to the organization by ensuring attackers who might be in co
 ---
 # Understand XDR in SOC
 
-![](../../Pasted%20image%2020240729225306.png)
+![](../../../Pasted%20image%2020240729225306.png)

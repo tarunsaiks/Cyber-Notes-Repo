@@ -3,7 +3,7 @@
 1. Need subscription
 2. 
 
-![](../../Pasted%20image%2020240621094945.png)
+![](../../../Pasted%20image%2020240621094945.png)
 
 # Azure Physical Infrastructure
 
@@ -27,7 +27,7 @@ When we deploy a resource in Azure, we'll often need to choose the region where 
 
 Availability zones are physically separate datacenters within an Azure region. Each availability zone is made up of one or more datacenters equipped with independent power, cooling, and networking. An availability zone is set up to be an isolation boundary. If one zone goes down, the other continues working. Availability zones are connected through high-speed, private fiber-optic networks.
 
-![](../../Pasted%20image%2020240621100214.png)
+![](../../../Pasted%20image%2020240621100214.png)
 
 
 > [!INFO] Important

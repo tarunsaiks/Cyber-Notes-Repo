@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security+/2. Fundamentals of Security.md",
+                "file": "Azure/Azure SC-200/Mitigate Threats using Microsoft Defender XDR/Introduction to Defender XDR threat protection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Fundamentals of Security"
+              "title": "Introduction to Defender XDR threat protection"
             }
           }
         ]
@@ -183,25 +183,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba8e645433e4626a",
+  "active": "ce7cbc096c348b06",
   "lastOpenFiles": [
+    "Azure/SC 900",
+    "Azure",
+    "Security+/2. Fundamentals of Security.md",
     "HackTheBox/SOC Analyst Path/1. Incident Handling Process.md",
     "Pasted image 20250104173745.png",
     "HackTheBox/SOC Analyst Path",
     "HackTheBox",
-    "Azure 900/1.Describe Cloud Concepts/Azure Fundamentals - Describe Cloud Computing.md",
-    "Azure 900/1.Describe Cloud Concepts/Azure Fundamentals - Describe Benefits of Cloud Services.md",
+    "Azure/Azure 900/1.Describe Cloud Concepts/Azure Fundamentals - Describe Cloud Computing.md",
+    "Azure/Azure 900/1.Describe Cloud Concepts/Azure Fundamentals - Describe Benefits of Cloud Services.md",
     "TryHackMe/Active Directory Basics.md",
-    "Security+/2. Fundamentals of Security.md",
     "Pasted image 20240730222033.png",
     "Security+/Security+ Info.md",
-    "Azure SC-200/Mitigate Threats using Microsoft Defender XDR/Introduction to Defender XDR threat protection.md",
+    "Azure/Azure SC-200/Mitigate Threats using Microsoft Defender XDR/Introduction to Defender XDR threat protection.md",
     "Pasted image 20240729225306.png",
     "Pasted image 20240729224713.png",
     "Pasted image 20240729223826.png",
     "Pasted image 20240729223221.png",
-    "Azure SC-200/Mitigate Threats using Microsoft Defender XDR",
-    "Azure SC-200",
+    "Azure/Azure SC-200/Mitigate Threats using Microsoft Defender XDR",
+    "Azure/Azure SC-200",
     "ISC2/Certified In Cybersecurity/Chapter 2/Module 2 - Understand Business Continuity.md",
     "ISC2/Certified In Cybersecurity/Chapter 2/Module 1 - Understand Incident Response.md",
     "ISC2/Certified In Cybersecurity/Chapter 2/Module 3 - Understand Disaster Recovery.md",
@@ -214,15 +216,14 @@
     "ISC2/Certified In Cybersecurity/0. Course Objectives.md",
     "ISC2/Certified In Cybersecurity/EDU-CC-exam_domain_chapter_map.pdf",
     "2024-06-23.md",
-    "Azure 900/2.Describe Azure architecture and services/Azure Architecture and Services.md",
+    "Azure/Azure 900/2.Describe Azure architecture and services/Azure Architecture and Services.md",
     "Pasted image 20240621100214.png",
     "Pasted image 20240621094945.png",
-    "Azure 900/2.Describe Azure architecture and services",
-    "Azure 900/1.Describe Cloud Concepts/Azure Fundamentals - Describe cloud service types.md",
-    "Azure 900/1.Describe Cloud Concepts",
+    "Azure/Azure 900/2.Describe Azure architecture and services",
+    "Azure/Azure 900/1.Describe Cloud Concepts/Azure Fundamentals - Describe cloud service types.md",
+    "Azure/Azure 900/1.Describe Cloud Concepts",
     "2024-06-21.md",
     "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe cloud service types.md",
-    "Azure 900/Describe Azure architecture and services",
     "2024-06-20.md",
     "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe Benefits of Cloud Services.md",
     "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe Cloud Computing.md",
