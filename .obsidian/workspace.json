@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HackTheBox/SOC Analyst Path/1. Incident Handling Process.md",
+                "file": "Security+/2. Fundamentals of Security.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Incident Handling Process"
+              "title": "2. Fundamentals of Security"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "ba8e645433e4626a",
   "lastOpenFiles": [
-    "Pasted image 20250104173745.png",
     "HackTheBox/SOC Analyst Path/1. Incident Handling Process.md",
+    "Pasted image 20250104173745.png",
     "HackTheBox/SOC Analyst Path",
     "HackTheBox",
     "Azure 900/1.Describe Cloud Concepts/Azure Fundamentals - Describe Cloud Computing.md",
@@ -230,7 +230,6 @@
     "2024-04-01.md",
     "Pasted image 20240318210424.png",
     "PortSwigger Academy/access-control.svg",
-    "Linux/Screenshots/1.4 Linux File System.png",
     "Untitled.canvas"
   ]
 }
