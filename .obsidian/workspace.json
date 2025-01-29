@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5,
-    "collapsed": true
+    "width": 201.5
   },
   "right": {
     "id": "0c692ad1b0912932",
@@ -186,8 +185,9 @@
   },
   "active": "ba8e645433e4626a",
   "lastOpenFiles": [
-    "Security+/2. Fundamentals of Security.md",
+    "2025-01-28.md",
     "HackTheBox/SOC Analyst Path/1. Incident Handling Process.md",
+    "Security+/2. Fundamentals of Security.md",
     "Azure/Azure SC-200/Mitigate Threats using Microsoft Defender XDR/Introduction to Defender XDR threat protection.md",
     "Azure/SC 900",
     "Azure",
