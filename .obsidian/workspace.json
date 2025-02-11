@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure/SC 900/2. Describe identity concepts.md",
+                "file": "Azure/SC 900/3. Describe the capabilities of Microsoft Entra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Describe identity concepts"
+              "title": "3. Describe the capabilities of Microsoft Entra"
             }
           }
         ]
@@ -185,12 +185,13 @@
   },
   "active": "57380f066c758114",
   "lastOpenFiles": [
+    "Azure/SC 900/2. Describe identity concepts.md",
+    "Azure/SC 900/3. Describe the capabilities of Microsoft Entra.md",
     "Pasted image 20250211182621.png",
     "Pasted image 20250210215223.png",
     "Pasted image 20250210215157.png",
     "Pasted image 20250210210557.png",
     "Azure/SC 900/1. Describe the concepts of security, compliance, and identity.md",
-    "Azure/SC 900/2. Describe identity concepts.md",
     "Some Key things to remember.md",
     "Pasted image 20250210200821.png",
     "Pasted image 20250210200208.png",
@@ -210,7 +211,6 @@
     "Azure/Azure 900/1.Describe Cloud Concepts/Azure Fundamentals - Describe Cloud Computing.md",
     "Azure/Azure 900/1.Describe Cloud Concepts/Azure Fundamentals - Describe Benefits of Cloud Services.md",
     "TryHackMe/Active Directory Basics.md",
-    "Pasted image 20240730222033.png",
     "Security+/Security+ Info.md",
     "Azure/Azure SC-200/Mitigate Threats using Microsoft Defender XDR",
     "Azure/Azure SC-200",
