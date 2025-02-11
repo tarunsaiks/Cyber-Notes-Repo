@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure/SC 900/1. Describe the concepts of security, compliance, and identity.md",
+                "file": "Azure/SC 900/Exam Objectives.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Describe the concepts of security, compliance, and identity"
+              "title": "Exam Objectives"
             }
           }
         ]
@@ -185,9 +185,10 @@
   },
   "active": "57380f066c758114",
   "lastOpenFiles": [
+    "Azure/SC 900/1. Describe the concepts of security, compliance, and identity.md",
+    "Azure/SC 900/Exam Objectives.md",
     "Pasted image 20250210191546.png",
     "Pasted image 20250210185126.png",
-    "Azure/SC 900/1. Describe the concepts of security, compliance, and identity.md",
     "HackTheBox/SOC Analyst Path/1. Incident Handling Process.md",
     "2025-01-28.md",
     "Security+/2. Fundamentals of Security.md",
@@ -230,7 +231,6 @@
     "2024-06-20.md",
     "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe Benefits of Cloud Services.md",
     "Azure 900/Azure Fundamentals - Describe Cloud Concepts/Azure Fundamentals - Describe Cloud Computing.md",
-    "Pasted image 20240318210424.png",
     "Untitled.canvas"
   ]
 }
