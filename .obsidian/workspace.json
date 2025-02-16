@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "1. Describe the concepts of security, compliance, and identity"
             }
+          },
+          {
+            "id": "adcb83711de12663",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -183,7 +197,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57380f066c758114",
+  "active": "adcb83711de12663",
   "lastOpenFiles": [
     "Pasted image 20250210191546.png",
     "Azure/SC 900/1. Describe the concepts of security, compliance, and identity.md",
