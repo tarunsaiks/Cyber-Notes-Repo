@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure/SC 900/4. Describe the authentication capabilities of Microsoft Entra ID.md",
+                "file": "Azure/SC 900/5. Describe access management capabilities of Microsoft Entra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Describe the authentication capabilities of Microsoft Entra ID"
+              "title": "5. Describe access management capabilities of Microsoft Entra"
             }
           }
         ]
@@ -184,13 +184,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce7cbc096c348b06",
+  "active": "57380f066c758114",
   "lastOpenFiles": [
+    "Azure/SC 900/4. Describe the authentication capabilities of Microsoft Entra ID.md",
+    "Azure/SC 900/5. Describe access management capabilities of Microsoft Entra.md",
+    "Azure/SC 900/3. Describe the capabilities of Microsoft Entra.md",
+    "Azure/SC 900/2. Describe identity concepts.md",
     "idea.css",
     "Pasted image 20250217135527.png",
     "Pasted image 20250216182748.png",
-    "Azure/SC 900/3. Describe the capabilities of Microsoft Entra.md",
-    "Azure/SC 900/4. Describe the authentication capabilities of Microsoft Entra ID.md",
     "Pasted image 20250216170501.png",
     "Pasted image 20250210191546.png",
     "Pasted image 20250210185126.png",
@@ -204,7 +206,6 @@
     "AWS Solutions Architect/1. IAM and AWS CLI.md",
     "AWS Solutions Architect/0. Getting Started with AWS.md",
     "TryHackMe/Active Directory Basics.md",
-    "Azure/SC 900/2. Describe identity concepts.md",
     "Some Key things to remember.md",
     "Azure/SC 900/Exam Objectives.md",
     "HackTheBox/SOC Analyst Path/1. Incident Handling Process.md",
@@ -231,7 +232,6 @@
     "ISC2/Certified In Cybersecurity/Chapter 1/Module 1 Takeaway.pdf",
     "ISC2/Certified In Cybersecurity/0. Course Objectives.md",
     "ISC2/Certified In Cybersecurity/EDU-CC-exam_domain_chapter_map.pdf",
-    "Azure/Azure 900/2.Describe Azure architecture and services",
     "Untitled.canvas"
   ]
 }
