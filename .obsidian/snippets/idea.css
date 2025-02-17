@@ -1,5 +1,9 @@
-
 .callout[data-callout="idea"] {
     --callout-color: 255, 255, 0;
     --callout-icon: lucide-lightbulb;
+}
+
+.callout[data-callout="readtime"] {
+    --callout-color: 128, 128, 128;
+    --callout-icon: lucide-timer;
 }
