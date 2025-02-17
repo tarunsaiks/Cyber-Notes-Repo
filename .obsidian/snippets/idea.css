@@ -1,0 +1,5 @@
+
+.callout[data-callout="idea"] {
+    --callout-color: 255, 255, 0;
+    --callout-icon: lucide-lightbulb;
+}
