@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "5. Describe access management capabilities of Microsoft Entra"
             }
+          },
+          {
+            "id": "b8fab3c0a131439a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,7 +197,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57380f066c758114",
+  "active": "b8fab3c0a131439a",
   "lastOpenFiles": [
     "Azure/SC 900/4. Describe the authentication capabilities of Microsoft Entra ID.md",
     "Azure/SC 900/5. Describe access management capabilities of Microsoft Entra.md",
