@@ -11,3 +11,11 @@ File system organization - FAT or NTFS
 
 ## FAT
 FAT, or File Allocation Table, was developed in 1977 by Microsoft Corporation. FAT is not used as much on computers these days. However, the majority of flash memory storage is still formatted using the FAT file system. In addition, FAT is also frequently used in electronic devices with miniature hard drives.
+
+versions:  FAT12, FAT16, FAT32, and exFAT.
+### Components of FAT
+
+1. Boot Sector - Beginning of volume, contains essential info about file system, and BIOS Parameter Block
+2. FAT
+3. Root Directory region
+4. Data region
