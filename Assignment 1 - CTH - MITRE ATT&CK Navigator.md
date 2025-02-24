@@ -161,7 +161,7 @@ These scores were applied in **MITRE ATT&CK Navigator** to prioritize **high-ris
 ## **5. Importance of Understanding APT Groups**  
 
 - **Enhancing Cybersecurity Defenses**: Organizations can **proactively defend** against threats by understanding APT tactics.  
-- **Threat Intelligence Application**: Security teams can **map adversary behavior** to MITRE ATT&CK to **improve detection**.  
+- **Threat Intelligence Application**: Security teams can **map adversary behavior** to MITRE ATT&CK to **improve detection** and threat hunting strategies to remediate.  
 - **Incident Response & Mitigation**: Knowing **common techniques** helps in **building resilient defense strategies**.  
 
 By leveraging the **MITRE ATT&CK framework**, security teams can **better anticipate, detect, and mitigate** APT attacks.
