@@ -17,5 +17,5 @@ versions:  FAT12, FAT16, FAT32, and exFAT.
 
 1. Boot Sector - Beginning of volume, contains essential info about file system, and BIOS Parameter Block
 2. FAT
-3. Root Directory region
-4. Data region
+3. Root Directory region - located immediately after the FAT region and has a fixed size. It contains directory entries for files and subdirectories, including metadata such as file names, attributes, timestamps, and the starting cluster number. In FAT32, stored in data region.
+4. Data region - occupies majority of volume. Divided into clusters, which stores the files and directory data. FAT keeps track of sequence of clus

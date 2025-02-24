@@ -1,91 +1,3 @@
-## **Objective**  
-The goal of this assignment is to analyze and compare the attack techniques used by two well-known **Advanced Persistent Threat (APT) groups**. You will use the **MITRE ATT&CK Navigator** to identify the attack techniques associated with these groups, visualize them on separate layers, merge the layers into a single view, and assign a **scoring system** to the techniques.
-
----
-
-## **Instructions**  
-
-### **1. Identify the APT Groups**  
-- Based on the provided hints, determine the two **APT groups** being referenced.  
-- Research their known **attack techniques, tactics, and tools**.  
-- Some hints about these APT groups:  
-
-#### **Group 1:**  
-- This group is believed to be **state-sponsored** and primarily engages in **cyber-espionage**.  
-- It targets **government entities, military organizations, and the defense sector**.  
-- Known for:  
-  - **Spear phishing**  
-  - **Credential dumping**  
-  - **Exploiting public-facing applications**  
-- **Reconnaissance:** Phishing for Information  
-- **Impact:** Network Denial of Service  
-
-#### **Group 2:**  
-- This group is **highly versatile**, conducting both **espionage and financially motivated attacks**.  
-- It has been involved in:  
-  - **Supply chain compromises**  
-  - **Ransomware deployments**  
-  - **Sophisticated malware attacks**  
-- **Reconnaissance:** Search Victim-Owned Websites  
-- **Impact:** Data Encrypted for Impact  
-
----
-
-### **2. Use MITRE ATT&CK Navigator**  
-- Open the **[MITRE ATT&CK Navigator](https://mitre-attack.github.io/attack-navigator/)** tool.  
-- **Identify and create a layer** for **Group 1**, highlighting its known attack techniques.  
-- **Identify and create a layer** for **Group 2**, highlighting its known attack techniques.  
-- **Merge these two layers** into a single layer to visualize all techniques together.  
-
----
-
-### **3. Scoring the Techniques**  
-- Develop a **scoring system** to evaluate the **severity** or **frequency** of each attack technique.  
-- Example scoring criteria (scale of 1-5):  
-  - **Impact** (High = 5, Low = 1)  
-  - **Ease of Execution** (Easier = Higher score)  
-  - **Detection Difficulty** (Harder to detect = Higher score)  
-- Apply your **scoring system** to the **merged layer** in MITRE ATT&CK Navigator.  
-
----
-
-### **4. Deliverables**  
-- **Screenshot** of the merged layer in **MITRE ATT&CK Navigator**.  
-- A **short report (1-2 pages)** explaining:  
-  - The **key attack techniques** used by each group.  
-  - **Differences and similarities** between these groups.  
-  - Your **chosen scoring methodology** and justification.  
-  - A **brief discussion** on how understanding APT groups enhances cybersecurity defenses.  
-
----
-
-## **Submission Format**  
-- **Document:** PDF or Word file containing the explanation and screenshots.  
-- **Navigator Layer File:** Export the **merged layer** as a JSON file and attach it to your submission.  
-
----
-
-## **Deadline**  
-📅 **February 25, 2025**  
-
----
-
-## **Evaluation Criteria**  
-| **Criteria** | **Weight** | **Description** |
-|-------------|------------|----------------------------------------------------|
-| **APT Group Identification** | **20%** | Correctly determining the groups based on hints. |
-| **Correct Use of MITRE ATT&CK Navigator** | **30%** | Proper visualization and merging of layers. |
-| **Scoring Justification** | **30%** | Logical and well-explained scoring methodology. |
-| **Presentation & Clarity** | **20%** | Clear and concise explanation with well-organized content. |
-
----
-
-### **Additional Resources**  
-- **MITRE ATT&CK Framework:** [https://attack.mitre.org](https://attack.mitre.org)  
-- **MITRE ATT&CK Navigator:** [https://mitre-attack.github.io/attack-navigator/](https://mitre-attack.github.io/attack-navigator/)  
-
-
----
 # **MITRE ATT&CK Framework Analysis: APT Group Comparison**
 
 ## **1. Introduction**  
@@ -147,12 +59,13 @@ A scoring system was developed to **quantify the impact and severity** of attack
 | **Detection Difficulty** | How hard is it to detect? | 1 (Easy) - 5 (Hard) |
 
 ### **Scoring Example**  
-| **Technique** | **Impact** | **Ease of Execution** | **Detection Difficulty** | **Total Score** |
-|--------------|-----------|------------------|--------------------|-------------|
-| Spear Phishing (T1566.001) | 5 | 4 | 4 | 13 |
-| Credential Dumping (T1003) | 4 | 3 | 5 | 12 |
-| Exploiting Public-Facing Apps (T1190) | 5 | 5 | 3 | 13 |
-| Ransomware (T1486) | 5 | 4 | 5 | 14 |
+| **Technique**                         | **Impact** | **Ease of Execution** | **Detection Difficulty** | **Total Score** |
+| ------------------------------------- | ---------- | --------------------- | ------------------------ | --------------- |
+| Spear Phishing (T1566.001)            | 5          | 4                     | 4                        | 13              |
+| Credential Dumping (T1003)            | 4          | 3                     | 5                        | 12              |
+| Exploiting Public-Facing Apps (T1190) | 5          | 5                     | 3                        | 13              |
+| Ransomware (T1486)                    | 5          | 4                     | 5                        | 14              |
+|                                       |            |                       |                          |                 |
 
 These scores were applied in **MITRE ATT&CK Navigator** to prioritize **high-risk techniques**.
 
