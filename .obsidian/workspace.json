@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Belkasoft/Notes.md",
+                "file": "Assignment 1 - CTH - MITRE ATT&CK Navigator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "Assignment 1 - CTH - MITRE ATT&CK Navigator"
             }
           }
         ]
@@ -184,15 +184,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d8e520c2386c0dc",
+  "active": "ce7cbc096c348b06",
   "lastOpenFiles": [
+    "Group_2 - Copy.svg",
+    "Group_1 - Copy.svg",
+    "Belkasoft/Notes.md",
     "Assignment 1 - CTH - MITRE ATT&CK Navigator.md",
     "group_2 1.json",
     "group_2.json",
     "Group_2.svg",
     "Group_1.svg",
     "HackTheBox/SOC Analyst Path/2. SIEM and SOC Fundamentals.md",
-    "Belkasoft/Notes.md",
     "Azure/SC 900/5. Describe access management capabilities of Microsoft Entra.md",
     "Belkasoft",
     "Azure/SC 900/4. Describe the authentication capabilities of Microsoft Entra ID.md",
@@ -206,7 +208,6 @@
     "Pasted image 20250210185126.png",
     "Pasted image 20250104173745.png",
     "Pasted image 20240730222033.png",
-    "Pasted image 20240729225306.png",
     "Azure/SC 900/1. Describe the concepts of security, compliance, and identity.md",
     "Bug Bounty/OWASP Top 10/Broken Access Control.md",
     "AWS Solutions Architect/1. IAM and AWS CLI.md",
