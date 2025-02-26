@@ -58,6 +58,7 @@ A scoring system was developed to **quantify the impact and severity** of attack
 | **Ease of Execution** | How easily can an attacker execute it? | 1 (Difficult) - 5 (Easy) |
 | **Detection Difficulty** | How hard is it to detect? | 1 (Easy) - 5 (Hard) |
 
+### Scoring go
 ### **Scoring Example**  
 | **Technique**                         | **Impact** | **Ease of Execution** | **Detection Difficulty** | **Total Score** |
 | ------------------------------------- | ---------- | --------------------- | ------------------------ | --------------- |
