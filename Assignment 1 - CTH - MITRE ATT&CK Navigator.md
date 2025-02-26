@@ -1,14 +1,15 @@
 # **MITRE ATT&CK Framework Analysis: APT Group Comparison**
-
 ## **1. Introduction**  
+
 Advanced Persistent Threat (APT) groups pose significant cybersecurity risks to organizations worldwide. This report analyzes and compares the attack techniques of **two well-known APT groups** using the **MITRE ATT&CK** framework. The objective is to identify their **tactics, techniques, and tools**, visualize them using **MITRE ATT&CK Navigator**, and assign a **scoring system** to evaluate the severity and frequency of their attack techniques.
 
 ---
+<div style="page-break-after: always;"></div>
+
 
 ## **2. APT Group Identification**  
 
 Based on research and provided hints, the APT groups analyzed in this report are:  
-
 ### **Group 1: APT29 (Cozy Bear)**  
 - **State-sponsored** cyber-espionage group linked to **Russia**.  
 - Targets **government entities, military organizations, and the defense sector**.  
@@ -29,6 +30,8 @@ Based on research and provided hints, the APT groups analyzed in this report are
   - ==**Data Encrypted for Impact (T1486)**== – Causing financial and operational disruption.  
 
 ---
+<div style="page-break-after: always;"></div>
+
 
 ## **3. MITRE ATT&CK Navigator Analysis**  
 
@@ -36,37 +39,65 @@ The **MITRE ATT&CK Navigator** was used to visualize and analyze attack techniqu
 ### Group 1 - APT28:
 #### Screenshot:
 ![](Group_1%20(1).svg)
+<div style="page-break-after: always;"></div>
+
 
 ### Group 2 - APT41:
 ![](Group_2%20(1).svg)
+<div style="page-break-after: always;"></div>
+
+
 ### Combined a+b:
 ![](combined_group_final.svg)
+<div style="page-break-after: always;"></div>
+
+
 ### **Key Observations**  
 - **Common techniques**: Both groups use **reconnaissance, credential access, and impact techniques**.  
 - **Differences**:  
   - ==**APT29**== is **espionage-focused** and targets **governments** and **defense** sectors.  
   - ==**APT41**== conducts **both espionage and financial attacks**, including **ransomware**.  
 
+| **Aspect**             | **APT28 (Fancy Bear)**            | **APT41 (Winnti Group)**          |
+| ---------------------- | --------------------------------- | --------------------------------- |
+| **Primary Objective**  | Cyber-espionage (state-sponsored) | Espionage + Financially motivated |
+| **Initial Access**     | Phishing, public exploits         | Supply chain, stolen credentials  |
+| **Credential Dumping** | Moderate usage                    | Heavy usage                       |
+| **Lateral Movement**   | RDP, credential reuse             | Pass-the-hash, SSH abuse          |
+| **Impact Techniques**  | Network DoS (T1498)               | Ransomware (T1486)                |
+
 ---
+<div style="page-break-after: always;"></div>
+
 
 ## **4. Scoring Methodology**  
 
 A scoring system was developed to **quantify the impact and severity** of attack techniques:  
 
-| **Criteria**             | **Description**                        | **Scale (1-5)**          |
-| ------------------------ | -------------------------------------- | ------------------------ |
-| **Impact**               | How damaging is the technique?         | 1 (Low) - 5 (High)       |
+|**Criteria**|**Description**|**Scale (1-5)**|
+|---|---|---|
+|**Impact**|How damaging is the technique?|1 (Low) - 5 (High)|
+|**Ease of Execution**|How easily can an attacker execute it?|1 (Difficult) - 5 (Easy)|
+|**Detection Difficulty**|How hard is it to detect?|1 (Easy) - 5 (Hard)|
+|**Frequency**|How commonly is this technique used by APT groups?|1 (Rare) - 5 (Very Common)|
+Final Score = **(Impact + Ease of Execution + Detection Difficulty + Frequency) ÷ 4**
 
 The scoring is applied for both the groups on ATT&CK Navigator, refer the JSON attachments.
 These scores were applied in **MITRE ATT&CK Navigator** to prioritize **high-risk techniques**.
 
 ---
+<div style="page-break-after: always;"></div>
+
 
 ## **5. Importance of Understanding APT Groups**  
 
-- **Enhancing Cybersecurity Defenses**: Organizations can **proactively defend** against threats by understanding APT tactics.  
-- **Threat Intelligence Application**: Security teams can **map adversary behavior** to MITRE ATT&CK to **improve detection** and threat hunting strategies to remediate.  
-- **Incident Response & Mitigation**: Knowing **common techniques** helps in **building resilient defense strategies**.  
+Studying APT tactics using **MITRE ATT&CK** improves **cybersecurity strategy** by:
+
+🔹 **Threat Intelligence Mapping** – Organizations can predict and defend against likely attack vectors. 
+🔹 **Incident Response Optimization** – Knowing common **APT techniques** helps in **faster mitigation**.  
+🔹 **Security Control Enhancements** – Defensive measures can be tailored to **detect high-scoring techniques** (e.g., credential dumping).  
+🔹 **Attack Surface Reduction** – Proactive patching and **user awareness training** can prevent phishing and initial access techniques.
+🔹**Enhancing Cybersecurity Defenses**: Organizations can **proactively defend** against threats by understanding APT tactics.  
 
 By leveraging the **MITRE ATT&CK framework**, security teams can **better anticipate, detect, and mitigate** APT attacks.
 
@@ -83,6 +114,5 @@ This analysis compared **APT29 and APT41**, highlighting their **techniques, sim
 📎 **Attached Files:**  
 - **PDF Report** (this document)  
 - JSON Files (Group 1, Group 2, Combined groups)
-- **Screenshots of MITRE ATT&CK Navigator Merged Layer**  
+- **Screenshots of MITRE ATT&CK Navigator SVG's**  
 
-📅 **Submission Deadline:** **February 25, 2025**  
