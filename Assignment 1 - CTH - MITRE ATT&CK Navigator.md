@@ -10,7 +10,7 @@ Advanced Persistent Threat (APT) groups pose significant cybersecurity risks to 
 ## **2. APT Group Identification**  
 
 Based on research and provided hints, the APT groups analyzed in this report are:  
-### **Group 1: APT29 (Cozy Bear)**  
+### **Group 1: APT28  G0007 (Fancy Bear)**  
 - **State-sponsored** cyber-espionage group linked to **Russia**.  
 - Targets **government entities, military organizations, and the defense sector**.  
 - **Common Techniques:**  
@@ -55,16 +55,17 @@ The **MITRE ATT&CK Navigator** was used to visualize and analyze attack techniqu
 ### **Key Observations**  
 - **Common techniques**: Both groups use **reconnaissance, credential access, and impact techniques**.  
 - **Differences**:  
-  - ==**APT29**== is **espionage-focused** and targets **governments** and **defense** sectors.  
+  - ==**APT28**== is **espionage-focused** and targets **governments** and **defense** sectors.  
   - ==**APT41**== conducts **both espionage and financial attacks**, including **ransomware**.  
 
-| **Aspect**             | **APT28 (Fancy Bear)**            | **APT41 (Winnti Group)**          |
-| ---------------------- | --------------------------------- | --------------------------------- |
-| **Primary Objective**  | Cyber-espionage (state-sponsored) | Espionage + Financially motivated |
-| **Initial Access**     | Phishing, public exploits         | Supply chain, stolen credentials  |
-| **Credential Dumping** | Moderate usage                    | Heavy usage                       |
-| **Lateral Movement**   | RDP, credential reuse             | Pass-the-hash, SSH abuse          |
-| **Impact Techniques**  | Network DoS (T1498)               | Ransomware (T1486)                |
+| **Aspect**             | **APT28 (Fancy Bear)**            | **APT41 (Winnti Group)**                 |
+| ---------------------- | --------------------------------- | ---------------------------------------- |
+| **Primary Objective**  | Cyber-espionage (state-sponsored) | Espionage + Financially motivated        |
+| **Sponsoring Nation**  | Russia (GRU)                      | China (State-sponsored + Financial Gain) |
+| **Initial Access**     | Phishing, public exploits         | Supply chain, stolen credentials         |
+| **Credential Dumping** | Moderate usage                    | Heavy usage                              |
+| **Lateral Movement**   | RDP, credential reuse             | Pass-the-hash, SSH abuse                 |
+| **Impact Techniques**  | Network DoS (T1498)               | Ransomware (T1486)                       |
 
 ---
 <div style="page-break-after: always;"></div>
@@ -105,7 +106,7 @@ By leveraging the **MITRE ATT&CK framework**, security teams can **better antici
 
 ## **6. Conclusion**  
 
-This analysis compared **APT29 and APT41**, highlighting their **techniques, similarities, and differences**. By using **MITRE ATT&CK Navigator**, a **scoring system** was applied to evaluate **the most impactful attack methods**. Understanding these tactics enables **stronger cyber defense measures**.
+This analysis compared **APT28 and APT41**, highlighting their **techniques, similarities, and differences**. By using **MITRE ATT&CK Navigator**, a **scoring system** was applied to evaluate **the most impactful attack methods**. Understanding these tactics enables **stronger cyber defense measures**.
 
 ---
 
