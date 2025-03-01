@@ -47,4 +47,6 @@ Access control enforces policy such that users cannot act outside of their inten
 
 # Cryptographic Failures
 
-Vulnerability arising due to misuse or lack of use of cryptographic algorithms to protect sensitive information. Like encrypting data in transit and at rest. If not properly i
+Previously known as Sensitive Data Exposure.
+
+Vulnerability arising due to misuse or lack of use of cryptographic algorithms to protect sensitive information. Like encrypting data in transit and at rest. If not properly implemented, the applications could accidentally or knowingly reveal sensitive information.
