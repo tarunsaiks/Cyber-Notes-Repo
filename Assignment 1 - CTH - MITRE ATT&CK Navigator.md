@@ -1,4 +1,7 @@
 # **MITRE ATT&CK Framework Analysis: APT Group Comparison**
+
+>[!info]
+>This assignment is done by **Tarun Sreenivasulu** for **Cyber Threat Hunting** Class in Spring 2025 at University at Albany, SUNY.
 ## **1. Introduction**  
 
 Advanced Persistent Threat (APT) groups pose significant cybersecurity risks to organizations worldwide. This report analyzes and compares the attack techniques of **two well-known APT groups** using the **MITRE ATT&CK** framework. The objective is to identify their **tactics, techniques, and tools**, visualize them using **MITRE ATT&CK Navigator**, and assign a **scoring system** to evaluate the severity and frequency of their attack techniques.
