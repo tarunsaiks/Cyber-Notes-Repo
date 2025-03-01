@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/JWT (JSON Web Token).md",
+                "file": "TryHackMe/OWASP Top 10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JWT (JSON Web Token)"
+              "title": "OWASP Top 10"
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "faf79443aa1d61df",
   "lastOpenFiles": [
-    "TryHackMe/OWASP Top 10.md",
     "TryHackMe/JWT (JSON Web Token).md",
+    "TryHackMe/OWASP Top 10.md",
     "Pasted image 20250301130321.png",
     "Pasted image 20250301130318.png",
     "Assignment 1 - CTH - MITRE ATT&CK Navigator.md",

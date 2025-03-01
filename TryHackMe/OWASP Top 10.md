@@ -44,3 +44,7 @@ Access control enforces policy such that users cannot act outside of their inten
 - Log access control failures, alert admins when appropriate (PROJECT IDEA - Write a Python script to check for repeated login failures or access failures within a timeframe say 5 mins.) #project-idea
 - Rate-limit API and controller access to minimize the damage.
 - Stateful session identifiers should be invalidated on the server after logout. Stateless [JSON Web Token (JWT)](https://www.geeksforgeeks.org/json-web-token-jwt/)should rather be short-lived so that the window of opportunity for an attacker is minimized. For longer lived JWTs it's highly recommended to follow the OAuth standards to revoke access.
+
+# Cryptographic Failures
+
+Vulnerability arising due to misuse or lack of use of cryptographic algorithms to protect sensitive information. Like encrypting data in transit and at rest. If not properly i

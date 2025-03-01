@@ -113,7 +113,47 @@ npm install express jsonwebtoken dotenv cors
 ### 📌 Generate and Verify JWT in JavaScript
 
 
-`require('dotenv').config(); const express = require('express'); const jwt = require('jsonwebtoken');  const app = express(); app.use(express.json());  const SECRET_KEY = process.env.SECRET_KEY || "your_default_secret_key";  // Generate JWT function createJWT(payload, expiresIn = "1h") {     return jwt.sign(payload, SECRET_KEY, { expiresIn }); }  // Middleware to verify JWT function verifyJWT(req, res, next) {     const token = req.headers["authorization"];     if (!token) return res.status(403).json({ error: "Token required" });      jwt.verify(token.split(" ")[1], SECRET_KEY, (err, decoded) => {         if (err) return res.status(401).json({ error: "Invalid token" });         req.user = decoded;         next();     }); }  // Public Route app.get("/", (req, res) => {     res.json({ message: "Welcome to Secure API" }); });  // Protected Route app.get("/protected", verifyJWT, (req, res) => {     res.json({ message: "Access granted", user: req.user }); });  // Start Server app.listen(5000, () => console.log("Server running on port 5000"));`
+```javascript
+require('dotenv').config();
+const express = require('express');
+const jwt = require('jsonwebtoken');
+
+const app = express();
+app.use(express.json());
+
+const SECRET_KEY = process.env.SECRET_KEY || "your_default_secret_key";
+
+// Generate JWT
+function createJWT(payload, expiresIn = "1h") {
+    return jwt.sign(payload, SECRET_KEY, { expiresIn });
+}
+
+// Middleware to verify JWT
+function verifyJWT(req, res, next) {
+    const token = req.headers["authorization"];
+    if (!token) return res.status(403).json({ error: "Token required" });
+
+    jwt.verify(token.split(" ")[1], SECRET_KEY, (err, decoded) => {
+        if (err) return res.status(401).json({ error: "Invalid token" });
+        req.user = decoded;
+        next();
+    });
+}
+
+// Public Route
+app.get("/", (req, res) => {
+    res.json({ message: "Welcome to Secure API" });
+});
+
+// Protected Route
+app.get("/protected", verifyJWT, (req, res) => {
+    res.json({ message: "Access granted", user: req.user });
+});
+
+// Start Server
+app.listen(5000, () => console.log("Server running on port 5000"));
+
+```
 
 ### 🔹 Key Security Practices in JavaScript:
 
