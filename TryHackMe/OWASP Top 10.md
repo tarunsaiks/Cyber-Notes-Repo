@@ -21,3 +21,26 @@ A regular visitor being able to access protected pages can lead to the following
 - Accessing unauthorized functionality
 
 Simply put, broken access control allows attackers to bypass **authorization**, allowing them to view sensitive data or perform tasks they aren't supposed to.
+
+**According to OWASP official site:**
+
+Access control enforces policy such that users cannot act outside of their intended permissions. Failures typically lead to unauthorized information disclosure, modification, or destruction of all data or performing a business function outside the user's limits. Common access control vulnerabilities include:
+
+- Violation of the principle of least privilege or deny by default, where access should only be granted for particular capabilities, roles, or users, but is available to anyone.
+- Bypassing access control checks by modifying the URL (parameter tampering or force browsing), internal application state, or the HTML page, or by using an attack tool modifying API requests.
+- Permitting viewing or editing someone else's account, by providing its unique identifier (insecure direct object references)
+- Accessing API with missing access controls for POST, PUT and DELETE.
+- Elevation of privilege. Acting as a user without being logged in or acting as an admin when logged in as a user.
+- Metadata manipulation, such as replaying or tampering with a JSON Web Token (JWT) access control token, or a cookie or hidden field manipulated to elevate privileges or abusing JWT invalidation.
+- CORS (Cross-Origin Resource Sharing) misconfiguration allows API access from unauthorized/untrusted origins.
+- Force browsing to authenticated pages as an unauthenticated user or to privileged pages as a standard user.
+
+How to Prevent
+- Except for public resources, use default DENY ALL.
+-  Implement Access control mechanisms once and re-use them throughout the application, including the minimal use of CORS.
+- Model access controls should enforce record ownership rather than accepting the user can perform CRUD operations on any record.
+- Unique application business limit requirements to be enforced by domain models.
+- Disable web server directory listing and ensure file metadata (e.g., .git) and backup files are not present within web roots.
+- Log access control failures, alert admins when appropriate (PROJECT IDEA - Write a Python script to check for repeated login failures or access failures within a timeframe say 5 mins.) #project-idea
+- Rate-limit API and controller access to minimize the damage.
+- Stateful session identifiers should be invalidated on the server after logout. Stateless [JSON Web Token (JWT)](https://www.geeksforgeeks.org/json-web-token-jwt/)should rather be short-lived so that the window of opportunity for an attacker is minimized. For longer lived JWTs it's highly recommended to follow the OAuth standards to revoke access.
