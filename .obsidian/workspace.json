@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#OWASP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -184,7 +185,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "faf79443aa1d61df",
+  "active": "a24ae451b2200f84",
   "lastOpenFiles": [
     "TryHackMe/JWT (JSON Web Token).md",
     "TryHackMe/OWASP Top 10.md",
