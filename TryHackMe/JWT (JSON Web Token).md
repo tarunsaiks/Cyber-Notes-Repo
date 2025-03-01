@@ -5,7 +5,7 @@
 **JWT (JSON Web Token)** is a compact, URL-safe token format used to securely transmit information between parties as a JSON object. It is commonly used for **authentication and authorization** in web applications.
 
 ### 🔹 Structure of a JWT
-
+![](../Pasted%20image%2020250301172059.png)
 A JWT consists of three parts:
 
 1. **Header**: Specifies the type of token (`JWT`) and signing algorithm (e.g., `HS256`, `RS256`).

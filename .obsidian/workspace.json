@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/OWASP Top 10.md",
+                "file": "TryHackMe/JWT (JSON Web Token).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OWASP Top 10"
+              "title": "JWT (JSON Web Token)"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#OWASP",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,10 +184,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a24ae451b2200f84",
+  "active": "faf79443aa1d61df",
   "lastOpenFiles": [
-    "TryHackMe/JWT (JSON Web Token).md",
+    "Pasted image 20250301172059.png",
     "TryHackMe/OWASP Top 10.md",
+    "TryHackMe/JWT (JSON Web Token).md",
     "Pasted image 20250301130321.png",
     "Pasted image 20250301130318.png",
     "Assignment 1 - CTH - MITRE ATT&CK Navigator.md",
@@ -232,7 +232,6 @@
     "Azure/Azure SC-200",
     "ISC2/Certified In Cybersecurity/Chapter 2/Module 2 - Understand Business Continuity.md",
     "ISC2/Certified In Cybersecurity/Chapter 2/Module 1 - Understand Incident Response.md",
-    "ISC2/Certified In Cybersecurity/Chapter 2/Module 3 - Understand Disaster Recovery.md",
     "Untitled.canvas"
   ]
 }
