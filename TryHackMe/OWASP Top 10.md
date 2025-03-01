@@ -11,7 +11,7 @@ The list of OWASP Top 10 vulnerabilities identified according to 2021.
 10. Server-Side Request Forgery (SSRF)
 
 ![](../Pasted%20image%2020250301130321.png)
-## Broken Access Control
+# Broken Access Control
 
 In simple words,  only the site's admin user should be able to access a page to manage other users. If a website visitor can access protected pages they are not meant to see, then the access controls are broken.
 
@@ -22,7 +22,7 @@ A regular visitor being able to access protected pages can lead to the following
 
 Simply put, broken access control allows attackers to bypass **authorization**, allowing them to view sensitive data or perform tasks they aren't supposed to.
 
-**According to OWASP official site:**
+## OWASP Definition - Broken Access Control
 
 Access control enforces policy such that users cannot act outside of their intended permissions. Failures typically lead to unauthorized information disclosure, modification, or destruction of all data or performing a business function outside the user's limits. Common access control vulnerabilities include:
 
@@ -35,7 +35,7 @@ Access control enforces policy such that users cannot act outside of their inten
 - CORS (Cross-Origin Resource Sharing) misconfiguration allows API access from unauthorized/untrusted origins.
 - Force browsing to authenticated pages as an unauthenticated user or to privileged pages as a standard user.
 
-How to Prevent
+## How to Prevent
 - Except for public resources, use default DENY ALL.
 -  Implement Access control mechanisms once and re-use them throughout the application, including the minimal use of CORS.
 - Model access controls should enforce record ownership rather than accepting the user can perform CRUD operations on any record.
