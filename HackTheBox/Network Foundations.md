@@ -45,3 +45,12 @@ A home LAN connects to an Internet Service Provider's (ISP) WAN, granting intern
 # Network Concepts
 
 Everything we see that is Internet today, is built on top of **TCP/IP** stack. #TCP/IP
+
+But OSI model is a conceptual framework that standardizes the functions of a network into seven layers. 
+1. Physical - raw bit streams over physical medium; Ethernet cables, hubs and repeaters.
+2. Data Link - node-to-node transfer; data frames transmitted over proper synchronization and error detection and correction; Switches and bridges operate using MAC (Media Access Control) addresses to identify network devices; MAC Table
+3. Network - Packets; Packet forwarding and path determination, using routing tables; IP addresses to identify devices and determine most efficient path and transmission.
+4. Transport - end-to-end communication services for applications, responsible for reliability of 
+5. Session
+6. Presentation
+7. Application
