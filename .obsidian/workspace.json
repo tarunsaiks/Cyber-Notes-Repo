@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aaf4f25364fd4408",
+        "id": "23557457ed4fb14b",
         "type": "tabs",
         "children": [
           {
-            "id": "28ca5513fad717bb",
+            "id": "89991332d10ecbd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#IP",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,11 +184,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a24ae451b2200f84",
+  "active": "89991332d10ecbd7",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "HackTheBox/Network Foundations.md",
     "Pasted image 20250312142200.png",
     "Pasted image 20250312142027.png",
-    "HackTheBox/Network Foundations.md",
     "TryHackMe/JWT (JSON Web Token).md",
     "Pasted image 20250301172059.png",
     "TryHackMe/OWASP Top 10.md",
@@ -204,7 +205,6 @@
     "Belkasoft/Notes.md",
     "group_2 1.json",
     "group_2.json",
-    "Group_2.svg",
     "HackTheBox/SOC Analyst Path/2. SIEM and SOC Fundamentals.md",
     "Azure/SC 900/5. Describe access management capabilities of Microsoft Entra.md",
     "Belkasoft",
@@ -232,7 +232,6 @@
     "Security+/Security+ Info.md",
     "Azure/Azure SC-200/Mitigate Threats using Microsoft Defender XDR",
     "Azure/Azure SC-200",
-    "ISC2/Certified In Cybersecurity/Chapter 2/Module 2 - Understand Business Continuity.md",
-    "Untitled.canvas"
+    "ISC2/Certified In Cybersecurity/Chapter 2/Module 2 - Understand Business Continuity.md"
   ]
 }

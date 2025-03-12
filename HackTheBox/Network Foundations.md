@@ -44,4 +44,4 @@ A home LAN connects to an Internet Service Provider's (ISP) WAN, granting intern
 
 # Network Concepts
 
-Everything we see that is Internet today, is built on top of **TCP/IP** stack. #TCP #IP
+Everything we see that is Internet today, is built on top of **TCP/IP** stack. #TCP/IP
