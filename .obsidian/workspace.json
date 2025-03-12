@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8c2c4d4c3fc71ff7",
+        "id": "aaf4f25364fd4408",
         "type": "tabs",
         "children": [
           {
-            "id": "faf79443aa1d61df",
+            "id": "28ca5513fad717bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/JWT (JSON Web Token).md",
+                "file": "HackTheBox/Network Foundations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JWT (JSON Web Token)"
+              "title": "Network Foundations"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#IP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -184,11 +185,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "faf79443aa1d61df",
+  "active": "a24ae451b2200f84",
   "lastOpenFiles": [
+    "Pasted image 20250312142200.png",
+    "Pasted image 20250312142027.png",
+    "HackTheBox/Network Foundations.md",
+    "TryHackMe/JWT (JSON Web Token).md",
     "Pasted image 20250301172059.png",
     "TryHackMe/OWASP Top 10.md",
-    "TryHackMe/JWT (JSON Web Token).md",
     "Pasted image 20250301130321.png",
     "Pasted image 20250301130318.png",
     "Assignment 1 - CTH - MITRE ATT&CK Navigator.md",
@@ -201,7 +205,6 @@
     "group_2 1.json",
     "group_2.json",
     "Group_2.svg",
-    "Group_1.svg",
     "HackTheBox/SOC Analyst Path/2. SIEM and SOC Fundamentals.md",
     "Azure/SC 900/5. Describe access management capabilities of Microsoft Entra.md",
     "Belkasoft",
@@ -209,7 +212,6 @@
     "Azure/SC 900/3. Describe the capabilities of Microsoft Entra.md",
     "Azure/SC 900/2. Describe identity concepts.md",
     "idea.css",
-    "Pasted image 20250217135527.png",
     "Azure/SC 900/1. Describe the concepts of security, compliance, and identity.md",
     "Bug Bounty/OWASP Top 10/Broken Access Control.md",
     "AWS Solutions Architect/1. IAM and AWS CLI.md",
@@ -231,7 +233,6 @@
     "Azure/Azure SC-200/Mitigate Threats using Microsoft Defender XDR",
     "Azure/Azure SC-200",
     "ISC2/Certified In Cybersecurity/Chapter 2/Module 2 - Understand Business Continuity.md",
-    "ISC2/Certified In Cybersecurity/Chapter 2/Module 1 - Understand Incident Response.md",
     "Untitled.canvas"
   ]
 }
