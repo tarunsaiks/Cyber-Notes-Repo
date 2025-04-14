@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HackTheBox/SOC Analyst Path/2. SIEM and SOC Fundamentals.md",
+                "file": "TryHackMe/Cyber Threat Intelligence/Intro to Cyber Threat Intel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. SIEM and SOC Fundamentals"
+              "title": "Intro to Cyber Threat Intel"
             }
           }
         ]
@@ -198,6 +198,9 @@
   },
   "active": "89991332d10ecbd7",
   "lastOpenFiles": [
+    "TryHackMe/Cyber Threat Intelligence/Threat Intel Tools.md",
+    "TryHackMe/Cyber Threat Intelligence/Intro to Cyber Threat Intel.md",
+    "HackTheBox/SOC Analyst Path/2. SIEM and SOC Fundamentals.md",
     "HackTheBox/SOC Analyst Path/1. Incident Handling Process.md",
     "HackTheBox/Network Foundations.md",
     "Untitled 1.canvas",
@@ -218,7 +221,6 @@
     "Belkasoft/Notes.md",
     "group_2 1.json",
     "group_2.json",
-    "HackTheBox/SOC Analyst Path/2. SIEM and SOC Fundamentals.md",
     "Azure/SC 900/5. Describe access management capabilities of Microsoft Entra.md",
     "Belkasoft",
     "Azure/SC 900/4. Describe the authentication capabilities of Microsoft Entra ID.md",
@@ -243,7 +245,6 @@
     "Azure/Azure 900/1.Describe Cloud Concepts/Azure Fundamentals - Describe Benefits of Cloud Services.md",
     "Security+/Security+ Info.md",
     "Azure/Azure SC-200/Mitigate Threats using Microsoft Defender XDR",
-    "Azure/Azure SC-200",
-    "ISC2/Certified In Cybersecurity/Chapter 2/Module 2 - Understand Business Continuity.md"
+    "Azure/Azure SC-200"
   ]
 }
