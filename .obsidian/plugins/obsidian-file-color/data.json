@@ -1,0 +1,37 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "bCZV9vfiH8W2q-3evRrRn",
+      "name": "WHITE",
+      "value": "#ffffff"
+    },
+    {
+      "id": "hUU43MiRiDYsU9RTRTat8",
+      "name": "Light Blue",
+      "value": "#0762f2"
+    },
+    {
+      "id": "0sGHne7VsrZ6yKIt-eWn9",
+      "name": "Terminal Green",
+      "value": "#26f50a"
+    },
+    {
+      "id": "sLhOkKJsjYNGAd6QGwLtb",
+      "name": "Lemon",
+      "value": "#faf205"
+    },
+    {
+      "id": "t_XRliW-xa6lUs-ScPZ_k",
+      "name": "Pink",
+      "value": "#ed02da"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Azure",
+      "color": "hUU43MiRiDYsU9RTRTat8"
+    }
+  ]
+}
