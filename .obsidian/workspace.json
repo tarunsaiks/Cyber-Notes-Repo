@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Cyber Threat Intelligence/Intro to Cyber Threat Intel.md",
+                "file": "HackTheBox/SOC Analyst Path/2. SIEM and SOC Fundamentals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intro to Cyber Threat Intel"
+              "title": "2. SIEM and SOC Fundamentals"
             }
           }
         ]
@@ -198,8 +198,8 @@
   },
   "active": "89991332d10ecbd7",
   "lastOpenFiles": [
-    "TryHackMe/Cyber Threat Intelligence/Threat Intel Tools.md",
     "TryHackMe/Cyber Threat Intelligence/Intro to Cyber Threat Intel.md",
+    "TryHackMe/Cyber Threat Intelligence/Threat Intel Tools.md",
     "HackTheBox/SOC Analyst Path/2. SIEM and SOC Fundamentals.md",
     "HackTheBox/SOC Analyst Path/1. Incident Handling Process.md",
     "HackTheBox/Network Foundations.md",
