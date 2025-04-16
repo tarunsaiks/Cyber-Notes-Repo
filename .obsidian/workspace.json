@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HackTheBox/SOC Analyst Path/2. SIEM and SOC Fundamentals.md",
+                "file": "HackTheBox/SOC Analyst Path/3. Windows Event Logs & Finding Evil.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. SIEM and SOC Fundamentals"
+              "title": "3. Windows Event Logs & Finding Evil"
             }
           }
         ]
@@ -198,8 +198,11 @@
   },
   "active": "89991332d10ecbd7",
   "lastOpenFiles": [
-    "HackTheBox/Network Foundations.md",
+    "Pasted image 20250415200244.png",
+    "Pasted image 20250415200108.png",
     "HackTheBox/SOC Analyst Path/2. SIEM and SOC Fundamentals.md",
+    "HackTheBox/SOC Analyst Path/3. Windows Event Logs & Finding Evil.md",
+    "HackTheBox/Network Foundations.md",
     "Pasted image 20250415191735.png",
     "TryHackMe/Cyber Threat Intelligence/Intro to Cyber Threat Intel.md",
     "TryHackMe/Cyber Threat Intelligence/Threat Intel Tools.md",
@@ -217,7 +220,6 @@
     "combined_group_final.svg",
     "Group_2 (1).svg",
     "Group_1 (1).svg",
-    "Group_2 - Copy.svg",
     "Belkasoft/Notes.md",
     "group_2 1.json",
     "group_2.json",
@@ -242,7 +244,6 @@
     "HackTheBox/SOC Analyst Path",
     "HackTheBox",
     "Azure/Azure 900/1.Describe Cloud Concepts/Azure Fundamentals - Describe Cloud Computing.md",
-    "Azure/Azure 900/1.Describe Cloud Concepts/Azure Fundamentals - Describe Benefits of Cloud Services.md",
     "Azure/Azure SC-200/Mitigate Threats using Microsoft Defender XDR",
     "Azure/Azure SC-200"
   ]
