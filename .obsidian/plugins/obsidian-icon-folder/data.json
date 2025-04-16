@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiWindowsxp",
       "SiLinux",
       "SiHackthebox",
       "SiMicrosoftazure"
@@ -34,5 +35,6 @@
   },
   "Azure": "SiMicrosoftazure",
   "HackTheBox": "SiHackthebox",
-  "Linux": "SiLinux"
+  "Linux": "SiLinux",
+  "HackTheBox/SOC Analyst Path/3. Windows Event Logs & Finding Evil.md": "SiWindowsxp"
 }
