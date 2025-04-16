@@ -1,11 +1,12 @@
 {
   "accentColor": "#ff7b00",
   "textFontFamily": "Calibri,Cascadia Code",
-  "baseFontSize": 18,
+  "baseFontSize": 17,
   "baseFontSizeAction": true,
   "nativeMenus": false,
   "cssTheme": "Obsidianite",
   "enabledCssSnippets": [
     "idea"
-  ]
+  ],
+  "theme": "obsidian"
 }
