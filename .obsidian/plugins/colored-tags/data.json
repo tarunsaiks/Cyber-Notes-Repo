@@ -115,7 +115,9 @@
     "event_logging": 102,
     "event-id": 103,
     "event-logging": 104,
-    "event-viewer": 105
+    "event-viewer": 105,
+    "Sysmon": 106,
+    "sysmon": 107
   },
   "_version": 3
 }
