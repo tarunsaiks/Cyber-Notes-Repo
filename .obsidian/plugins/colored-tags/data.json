@@ -108,7 +108,14 @@
     "sensitive-data-exposure": 95,
     "password-management": 96,
     "sql-injection": 97,
-    "Command-Injection": 98
+    "Command-Injection": 98,
+    "custom_xml_queries": 99,
+    "event_viewer": 100,
+    "windows": 101,
+    "event_logging": 102,
+    "event-id": 103,
+    "event-logging": 104,
+    "event-viewer": 105
   },
   "_version": 3
 }
