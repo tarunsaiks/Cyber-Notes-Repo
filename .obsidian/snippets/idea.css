@@ -23,6 +23,11 @@
     --callout-icon: lucide-bell-ring;
 }
 
+.callout[data-callout="watch-for"] {
+    --callout-color: 215, 0, 64;
+    --callout-icon: lucide-scan-eye;
+}
+
 /* === Cybersecurity Callouts === */
 
 .callout[data-callout="ttp"] {
