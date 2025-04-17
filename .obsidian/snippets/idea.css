@@ -69,3 +69,8 @@
     --callout-color: 34, 139, 34;
     --callout-icon: lucide-shield-check;
 }
+
+.callout[data-callout="resource"] {
+    --callout-color: 0, 191, 255;
+    --callout-icon: lucide-globe;
+}
