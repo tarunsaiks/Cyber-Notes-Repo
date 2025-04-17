@@ -74,3 +74,8 @@
     --callout-color: 0, 191, 255;
     --callout-icon: lucide-globe;
 }
+
+.callout[data-callout="keywords"] {
+    --callout-color: 255, 255, 0;
+    --callout-icon: lucide-key-round;
+}
