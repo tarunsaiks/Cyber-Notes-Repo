@@ -7,3 +7,65 @@
     --callout-color: 128, 128, 128;
     --callout-icon: lucide-timer;
 }
+
+.callout[data-callout="tldr"] {
+    --callout-color: 230, 138, 255;
+    --callout-icon: lucide-zap;
+}
+
+.callout[data-callout="like"] {
+    --callout-color: 0,159,227;
+    --callout-icon: lucide-thumbs-up;
+}
+
+/* === Cybersecurity Callouts === */
+
+.callout[data-callout="ttp"] {
+    --callout-color: 255, 165, 0;
+    --callout-icon: lucide-crosshair;
+}
+
+.callout[data-callout="ioc"] {
+    --callout-color: 255, 99, 132;
+    --callout-icon: lucide-terminal;
+}
+
+.callout[data-callout="alert"] {
+    --callout-color: 255, 69, 0;
+    --callout-icon: lucide-alert-triangle;
+}
+
+.callout[data-callout="intel"] {
+    --callout-color: 75, 0, 130;
+    --callout-icon: lucide-shield;
+}
+
+.callout[data-callout="tool"] {
+    --callout-color: 70, 130, 180;
+    --callout-icon: lucide-terminal-square;
+}
+
+.callout[data-callout="policy"] {
+    --callout-color: 0, 123, 255;
+    --callout-icon: lucide-file-text;
+}
+
+.callout[data-callout="ircase"] {
+    --callout-color: 220, 20, 60;
+    --callout-icon: lucide-folder-search;
+}
+
+.callout[data-callout="detection"] {
+    --callout-color: 0, 206, 209;
+    --callout-icon: lucide-radar;
+}
+
+.callout[data-callout="triage"] {
+    --callout-color: 255, 215, 0;
+    --callout-icon: lucide-flowchart;
+}
+
+.callout[data-callout="defense"] {
+    --callout-color: 34, 139, 34;
+    --callout-icon: lucide-shield-check;
+}
