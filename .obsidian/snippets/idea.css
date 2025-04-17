@@ -37,7 +37,7 @@
 
 .callout[data-callout="ioc"] {
     --callout-color: 255, 99, 132;
-    --callout-icon: lucide-terminal;
+    --callout-icon: lucide-shield-alert;
 }
 
 .callout[data-callout="alert"] {
