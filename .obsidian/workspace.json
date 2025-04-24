@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HackTheBox/SOC Analyst Path/3. Windows Event Logs & Finding Evil.md",
+                "file": "HackTheBox/Introduction to Bash Scripting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Windows Event Logs & Finding Evil"
+              "title": "Introduction to Bash Scripting"
             }
           }
         ],
@@ -213,12 +213,13 @@
   },
   "active": "9eafa3b03d4cf087",
   "lastOpenFiles": [
+    "HackTheBox/SOC Analyst Path/3. Windows Event Logs & Finding Evil.md",
+    "HackTheBox/Introduction to Bash Scripting.md",
     "Pasted image 20250416204113.png",
     "Pasted image 20250416204055.png",
     "Pasted image 20250416194614.png",
     "Pasted image 20250416194426.png",
     "Untitled 2.md",
-    "HackTheBox/SOC Analyst Path/3. Windows Event Logs & Finding Evil.md",
     "ACL - Windows.md",
     "HackTheBox/SOC Analyst Path/2. SIEM and SOC Fundamentals.md",
     "Pasted image 20250415201631.png",
@@ -228,7 +229,6 @@
     "Untitled 1.md",
     "Pasted image 20250415200524.png",
     "Pasted image 20250415200403.png",
-    "Pasted image 20250415200321.png",
     "HackTheBox/Network Foundations.md",
     "TryHackMe/Cyber Threat Intelligence/Intro to Cyber Threat Intel.md",
     "TryHackMe/Cyber Threat Intelligence/Threat Intel Tools.md",
