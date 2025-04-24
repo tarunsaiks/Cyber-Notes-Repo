@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "9eafa3b03d4cf087",
+            "id": "65ff730ac6f1ac7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -211,10 +211,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "9eafa3b03d4cf087",
+  "active": "65ff730ac6f1ac7b",
   "lastOpenFiles": [
     "HackTheBox/SOC Analyst Path/3. Windows Event Logs & Finding Evil.md",
     "HackTheBox/Introduction to Bash Scripting.md",
+    "HackTheBox/Network Foundations.md",
     "Pasted image 20250416204113.png",
     "Pasted image 20250416204055.png",
     "Pasted image 20250416194614.png",
@@ -229,7 +230,6 @@
     "Untitled 1.md",
     "Pasted image 20250415200524.png",
     "Pasted image 20250415200403.png",
-    "HackTheBox/Network Foundations.md",
     "TryHackMe/Cyber Threat Intelligence/Intro to Cyber Threat Intel.md",
     "TryHackMe/Cyber Threat Intelligence/Threat Intel Tools.md",
     "HackTheBox/SOC Analyst Path/1. Incident Handling Process.md",
