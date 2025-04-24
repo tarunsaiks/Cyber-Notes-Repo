@@ -98,7 +98,18 @@ esac
 	- contains path to specified interpreter (`/bin/bash`)
 - `if-else-fi` -
 	- Conditional execution.
-	- `if [ $value -gt "10" ]` -- if $value is grea
+	- `if [ $value -gt "10" ]` -- if $value is greater than "10"
+```bash
+if [ $value -gt "10" ] # if statement with condition true, then --
+then
+	echo "Given argument is greater than 10."
+elif [ $value -lt "10" ] # else if - condition - then
+then
+	echo "Given argument is less than 10."
+else # else -- condition
+	echo "Given argument is not a number."
+fi - # end of if
+```
 - `echo` - Prints specific output.
 - `$#` / `$0` / `$1` - Special variables.
 - `domain` - Variables.
