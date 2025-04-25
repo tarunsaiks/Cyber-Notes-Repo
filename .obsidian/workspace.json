@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "3. Windows Event Logs & Finding Evil"
             }
-          },
-          {
-            "id": "6b26a7e875a433ae",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,7 +211,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "6b26a7e875a433ae",
+  "active": "65ff730ac6f1ac7b",
   "lastOpenFiles": [
     "HackTheBox/Introduction to Bash Scripting.md",
     "HackTheBox/SOC Analyst Path/3. Windows Event Logs & Finding Evil.md",
