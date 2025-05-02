@@ -117,7 +117,8 @@
     "event-logging": 104,
     "event-viewer": 105,
     "Sysmon": 106,
-    "sysmon": 107
+    "sysmon": 107,
+    "yara": 108
   },
   "_version": 3
 }

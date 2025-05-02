@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HackTheBox/SOC Analyst Path/3. Windows Event Logs & Finding Evil.md",
+                "file": "HackTheBox/SOC Analyst Path/YARA and Sigma for SOC Analysts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Windows Event Logs & Finding Evil"
+              "title": "YARA and Sigma for SOC Analysts"
             }
           }
         ],
@@ -213,8 +213,10 @@
   },
   "active": "65ff730ac6f1ac7b",
   "lastOpenFiles": [
-    "HackTheBox/Introduction to Bash Scripting.md",
+    "Pasted image 20250502195133.png",
     "HackTheBox/SOC Analyst Path/3. Windows Event Logs & Finding Evil.md",
+    "HackTheBox/SOC Analyst Path/YARA and Sigma for SOC Analysts.md",
+    "HackTheBox/Introduction to Bash Scripting.md",
     "HackTheBox/Network Foundations.md",
     "Pasted image 20250416204113.png",
     "Pasted image 20250416204055.png",
@@ -253,8 +255,6 @@
     "AWS Solutions Architect/0. Getting Started with AWS.md",
     "TryHackMe/Active Directory Basics.md",
     "Some Key things to remember.md",
-    "Azure/SC 900/Exam Objectives.md",
-    "2025-01-28.md",
     "Azure/SC 900",
     "Azure",
     "HackTheBox/SOC Analyst Path",
