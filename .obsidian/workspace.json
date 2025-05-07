@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HackTheBox/SOC Analyst Path/YARA and Sigma for SOC Analysts.md",
+                "file": "HackTheBox/SOC Analyst Path/3. Windows Event Logs & Finding Evil.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "YARA and Sigma for SOC Analysts"
+              "title": "3. Windows Event Logs & Finding Evil"
             }
           }
         ],
@@ -213,9 +213,9 @@
   },
   "active": "65ff730ac6f1ac7b",
   "lastOpenFiles": [
+    "HackTheBox/SOC Analyst Path/YARA and Sigma for SOC Analysts.md",
     "Pasted image 20250502195133.png",
     "HackTheBox/SOC Analyst Path/3. Windows Event Logs & Finding Evil.md",
-    "HackTheBox/SOC Analyst Path/YARA and Sigma for SOC Analysts.md",
     "HackTheBox/Introduction to Bash Scripting.md",
     "HackTheBox/Network Foundations.md",
     "Pasted image 20250416204113.png",
@@ -231,7 +231,6 @@
     "Pasted image 20250415200847.png",
     "Untitled 1.md",
     "Pasted image 20250415200524.png",
-    "Pasted image 20250415200403.png",
     "TryHackMe/Cyber Threat Intelligence/Intro to Cyber Threat Intel.md",
     "TryHackMe/Cyber Threat Intelligence/Threat Intel Tools.md",
     "HackTheBox/SOC Analyst Path/1. Incident Handling Process.md",
