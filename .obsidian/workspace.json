@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "23557457ed4fb14b",
+        "id": "cad3d7a067538b3c",
         "type": "tabs",
         "children": [
           {
-            "id": "89991332d10ecbd7",
+            "id": "55564cdd49b77366",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HackTheBox/SOC Analyst Path/3. Windows Event Logs & Finding Evil.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "3. Windows Event Logs & Finding Evil"
-            }
-          },
-          {
-            "id": "65ff730ac6f1ac7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HackTheBox/SOC Analyst Path/3. Windows Event Logs & Finding Evil.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Windows Event Logs & Finding Evil"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,11 +192,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "65ff730ac6f1ac7b",
+  "active": "ce7cbc096c348b06",
   "lastOpenFiles": [
+    "HackTheBox/SOC Analyst Path/3. Windows Event Logs & Finding Evil.md",
     "HackTheBox/SOC Analyst Path/YARA and Sigma for SOC Analysts.md",
     "Pasted image 20250502195133.png",
-    "HackTheBox/SOC Analyst Path/3. Windows Event Logs & Finding Evil.md",
     "HackTheBox/Introduction to Bash Scripting.md",
     "HackTheBox/Network Foundations.md",
     "Pasted image 20250416204113.png",
