@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HackTheBox/Sherlocks/meerkat 1.md",
+                "file": "HackTheBox/Sherlocks/meerkat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "meerkat 1"
+              "title": "meerkat"
             }
           }
         ]
@@ -199,8 +199,8 @@
   },
   "active": "55564cdd49b77366",
   "lastOpenFiles": [
-    "HackTheBox/Sherlocks/meerkat.md",
     "HackTheBox/Sherlocks/meerkat 1.md",
+    "HackTheBox/Sherlocks/meerkat.md",
     "HackTheBox/Sherlocks",
     "HackTheBox/SOC Analyst Path/3. Windows Event Logs & Finding Evil.md",
     "HackTheBox/SOC Analyst Path/YARA and Sigma for SOC Analysts.md",
