@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Engineering - Transition Plan.md",
+                "file": "Security-Engineering - Transition Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Security Engineering - Transition Plan"
+              "title": "Security-Engineering - Transition Plan"
             }
           }
         ],
@@ -212,10 +212,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "eacda2d99bdc3ff6",
+  "active": "ce7cbc096c348b06",
   "lastOpenFiles": [
     "HackTheBox/Sherlocks/meerkat.md",
-    "Security Engineering - Transition Plan.md",
+    "Security-Engineering - Transition Plan.md",
     "HackTheBox/Sherlocks/meerkat 1.md",
     "HackTheBox/Sherlocks",
     "HackTheBox/SOC Analyst Path/3. Windows Event Logs & Finding Evil.md",
